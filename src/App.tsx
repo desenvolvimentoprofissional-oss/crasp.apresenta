@@ -1,6 +1,6 @@
 import { useEffect, useRef } from 'react';
 import {
-  ArrowDown, ArrowLeft, ArrowRight, ArrowUpRight, BookOpen, FileText, Globe2, GraduationCap,
+  ArrowDown, ArrowLeft, ArrowRight, ArrowUpRight, BookOpen, FileText, Globe2, GraduationCap, Headphones,
   Leaf, Play, Table2, Workflow,
 } from 'lucide-react';
 import { DocumentReader } from './DocumentReader';
@@ -8,6 +8,8 @@ import { MatrixReader } from './MatrixReader';
 import type { Document, Matrix, Material } from './materialTypes';
 import { mountPlaylist } from './playlist';
 import './playlist.css';
+import './media.css';
+import { componentPlaylist, componentPodcast } from './data/componentMedia';
 import matrixData from './data/matrices.json';
 import documentData from './data/documents.json';
 
@@ -85,16 +87,41 @@ function MaterialPage({ material }: { material: Material }) {
 }
 
 function PlaylistSection() {
-  const playlist = useRef<HTMLDivElement>(null);
+  const component = useRef<HTMLDivElement>(null);
+  const pdp = useRef<HTMLDivElement>(null);
   useEffect(() => {
-    if (!playlist.current) return;
+    if (!component.current || !pdp.current) return;
     const editor = new URLSearchParams(window.location.search).get('editar-playlist') === '1';
-    return mountPlaylist(playlist.current, { editor, playlistUrl: import.meta.env.BASE_URL + 'playlist.json' });
+    const unmountComponent = mountPlaylist(component.current, {
+      editor: false, initialPlaylist: componentPlaylist, playlistUrl: false, sharedLinks: false,
+    });
+    const unmountPdp = mountPlaylist(pdp.current, { editor, playlistUrl: import.meta.env.BASE_URL + 'playlist.json' });
+    return () => {
+      unmountComponent();
+      unmountPdp();
+    };
   }, []);
   return (
     <section className="shell section playlist-section" id="videoaulas" aria-labelledby="videoaulas-titulo">
-      <h2 className="section-title" id="videoaulas-titulo">Playlist de videoaulas</h2>
-      <div ref={playlist} />
+      <h2 className="section-title" id="videoaulas-titulo">Videoaulas e podcast</h2>
+      <div className="media-collections">
+        <section className="media-collection" id="videoaulas-componente" aria-label="Componente Curricular de ASG e ODS">
+          <p className="media-context">Componente Curricular de ASG e ODS</p>
+          <div ref={component} />
+          <a className="podcast-link" href={componentPodcast.url} target="_blank" rel="noopener noreferrer">
+            <span className="podcast-icon"><Headphones size={22} strokeWidth={1.55} aria-hidden="true" /></span>
+            <span className="podcast-copy">
+              <span>Podcast</span>
+              <strong>{componentPodcast.title}</strong>
+            </span>
+            <span className="podcast-action">Ouvir no SharePoint <ArrowUpRight size={16} aria-hidden="true" /></span>
+          </a>
+        </section>
+        <section className="media-collection" id="videoaulas-pdp" aria-label="Programa de Desenvolvimento Profissional">
+          <p className="media-context">Programa de Desenvolvimento Profissional</p>
+          <div ref={pdp} />
+        </section>
+      </div>
     </section>
   );
 }
@@ -108,7 +135,7 @@ export default function App() {
       return;
     }
     const section = window.location.hash.slice(1);
-    if (['materiais', 'documentos', 'videoaulas'].includes(section)) {
+    if (['materiais', 'documentos', 'videoaulas', 'videoaulas-componente', 'videoaulas-pdp'].includes(section)) {
       document.getElementById(section)?.scrollIntoView({ block: 'start', behavior: 'instant' });
     }
   }, [materialTitle]);
@@ -147,7 +174,7 @@ export default function App() {
               </a>
               <a className="hero-button" href="#videoaulas">
                 <Play aria-hidden="true" size={19} />
-                Videoaulas
+                Videoaulas e podcast
                 <ArrowRight aria-hidden="true" size={17} />
               </a>
             </div>
@@ -181,6 +208,15 @@ export default function App() {
                         </a>
                       </li>
                     ))}
+                    {id === 'asg-ods' && (
+                      <li>
+                        <a className="resource" href="#videoaulas-componente">
+                          <Play className="resource-icon" size={18} aria-hidden="true" />
+                          <span><strong>Videoaulas e podcast</strong></span>
+                          <ArrowDown size={16} aria-hidden="true" />
+                        </a>
+                      </li>
+                    )}
                     {id === 'pdp' && (
                       <>
                         <li>
@@ -191,9 +227,9 @@ export default function App() {
                           </a>
                         </li>
                         <li>
-                          <a className="resource" href="#videoaulas">
+                          <a className="resource" href="#videoaulas-pdp">
                             <Play className="resource-icon" size={18} aria-hidden="true" />
-                            <span><strong>Trilha IA para Administradores</strong></span>
+                            <span><strong>Amostras da trilha de IA</strong></span>
                             <ArrowDown size={16} aria-hidden="true" />
                           </a>
                         </li>

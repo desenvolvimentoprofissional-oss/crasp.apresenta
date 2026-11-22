@@ -29,8 +29,9 @@
 
 .playlist-name {
   margin: 0 auto 0 0;
-  font-size: 1.125rem;
-  line-height: 1.35;
+  font-size: 1.08rem;
+  font-weight: 600;
+  line-height: 1.4;
   overflow-wrap: anywhere;
 }
 .playlist-metadata { margin-right: auto; min-width: 0; }
@@ -38,7 +39,7 @@
   margin: .3rem 0 0;
   color: var(--playlist-muted);
   font-size: .93rem;
-  line-height: 1.45;
+  line-height: 1.55;
 }
 
 .playlist-viewer {
@@ -102,6 +103,7 @@
 
 .playlist-video-info {
   padding: .8rem 1rem;
+  line-height: 1.45;
   overflow-wrap: anywhere;
 }
 
@@ -157,7 +159,7 @@
   text-align: left;
   font: inherit;
   font-size: .9375rem;
-  font-weight: 600;
+  font-weight: 550;
   overflow-wrap: anywhere;
   cursor: pointer;
 }
@@ -186,7 +188,7 @@
   background: #fff;
   font: inherit;
   font-size: .875rem;
-  font-weight: 600;
+  font-weight: 550;
   line-height: 1.2;
   cursor: pointer;
 }
@@ -240,7 +242,9 @@
 
 .playlist-editor-header h3 {
   margin: 0;
-  font-size: 1.25rem;
+  font-size: 1.15rem;
+  font-weight: 600;
+  line-height: 1.35;
 }
 
 .playlist-field {
@@ -249,7 +253,7 @@
   min-width: 0;
   color: var(--playlist-muted);
   font-size: .875rem;
-  font-weight: 600;
+  font-weight: 550;
 }
 
 .playlist-field input,

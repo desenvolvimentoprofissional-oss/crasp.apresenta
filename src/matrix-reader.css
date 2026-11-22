@@ -66,7 +66,7 @@
 }
 
 .matrix-reader__counts > div { display: flex; align-items: baseline; gap: .3rem; }
-.matrix-reader__counts dd { order: -1; margin: 0; color: var(--matrix-ink); font-weight: 700; }
+.matrix-reader__counts dd { order: -1; margin: 0; color: var(--matrix-ink); font-weight: 600; }
 
 .matrix-reader__notes-link {
   display: inline-flex;
@@ -75,7 +75,7 @@
   min-height: 2.75rem;
   color: var(--matrix-ink);
   font-size: .9rem;
-  font-weight: 700;
+  font-weight: 550;
   text-decoration-thickness: 1px;
   text-underline-offset: 4px;
 }
@@ -109,6 +109,7 @@
 .matrix-reader__index h2 {
   margin: 0 .55rem .9rem;
   font-size: 1.07rem;
+  font-weight: 600;
   line-height: 1.25;
 }
 
@@ -122,7 +123,7 @@
   margin: 0 .55rem .25rem;
   color: var(--matrix-muted);
   font-size: .81rem;
-  font-weight: 700;
+  font-weight: 550;
   line-height: 1.35;
   overflow-wrap: anywhere;
 }
@@ -152,7 +153,7 @@
 .matrix-reader__index-list button[aria-current="true"] {
   color: var(--matrix-ink);
   background: var(--matrix-tint);
-  font-weight: 700;
+  font-weight: 600;
 }
 .matrix-reader__index-list button:focus-visible { outline-offset: -2px; }
 .matrix-reader__index-number { color: #526c88; font-variant-numeric: tabular-nums; }
@@ -174,15 +175,16 @@
   margin: 0 0 .35rem;
   color: #255781;
   font-size: .91rem;
-  font-weight: 700;
+  font-weight: 550;
   line-height: 1.38;
 }
 
 .matrix-reader__dimension h2,
 .matrix-reader__notes h2 {
-  font-size: clamp(1.32rem, 2.2vw, 1.9rem);
-  line-height: 1.18;
-  letter-spacing: -.025em;
+  font-size: clamp(1.28rem, 2vw, 1.68rem);
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -.022em;
   scroll-margin-top: 1.2rem;
 }
 
@@ -200,7 +202,7 @@
 .matrix-reader__fields dt,
 .matrix-reader__notes dt {
   color: var(--matrix-ink);
-  font-weight: 700;
+  font-weight: 600;
   font-size: .95rem;
   line-height: 1.48;
 }
@@ -211,16 +213,16 @@
   margin: 0;
   color: #304762;
   font-size: clamp(.97rem, 1.18vw, 1.08rem);
-  line-height: 1.62;
+  line-height: 1.67;
   white-space: pre-line;
 }
 
 .matrix-reader__points { padding-top: 1.1rem; }
-.matrix-reader__points h3 { margin: 0; color: var(--matrix-ink); font-size: 1.09rem; line-height: 1.38; }
+.matrix-reader__points h3 { margin: 0; color: var(--matrix-ink); font-size: 1.09rem; font-weight: 600; line-height: 1.4; }
 .matrix-reader__points ol { margin: .6rem 0 0; padding-left: 1.6rem; }
 .matrix-reader__points li { padding-inline-start: .2rem; }
 .matrix-reader__points li + li { margin-top: .16rem; }
-.matrix-reader__points li::marker { color: #365f89; font-weight: 700; }
+.matrix-reader__points li::marker { color: #365f89; font-weight: 600; }
 
 .matrix-reader__pager {
   display: grid;
@@ -242,7 +244,7 @@
   color: var(--matrix-ink);
   background: #fff;
   font-size: .89rem;
-  font-weight: 700;
+  font-weight: 550;
   cursor: pointer;
 }
 
@@ -275,7 +277,7 @@
     min-width: 0;
     color: var(--matrix-ink);
     font-size: .91rem;
-    font-weight: 700;
+    font-weight: 600;
   }
   .matrix-reader__select select {
     width: 100%;

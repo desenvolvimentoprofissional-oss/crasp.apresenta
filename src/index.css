@@ -1,5 +1,13 @@
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  src: url('/fonts/plus-jakarta-sans-latin-wght-normal.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+}
+
 :root {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Plus Jakarta Sans', Arial, Helvetica, sans-serif;
   color: #12294e;
   background: #f2f5f9;
   font-synthesis: none;
@@ -44,9 +52,9 @@ h1, h2, h3, p { margin: 0; }
   display: flex;
   align-items: center;
   gap: clamp(13px, 2vw, 23px);
-  font-size: clamp(.88rem, 1.35vw, 1.13rem);
-  line-height: 1.32;
-  font-weight: 700;
+  font-size: clamp(.86rem, 1.19vw, 1.04rem);
+  line-height: 1.42;
+  font-weight: 600;
   text-decoration: none;
   color: #1e3c77;
 }
@@ -55,6 +63,7 @@ h1, h2, h3, p { margin: 0; }
   flex: none;
   text-decoration: none;
   color: #12294e;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: clamp(1.4rem, 2.6vw, 2rem);
   font-weight: 800;
   letter-spacing: -.055em;
@@ -73,16 +82,16 @@ h1, h2, h3, p { margin: 0; }
   padding-block: clamp(62px, 7.8vw, 122px);
 }
 .hero-intro h1 {
-  font-size: clamp(2.65rem, 5.25vw, 5.1rem);
-  font-weight: 750;
-  line-height: 1.035;
-  letter-spacing: -.05em;
+  font-size: clamp(2.35rem, 4.45vw, 4rem);
+  font-weight: 600;
+  line-height: 1.13;
+  letter-spacing: -.038em;
 }
 .hero-intro > p {
   margin-top: clamp(17px, 2.3vw, 35px);
   color: #e3edf8;
-  font-size: clamp(1.08rem, 1.7vw, 1.55rem);
-  line-height: 1.55;
+  font-size: clamp(1.03rem, 1.45vw, 1.28rem);
+  line-height: 1.6;
 }
 .hero-panel {
   padding: clamp(23px, 3vw, 38px);
@@ -90,8 +99,8 @@ h1, h2, h3, p { margin: 0; }
   border-radius: 22px;
   background: rgb(255 255 255 / 8%);
 }
-.hero-panel h2 { font-size: clamp(1.35rem, 2vw, 1.78rem); letter-spacing: -.025em; }
-.hero-panel p { color: #e3edf8; margin-block: 9px 22px; font-size: 1.02rem; line-height: 1.55; }
+.hero-panel h2 { font-size: clamp(1.2rem, 1.75vw, 1.52rem); font-weight: 600; line-height: 1.26; letter-spacing: -.02em; }
+.hero-panel p { color: #e3edf8; margin-block: 9px 22px; font-size: .97rem; line-height: 1.6; }
 .hero-button {
   display: grid;
   grid-template-columns: 20px 1fr 17px;
@@ -103,7 +112,7 @@ h1, h2, h3, p { margin: 0; }
   border-radius: 9px;
   color: white;
   text-decoration: none;
-  font-weight: 700;
+  font-weight: 600;
 }
 .hero-button + .hero-button { margin-top: 10px; }
 .hero-button-primary { background: #eef6ff; color: #163865; border-color: #eef6ff; }
@@ -113,9 +122,10 @@ h1, h2, h3, p { margin: 0; }
 
 .section { margin-block: clamp(38px, 5vw, 68px); scroll-margin-top: 22px; }
 .section-title {
-  font-size: clamp(1.5rem, 2.55vw, 2.1rem);
-  line-height: 1.18;
-  letter-spacing: -.035em;
+  font-size: clamp(1.4rem, 2.25vw, 1.83rem);
+  font-weight: 600;
+  line-height: 1.26;
+  letter-spacing: -.027em;
   margin-bottom: clamp(17px, 2vw, 25px);
 }
 .product-grid {
@@ -144,11 +154,12 @@ h1, h2, h3, p { margin: 0; }
 }
 .product-intro h3 {
   margin-top: 14px;
-  font-size: clamp(1.1rem, 1.65vw, 1.45rem);
-  line-height: 1.16;
-  letter-spacing: -.018em;
+  font-size: clamp(1.08rem, 1.52vw, 1.32rem);
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: -.016em;
 }
-.product-intro p { margin-top: 8px; color: var(--muted); font-size: .94rem; line-height: 1.48; }
+.product-intro p { margin-top: 8px; color: var(--muted); font-size: .94rem; line-height: 1.55; }
 .resource-list, .document-grid { list-style: none; margin: 0; padding: 0; }
 .resource-list { display: flex; flex: 1; flex-direction: column; gap: 7px; margin-top: 17px; }
 .resource {
@@ -166,7 +177,7 @@ h1, h2, h3, p { margin: 0; }
   background: #fff;
   cursor: pointer;
 }
-.resource strong { display: block; font-size: .93rem; line-height: 1.25; }
+.resource strong { display: block; font-size: .93rem; font-weight: 550; line-height: 1.35; }
 .resource small { display: block; margin-top: 4px; color: var(--muted); font-size: .8rem; line-height: 1.4; }
 .resource > svg { color: #305e88; }
 .resource:hover { background: #f1f7fc; border-color: #dceaf6; }
@@ -216,25 +227,26 @@ h1, h2, h3, p { margin: 0; }
   padding: 7px 10px 7px 0;
   color: #204c78;
   font-size: .94rem;
-  font-weight: 700;
+  font-weight: 550;
   text-decoration: none;
 }
 .reading-back:hover { text-decoration: underline; text-underline-offset: 4px; }
 .reading-header h1 {
   max-width: 40ch;
-  font-size: clamp(1.85rem, 3.55vw, 3.2rem);
-  line-height: 1.12;
-  letter-spacing: -.035em;
+  font-size: clamp(1.68rem, 3.05vw, 2.62rem);
+  font-weight: 600;
+  line-height: 1.19;
+  letter-spacing: -.028em;
   overflow-wrap: anywhere;
 }
-.reading-type { color: #315e8a; font-size: .92rem; font-weight: 700; margin-bottom: .55rem; }
+.reading-type { color: #315e8a; font-size: .91rem; font-weight: 550; margin-bottom: .55rem; }
 .reading-summary { color: var(--muted); max-width: 75ch; margin-top: .8rem; line-height: 1.55; }
 .reading-content { padding-block: clamp(22px, 3vw, 42px) clamp(42px, 6vw, 85px); }
 
 @media (max-width: 900px) {
   .hero-layout { grid-template-columns: 1fr; gap: 32px; padding-block: 45px; }
   .hero-panel { max-width: 550px; }
-  .hero-intro h1 { font-size: clamp(1.9rem, 9vw, 3.9rem); }
+  .hero-intro h1 { font-size: clamp(1.88rem, 7.5vw, 3.3rem); }
   .product-grid { grid-template-columns: 1fr; }
   .product-intro { min-height: auto; }
 }
@@ -243,11 +255,11 @@ h1, h2, h3, p { margin: 0; }
   .institution { gap: 10px; font-size: .76rem; }
   .institution img { width: 48px; }
   .wordmark { font-size: 1.28rem; }
-  .hero-intro h1 { letter-spacing: -.045em; }
+  .hero-intro h1 { letter-spacing: -.035em; }
   .document-grid { grid-template-columns: 1fr; }
   .reading-header { padding-block: 15px 22px; }
   .reading-back { margin-bottom: 8px; }
-  .reading-header h1 { font-size: clamp(1.42rem, 6.2vw, 1.75rem); }
+  .reading-header h1 { font-size: clamp(1.44rem, 5.5vw, 1.72rem); }
 }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }

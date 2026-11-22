@@ -6,6 +6,7 @@ export interface PlaylistOptions {
   editor?: boolean;
   initialPlaylist?: PlaylistData;
   playlistUrl?: string | false;
+  sharedLinks?: boolean;
 }
 
 interface VideoSource {
@@ -162,7 +163,7 @@ function previewLabel(seconds: number) {
 }
 
 export function mountPlaylist(root: HTMLElement, {
-  editor = true, initialPlaylist, playlistUrl,
+  editor = true, initialPlaylist, playlistUrl, sharedLinks = true,
 }: PlaylistOptions = {}): () => void {
   const key = `crasp-apresenta:playlist-v1:${location.pathname}`;
   const instance = 'playlist-' + ++mountCount;
@@ -208,7 +209,7 @@ export function mountPlaylist(root: HTMLElement, {
   }
   let hasShared = false;
   try {
-    const shared = sharedPlaylist(location.hash);
+    const shared = sharedLinks ? sharedPlaylist(location.hash) : undefined;
     if (shared) {
       playlist = shared;
       hasShared = true;
@@ -561,7 +562,7 @@ export function mountPlaylist(root: HTMLElement, {
   function showSharedSection() {
     cancelAnimationFrame(scrollFrame);
     scrollFrame = requestAnimationFrame(() => {
-      (root.closest('#videoaulas') ?? app).scrollIntoView({ block: 'start', behavior: 'instant' });
+      (root.closest('section') ?? app).scrollIntoView({ block: 'start', behavior: 'instant' });
     });
   }
 
@@ -588,7 +589,7 @@ export function mountPlaylist(root: HTMLElement, {
       status.textContent = 'Não foi possível abrir o link da playlist.';
     }
   }
-  window.addEventListener('hashchange', onHashChange);
+  if (sharedLinks) window.addEventListener('hashchange', onHashChange);
 
   if (playlistUrl !== false && (playlistUrl || !initialPlaylist)) {
     const seed = new URL(playlistUrl || './playlist.json', document.baseURI);
@@ -616,7 +617,7 @@ export function mountPlaylist(root: HTMLElement, {
     loadController.abort();
     cancelAnimationFrame(scrollFrame);
     stopPreview?.();
-    window.removeEventListener('hashchange', onHashChange);
+    if (sharedLinks) window.removeEventListener('hashchange', onHashChange);
     if (dialog.open) dialog.close();
     app.remove();
   };
