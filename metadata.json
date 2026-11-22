@@ -1,6 +1,6 @@
 {
   "name": "crasp.apresenta",
-  "description": "crasp.apresenta",
+  "description": "Portal de materiais de Inovação e Desenvolvimento Profissional do CRA-SP.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }

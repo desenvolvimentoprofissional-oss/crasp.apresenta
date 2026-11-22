@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "regulamento-geral-pdp",
+    "title": "Regulamento geral do PDP",
+    "description": "Minuta de resolução normativa. Institui o Programa de Desenvolvimento Profissional do Conselho Regional de Administração de São Paulo (CRA-SP) e disciplina sua organização e execução.",
+    "blocks": [
+      {
+        "kind": "heading",
+        "text": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO"
+      },
+      {
+        "kind": "heading",
+        "text": "RESOLUÇÃO NORMATIVA CRA-SP Nº [NÚMERO], DE [DIA] DE [MÊS] DE [ANO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Institui o Programa de Desenvolvimento Profissional do Conselho Regional de Administração de São Paulo (CRA-SP) e disciplina sua organização e execução."
+      },
+      {
+        "kind": "paragraph",
+        "text": "O PLENÁRIO DO CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO (CRA-SP), no uso das atribuições que lhe conferem a Lei nº 4.769, de 9 de setembro de 1965, regulamentada pelo Decreto nº 61.934, de 22 de dezembro de 1967, e os arts. 24 e 25, inciso XXXII, do Regimento Interno do CRA-SP, aprovado pela Resolução Normativa CFA nº 658, de 23 de dezembro de 2024;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência, previstos no caput do art. 37 da Constituição Federal;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO a Lei nº 4.769, de 9 de setembro de 1965, que disciplina o exercício profissional da Administração e estabelece as atribuições dos Conselhos Federal e Regionais;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO as denominações da profissão e dos Conselhos estabelecidas pela Lei nº 7.321, de 13 de junho de 1985;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO o Decreto nº 61.934, de 22 de dezembro de 1967, que regulamenta a Lei nº 4.769, de 9 de setembro de 1965;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO a competência do CRA-SP para executar programas de atualização dos profissionais da Administração, prevista no art. 3º de seu Regimento Interno, aprovado pela Resolução Normativa CFA nº 658, de 23 de dezembro de 2024;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO as disposições sobre registro profissional estabelecidas no Regulamento de Registro do Sistema CFA/CRAs, aprovado pela Resolução Normativa CFA nº 649, de 28 de maio de 2024;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO o dever de empenho contínuo no aperfeiçoamento pessoal e profissional, previsto no art. 2º, inciso V, do Código de Ética e Disciplina dos Profissionais de Administração, aprovado pela Resolução Normativa CFA nº 537, de 22 de março de 2018;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO os parâmetros relativos à regulamentação da concessão de bolsas de estudo estabelecidos pelo Acórdão nº 1.925/2019 - TCU - Plenário, observadas as alterações decorrentes do julgamento do pedido de reexame;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO a revisão do entendimento sobre a concessão de bolsas de estudo contida no Acórdão nº 1.237/2022 - TCU - Plenário, observadas as competências legais dos respectivos conselhos de fiscalização profissional;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO as condições para a concessão de bolsas de estudo no Sistema CFA/CRAs estabelecidas pela Resolução Normativa CFA nº 629, de 8 de agosto de 2023, especialmente a aprovação de programa pelo respectivo Plenário, a realização de processo seletivo e a competência regulamentar dos Conselhos Regionais;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO os requisitos educacionais aplicáveis aos cursos de pós-graduação, especialmente os requisitos de ingresso previstos no art. 44, inciso III, da Lei nº 9.394, de 20 de dezembro de 1996;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO a manifestação favorável unânime da Diretoria Executiva à proposta do Programa de Capacitação, Aperfeiçoamento e Qualificação e à instituição de sua Comissão Especial, na 84ª Reunião de Diretoria, realizada em 25 de agosto de 2025, com encaminhamento ao Plenário para apreciação e julgamento;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO a aprovação da proposta do Programa de Capacitação, Aperfeiçoamento e Qualificação e da instituição de sua Comissão Especial na 4.914ª Reunião Plenária do CRA-SP, realizada em 25 de agosto de 2025;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO a atualização da denominação da iniciativa para Programa de Desenvolvimento Profissional, registrada na ata da 4.934ª Reunião Plenária do CRA-SP, realizada em 27 de abril de 2026;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO a necessidade de articular o acesso social ao conhecimento e a formação continuada em cinco eixos, com centralidade da Distinção Profissional, para elevar a formação dos registrados, fortalecer a categoria e ampliar oportunidades de desenvolvimento e empregabilidade;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO o deliberado pelo Plenário do CRA-SP na [NÚMERO DA PLENÁRIA], realizada em [DATA DA APROVAÇÃO]."
+      },
+      {
+        "kind": "heading",
+        "text": "RESOLVE:"
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO I\nDAS DISPOSIÇÕES PRELIMINARES"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 1º Fica instituído , no âmbito do Conselho Regional de Administração de São Paulo (CRA-SP), o Programa de Desenvolvimento Profissional, cuja organização e execução são disciplinadas por esta Resolução.",
+        "segments": [
+          {
+            "text": "Art. 1º Fica instituído "
+          },
+          {
+            "text": "e regulamentado",
+            "deleted": true
+          },
+          {
+            "text": ", no âmbito do Conselho Regional de Administração de São Paulo (CRA-SP), o Programa de Desenvolvimento Profissional, cuja organização e execução são disciplinadas por esta Resolução."
+          }
+        ]
+      },
+      {
+        "kind": "paragraph",
+        "text": "Parágrafo único. Integram esta Resolução os Anexos I, II e III, que estabelecem os requisitos técnicos mínimos de planejamento, execução e acompanhamento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 2º São objetivos do Programa de Desenvolvimento Profissional:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "I - ampliar o acesso de profissionais registrados, estudantes e sociedade à capacitação, ao aperfeiçoamento e à qualificação contínua nas áreas da Administração, contribuindo para o desenvolvimento pessoal e profissional, observados os requisitos de participação de cada oferta;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "II - adequar a formação aos diferentes perfis e necessidades profissionais e às demandas da sociedade e do mercado de trabalho, contemplando atualizações regulatórias, boas práticas de gestão e novas tecnologias;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "III - desenvolver competências técnicas, gerenciais e comportamentais para a atuação ética, o pensamento crítico, a tomada de decisão estratégica, a inovação e a responsabilidade social e ambiental;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "IV - promover a colaboração e o intercâmbio de conhecimentos, experiências e boas práticas entre os participantes, estimulando redes de relacionamento profissional e a interação em contextos multiculturais;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "V - organizar percursos de aprendizagem e reconhecer seu cumprimento integral e validado mediante a Distinção Profissional, fortalecendo a categoria e ampliando oportunidades de desenvolvimento de carreira e empregabilidade;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "VI - ampliar as oportunidades de acesso à pós-graduação e às Certificações de Mercado;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "VII - difundir e aprimorar a Administração como ciência e profissão, contribuindo para a qualidade da gestão nas organizações e o desenvolvimento da sociedade."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 3º Para os efeitos desta Resolução, consideram-se:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "I - Abandono injustificado: interrupção definitiva da participação em ação iniciada, sem justificativa acolhida no procedimento de apuração, distinta da simples reprovação por insuficiência de desempenho;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "II - Adimplência: situação de quem está em dia com as obrigações pecuniárias exigíveis perante o CRA-SP;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "III - Ambiente virtual de aprendizagem (AVA): plataforma ou conjunto de recursos digitais destinado à realização e ao acompanhamento de atividades formativas;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "IV - Aproveitamento de formação: aceitação de formação concluída e comprovada para atendimento a componentes exigidos em uma oferta ou percurso;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "V - Aproveitamento mínimo: desempenho exigido na avaliação para a conclusão da formação, expresso pela pontuação mínima estabelecida na oferta;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "VI - Bolsa integral cedida: bolsa de Certificação de Mercado disponibilizada por instituição participante, com cobertura integral das etapas e taxas obrigatórias do processo inicial abrangido pela oferta, sem custeio pelo CRA-SP;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "VII - Bolsa integral custeada: bolsa de pós-graduação contratada e ofertada pelo CRA-SP, com custeio integral dos encargos acadêmicos obrigatórios, incluídas a avaliação e a emissão do certificado;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "VIII - Cancelamento do registro profissional: encerramento formal do registro profissional no CRA-SP, nas hipóteses e condições previstas nas normas do Sistema CFA/CRAs;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "IX - Certificado: documento emitido pela instituição competente para comprovar a formação concluída ou o reconhecimento concedido;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "X - Certificado integral: documento que comprova a conclusão e a validação de todos os componentes exigidos em uma trilha e indica sua carga horária consolidada;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XI - Certificado parcial: documento que comprova a conclusão e a validação de uma unidade formativa de uma trilha, quando prevista a emissão individual;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XII - Ciclo temático: período de organização das ações formativas relacionadas a temas prioritários do Programa;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XIII - Comprovação: demonstração do atendimento aos requisitos de uma oferta ou percurso por meio de documentos ou registros;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XIV - Concessão de bolsa: formalização da atribuição de bolsa ao participante contemplado, com identificação das condições e dos compromissos aplicáveis;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XV - Condições diferenciadas: descontos ou outras condições vantajosas pactuadas com instituições para acesso à Pós-graduação ou a Certificações de Mercado, sem custeio pelo CRA-SP, incluídos entre os descontos os abatimentos de parte do preço concedidos pela instituição participante, ainda que denominados bolsas parciais;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XVI - Cronograma Físico-Financeiro: instrumento que relaciona etapas, serviços, responsáveis, prazos e desembolsos de uma ação com dispêndio de recursos pelo CRA-SP;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XVII - Curadoria: processo de seleção, análise técnica e pedagógica, validação, revisão e atualização de conteúdos e formações;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XVIII - Desistência de oferta: manifestação expressa da decisão de não iniciar ou de interromper a participação em uma oferta, sem afastar, quando cabível, a apuração dos compromissos assumidos;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XIX - Distribuição de bolsas: procedimento de definição dos contemplados entre os candidatos habilitados;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XX - Edital: instrumento público que especifica vagas, requisitos, prazos e procedimentos de uma oferta ou de distribuição de bolsas;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXI - Eixo do Programa: componente da organização do Programa que reúne ações formativas ou formas de reconhecimento com finalidade e condições de participação próprias;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXII - Entidade certificadora: instituição responsável pelos requisitos, pela avaliação e pela formalização dos resultados de uma Certificação de Mercado;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXIII - Equivalência: correspondência entre formações quanto a conteúdos, competências, carga horária e requisitos de conclusão, que fundamenta a análise de seu aproveitamento;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXIV - Formação âncora: formação de referência que pode ser adotada para organizar um percurso de Distinção Profissional;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXV - Habilitação: verificação do atendimento aos requisitos para participar da distribuição de bolsas;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXVI - Inscrição: manifestação formal de interesse em participar de uma oferta ou de procedimento de distribuição de bolsas;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXVII - Instituição participante: órgão ou entidade pública ou privada que, mediante participação formalizada com o CRA-SP, oferece formação, disponibiliza conteúdos, emite certificados ou proporciona acesso a Certificações de Mercado;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXVIII - Instrumento de cooperação: acordo que formaliza o objeto, as responsabilidades e as condições da participação institucional no Programa;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXIX - Manutenção da Distinção Profissional: cumprimento das exigências de atualização formativa para preservação da vigência do reconhecimento;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXX - Mapa de percurso: registro organizado dos componentes de um percurso temático e de seus vínculos, pré-requisitos, cargas horárias, comprovações e condições de conclusão;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXXI - Matrícula: formalização do ingresso em uma ação formativa, conforme os procedimentos e requisitos da oferta;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXXII - Oferta: ação ou oportunidade disponibilizadas pelos cinco eixos do Programa, com escopo, público, requisitos e condições identificados;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXXIII - Participante: pessoa que participa das ações do Programa, observadas as condições do respectivo eixo;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXXIV - Percurso de Distinção Profissional: conjunto de diferentes trilhas e dos demais componentes formativos exigidos para o reconhecimento em determinado tema;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXXV - Plano da oferta: conjunto de informações sobre a estrutura formativa e suas condições de realização, avaliação, conclusão e emissão de certificados, reunidas nos instrumentos ou nas fontes oficiais da oferta;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXXVI - Plano de manutenção: conjunto de critérios previamente aprovados e divulgados para manutenção ou restabelecimento da vigência da Distinção Profissional, com identificação das trilhas elegíveis e das regras de contagem, aproveitamento, comprovação e regularização;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXXVII - Plano de Trabalho: instrumento que estabelece os fundamentos, objetivos, entregas, responsabilidades e prazos de uma ação;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXXVIII - Plano Operacional Interno: instrumento de organização interna do CRA-SP que consolida responsabilidades, entregas, percursos, atendimento, curadoria, registros e acompanhamento do Programa;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XXXIX - Profissional registrado no CRA-SP: pessoa física com registro profissional no CRA-SP em categoria admitida pelas normas do Sistema CFA/CRAs;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XL - Selo digital da Distinção Profissional: identificação visual digital facultativa da distinção concedida em determinado tema, vinculada à consulta de sua autenticidade e situação em canal oficial do CRA-SP;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XLI - Suplência: condição de candidato habilitado não contemplado inicialmente que poderá ser convocado para preencher vaga, segundo a ordem e as condições previstas no edital;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XLII - Unidade formativa (módulo ou nanodegree): componente de uma trilha com objetivos, conteúdo, carga horária e condições de conclusão definidos, que poderá ter avaliação própria, certificado individual ou ambos, conforme a oferta;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "XLIII - Validação: verificação e confirmação, pelo responsável competente, da conformidade de conteúdo, formação, documento ou registro com os critérios aplicáveis."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO II\nDOS EIXOS E DOS PÚBLICOS DO PROGRAMA"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 4º O Programa de Desenvolvimento Profissional organiza-se nos seguintes cinco eixos:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "I - Cursos Livres: cursos de acesso independente, destinados à aprendizagem inicial ou à atualização pontual de conhecimentos em assuntos específicos das áreas da Administração e correlatas;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "II - Trilhas de Aprendizagem: conjunto de uma ou mais unidades formativas organizadas em sequência pedagógica, destinado à aquisição e ao aprofundamento de conhecimentos, bem como ao desenvolvimento de competências para aplicação na prática profissional;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "III - Distinção Profissional: reconhecimento institucional concedido pelo CRA-SP ao profissional de nível superior em razão da formação comprovada e validada no Programa, destinado a valorizar e dar visibilidade ao seu desenvolvimento profissional perante o mercado;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "IV - Pós-graduação: cursos de especialização oferecidos por instituições de educação superior habilitadas, com acesso por meio de bolsas integrais ou condições diferenciadas, destinados ao aprofundamento acadêmico e profissional;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "V - Certificações de Mercado: certificações profissionais externas, já existentes e reconhecidas no mercado, com acesso em condições vantajosas pactuadas pelo CRA-SP, destinadas à comprovação de conhecimentos e competências nos respectivos segmentos profissionais."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 5º Os públicos dos eixos são:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "I - nos Cursos Livres, a sociedade em geral, inclusive estudantes e profissionais, sem exigência de registro ou adimplência perante o CRA-SP;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "II - nas Trilhas de Aprendizagem, os profissionais registrados e adimplentes no CRA-SP;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "III - na Distinção Profissional, os profissionais registrados e adimplentes no CRA-SP, excetuados aqueles cujo registro decorra exclusivamente de formação técnica de nível médio;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "IV - na Pós-graduação e nas Certificações de Mercado, os profissionais registrados e adimplentes no CRA-SP, com Distinção Profissional prévia e vigente."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º É vedada a candidatura, habilitação ou contemplação de conselheiros e colaboradores do CRA-SP nas bolsas integrais de pós-graduação custeadas pelo Conselho e nas bolsas integrais de Certificações de Mercado cedidas por instituições participantes."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Nas ofertas em que podem participar, conselheiros e colaboradores do CRA-SP ficam sujeitos aos mesmos requisitos e critérios dos demais participantes elegíveis, sem preferência ou reserva de vagas decorrente do vínculo com o Conselho."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º A participação em cada eixo observará os requisitos específicos, os impedimentos e as exceções estabelecidos nesta Resolução."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO III\nDOS CURSOS LIVRES"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 6º O CRA-SP atuará como conector, divulgando os Cursos Livres e orientando o acesso dos interessados às ofertas das instituições participantes."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A instituição participante responderá pelo conteúdo, pela execução acadêmica, pela matrícula definitiva, pelo atendimento acadêmico, pela avaliação e pela validação da conclusão."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Os cursos serão realizados no ambiente virtual da instituição ou do CRA-SP, conforme a oferta e o instrumento de cooperação, preservadas as responsabilidades acadêmicas da instituição."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º A divulgação, inclusive por outros canais institucionais, identificará a instituição responsável, as vagas e condições da oferta e os procedimentos de acesso."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 7º Os Cursos Livres serão integralmente gratuitos, compreendidas a matrícula, o acesso aos conteúdos e materiais obrigatórios, as atividades, a avaliação e a emissão, a disponibilização e a validação do certificado."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Parágrafo único. A formação anunciada deverá permitir sua conclusão integral sem pagamento, vedada a oferta gratuita de etapa inicial cuja continuidade necessária dependa da contratação de produto ou serviço."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 8º A instituição divulgará, antes da matrícula, os critérios de participação, avaliação e conclusão do curso e a pontuação mínima de aproveitamento exigida."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º O registro de interesse ou a pré-matrícula nos canais do CRA-SP não substituirá a matrícula definitiva nem dispensará os procedimentos e requisitos da oferta."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º O certificado de conclusão será emitido pela instituição participante e poderá ser enviado eletronicamente ao CRA-SP para registro e comprovação da formação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º O aproveitamento do curso em Trilha de Aprendizagem ou percurso de Distinção Profissional dependerá de previsão expressa no respectivo plano e do atendimento aos requisitos do eixo correspondente, preservado o acesso independente ao curso."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO IV\nDAS TRILHAS DE APRENDIZAGEM"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 9º Caberão ao CRA-SP a curadoria e a organização pedagógica das Trilhas de Aprendizagem, com conteúdos próprios ou disponibilizados pelas instituições participantes."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A seleção, a análise técnica e pedagógica, a validação, a revisão e a atualização dos conteúdos serão registradas com identificação dos responsáveis, dos critérios e das versões."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º As instituições poderão produzir ou disponibilizar conteúdos, emitir certificados ou exercer ambas as atribuições, conforme as responsabilidades definidas na oferta."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º As trilhas poderão ser realizadas no ambiente virtual do CRA-SP ou da instituição participante, conforme acordado."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 10. O plano de cada trilha identificará suas unidades formativas, denominadas módulos ou nanodegrees conforme a terminologia adotada para a oferta, com objetivos, competências, conteúdo, sequência, carga horária e critérios de conclusão definidos."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º As trilhas serão integralmente gratuitas ao participante, com a abrangência e a vedação de cobrança previstas no art. 7º."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º O ingresso ocorrerá por livre matrícula, observados os pré-requisitos da oferta, sem exigência de conclusão anterior de Cursos Livres."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 11. A avaliação poderá abranger cada unidade formativa, a trilha completa ou ambas, conforme as responsabilidades e os critérios definidos no plano da oferta."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º Os critérios de frequência, participação, avaliação e comprovação e a pontuação mínima de aproveitamento exigida para a conclusão serão divulgados antes da matrícula."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º As equivalências e os aproveitamentos dependerão de previsão expressa no plano da oferta e de correspondência entre conteúdos, competências, carga horária e requisitos de conclusão."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 12. Os certificados poderão ser emitidos por unidade formativa, pela trilha completa ou por ambas as modalidades, pelo CRA-SP, pela instituição participante ou por ambos conjuntamente, conforme a oferta."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º O certificado integral dependerá da conclusão e da validação de todos os componentes exigidos e indicará a carga horária consolidada da trilha."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Os certificados emitidos exclusivamente pela instituição participante e os de componentes externos com certificado próprio serão enviados eletronicamente pelo participante para comprovação e validação pelo CRA-SP."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Quando o CRA-SP emitir o certificado, isoladamente ou em conjunto, serão utilizados os registros institucionais correspondentes."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO V\nDA DISTINÇÃO PROFISSIONAL"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 13. O CRA-SP organizará os percursos da Distinção Profissional por tema, reunindo diferentes Trilhas de Aprendizagem e, quando previstos no respectivo plano, Cursos Livres e conteúdos autorais do Conselho."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º Poderão ser estabelecidos ciclos temáticos, com temas prioritários definidos por critérios objetivos, pertinência profissional e demandas da sociedade e do mercado."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º O mapa de cada percurso identificará os componentes, os pré-requisitos, as comprovações e as exigências de conclusão, com carga horária compatível com a complexidade do tema, admitida uma formação âncora como elemento organizador."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º O ingresso no percurso ocorrerá pela conclusão de trilha que o integre, observados os pré-requisitos da oferta, sem equivaler à concessão da Distinção Profissional."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 14. A Distinção Profissional será concedida pelo CRA-SP, observados os requisitos do art. 5º, inciso III, após a comprovação e a validação de todos os componentes do percurso, mediante os certificados e registros das formações exigidas, independentemente do emissor."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A concessão será formalizada em certificado próprio, com identificação do tema e consulta de autenticidade e da situação do reconhecimento em canal oficial do CRA-SP, ao qual se vinculará o selo digital, quando adotado."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º A obtenção e a manutenção da Distinção Profissional serão gratuitas ao participante, incluídas a avaliação e a emissão do certificado e do eventual selo digital."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º O CRA-SP poderá divulgar institucionalmente o reconhecimento perante organizações e agentes de recrutamento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 15. A manutenção da Distinção Profissional exigirá a conclusão de, pelo menos, uma Trilha de Aprendizagem em cada ano civil, de 1º de janeiro a 31 de dezembro, com apuração a partir do ano subsequente ao da concessão inicial."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º O CRA-SP divulgará previamente o plano de manutenção, que definirá as trilhas elegíveis, os critérios de contagem, aproveitamento e comprovação e as condições objetivas de regularização e de restabelecimento da vigência, observado o mínimo anual previsto no caput."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Outras atividades poderão complementar a formação, sem substituir o mínimo de trilhas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º O descumprimento interromperá a vigência da Distinção Profissional para novas inscrições nas ofertas de Pós-graduação e de Certificações de Mercado até a regularização, preservados os registros históricos e a informação ao profissional sobre sua situação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 4º Durante a interrupção, a consulta oficial, inclusive por meio do selo digital, indicará expressamente a interrupção da vigência, preservada a autenticidade do certificado emitido."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 5º A interrupção prevista no § 3º não se aplicará quando o cumprimento do mínimo anual for inviabilizado por insuficiência ou indisponibilidade comprovada de Trilhas de Aprendizagem elegíveis e efetivamente acessíveis, em tempo e condições que permitam sua conclusão, desde que o impedimento não seja imputável ao profissional. Durante o impedimento e o prazo complementar de cumprimento, será mantida a vigência da Distinção Profissional, inclusive na consulta oficial e no eventual selo digital, preservados os demais requisitos de participação nos eixos."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 6º Para os fins do § 5º, considera-se também indisponibilidade o impedimento comprovado de acesso a trilhas elegíveis por evento alheio ao CRA-SP e ao profissional, como falha de rede ou interrupção do fornecimento de energia elétrica, ainda que o ambiente virtual de aprendizagem esteja em funcionamento. A regra aplica-se quando o impedimento inviabilizar o cumprimento do mínimo anual. Nessa hipótese, o prazo complementar previsto no § 7º será contado da data em que o profissional recuperar o acesso efetivo às trilhas necessárias."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 7º Cessado o impedimento de que trata o § 5º, inclusive na hipótese do § 6º, o profissional disporá de prazo complementar para concluir as trilhas faltantes do ano afetado, considerados os componentes já concluídos. O plano de manutenção, aprovado na forma do art. 29, § 2º, fixará previamente os critérios objetivos e o prazo aplicável, compatível com a carga horária e as condições de realização. O prazo será contado da efetiva disponibilização das ofertas necessárias, ressalvado o termo inicial previsto no § 6º. A área gestora, sob supervisão do Diretor de Formação Profissional, registrará o impedimento, sua cessação e a data-limite e comunicará essa data ao profissional."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO VI\nDA PÓS-GRADUAÇÃO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 16. Os cursos de especialização lato sensu, inclusive MBA, serão executados por instituição de educação superior com credenciamento regular e ativo e habilitação para a modalidade ofertada perante o Ministério da Educação (MEC) ou o órgão competente do respectivo sistema de ensino, considerados os indicadores pertinentes do MEC, do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP) e outros."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Parágrafo único. A instituição responderá pela matrícula, pela execução da formação, pelo atendimento acadêmico, pela avaliação, pela validação da conclusão e pela emissão do certificado, observadas a carga horária mínima legal e as demais exigências acadêmicas aplicáveis."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 17. O CRA-SP poderá:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "I - contratar bolsas integrais, com identificação do curso, da instituição, das vagas, da cobertura e dos compromissos dos participantes;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "II - pactuar condições diferenciadas com instituições de educação superior e atuar como conector para acesso às respectivas ofertas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º As bolsas do inciso I abrangerão todos os encargos acadêmicos obrigatórios, incluídas a avaliação e a emissão do certificado, sem cobrança ao participante."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º A divulgação distinguirá as modalidades e informará previamente condições acadêmicas e comerciais, valores, descontos e eventuais custos do participante, admitidos apenas nas ofertas do inciso II."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 18. O ingresso na Pós-graduação exigirá diploma de graduação e atendimento aos requisitos acadêmicos da instituição, independentemente da categoria de registro profissional."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º Para as bolsas contratadas pelo CRA-SP, a inscrição será prévia e acompanhada de declaração de atendimento às condições do edital."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º A habilitação às bolsas contratadas pelo CRA-SP verificará os requisitos do art. 5º e as condições acadêmicas da oferta, ressalvada a exceção do art. 38 quanto à distinção prévia. Não poderão ser contemplados profissionais em cumprimento de sanção ético-disciplinar no Sistema CFA/CRAs, nos termos do art. 3º, parágrafo único, da Resolução Normativa CFA nº 629, de 8 de agosto de 2023."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Inscrição, habilitação, distribuição e concessão constituirão etapas distintas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 19. As bolsas contratadas pelo CRA-SP serão concedidas diretamente quando suficientes para todos os habilitados na respectiva oferta; havendo excedente de candidatos, serão distribuídas exclusivamente entre os habilitados, por sorteio público eletrônico e auditável no sistema Sorteador da Universidade Federal de São Carlos (UFSCar)."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º O edital fixará vagas, requisitos, documentos, prazos, procedimentos de habilitação e distribuição, divulgação dos resultados, manifestação dos interessados e suplência."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Outra solução eletrônica idônea e tecnicamente equivalente poderá ser utilizada mediante escolha motivada, registrada e divulgada antes do sorteio, asseguradas isonomia, impessoalidade, publicidade, transparência, auditabilidade e registros verificáveis."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º As etapas e os resultados serão amplamente divulgados, com proteção dos dados pessoais e preservação dos registros necessários à verificação dos procedimentos."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 20. A concessão de bolsa contratada pelo CRA-SP será formalizada em instrumento que identifique participante, curso, instituição, período, cobertura e compromissos, cabendo ao Conselho acompanhar a participação e a conclusão mediante documentos ou registros da instituição responsável."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Parágrafo único. As consequências de abandono injustificado ou de descumprimento do compromisso de obtenção da Distinção Profissional nas bolsas custeadas pelo CRA-SP observarão os arts. 36 a 38."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO VII\nDAS CERTIFICAÇÕES DE MERCADO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 21. O CRA-SP atuará como conector para acesso a Certificações de Mercado mediante Acordos de Cooperação Técnica ou instrumentos adequados, sem ônus financeiro direto para o Conselho."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A instituição participante comprovará a existência e o reconhecimento da certificação no respectivo segmento profissional e, quando não for a entidade certificadora, a autorização necessária à oferta e às condições pactuadas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Caberão à entidade certificadora a definição dos requisitos, a avaliação e a emissão do certificado ou do registro comprobatório, com meio de verificação de autenticidade."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º O acesso observará os requisitos da entidade certificadora; o desconto ou a bolsa não dispensará a avaliação ou o aproveitamento exigido."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 22. As condições pactuadas deverão representar vantagem efetiva e verificável para os participantes e informar previamente requisitos, etapas, prazos, custos, gratuidade ou descontos, inclusive quanto à inscrição, preparação, avaliação e emissão, bem como carga horária e condições formativas, quando aplicáveis."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Parágrafo único. A divulgação distinguirá as despesas abrangidas pela oferta e os eventuais custos de reaplicação, manutenção ou renovação, com identificação da validade da certificação e das exigências correspondentes."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 23. As instituições poderão ceder bolsas integrais de Certificações de Mercado, com quantidade, prazos e cobertura formalizados antes da abertura das inscrições, sem custeio pelo CRA-SP."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A cobertura abrangerá todas as etapas e taxas obrigatórias do processo anunciado, incluídas inscrição, avaliações, preparação obrigatória e emissão inicial, vedada cobrança necessária à obtenção da certificação abrangida pela bolsa."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º O edital identificará o processo e as tentativas cobertos, as condições de reaplicação e as eventuais exigências de manutenção ou renovação em ciclos futuros, sem excluir da cobertura as despesas indispensáveis à obtenção inicial."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Aplicam-se às bolsas cedidas a inscrição do art. 18, § 1º, as etapas do art. 18, § 3º, a distribuição do art. 19 e a formalização e o acompanhamento do art. 20, adaptados à certificação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 4º A habilitação verificará os requisitos do art. 5º, inciso IV, e da entidade certificadora e observará o impedimento específico das bolsas cedidas previsto no § 1º daquele artigo, sem aplicação da exceção do art. 38. É vedada a habilitação ou contemplação de profissionais em cumprimento de sanção ético-disciplinar no Sistema CFA/CRAs, nos termos do art. 3º, parágrafo único, da Resolução Normativa CFA nº 629, de 8 de agosto de 2023."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 5º A instituição confirmará a disponibilização e a utilização da bolsa, cabendo ao CRA-SP acompanhar a participação e os resultados pelos documentos ou registros correspondentes."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO VIII\nDA GOVERNANÇA E DA EXECUÇÃO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 24. Compete, no âmbito do Programa:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "I - à Gerência de Inovação e Desenvolvimento Profissional, área gestora do Programa: organizar o planejamento e gerir a execução operacional, instruir processos, conferir documentos e requisitos objetivos, manter os registros, organizar a divulgação e o atendimento, acompanhar prazos e compromissos e consolidar indicadores e relatórios;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "II - ao Diretor de Formação Profissional: supervisionar tecnicamente a execução, orientar o planejamento, emitir pareceres, analisar resultados, propor aperfeiçoamentos e encaminhar matérias à Diretoria Executiva e ao Plenário;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "III - à Diretoria Executiva: aprovar previamente as propostas de cooperação, apreciar planos, resultados e medidas de gestão, encaminhar matérias ao Plenário e homologar a instituição e a composição de comissões especiais;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "IV - ao Plenário: deliberar sobre as propostas de cooperação, as normas e alterações materiais do Programa e as demais matérias que esta Resolução lhe atribuir;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "V - à Presidência: formalizar e assinar os instrumentos e atos, promover sua publicação, executar as deliberações e exercer as atribuições regimentais relativas às comissões especiais e às situações de urgência."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A Presidência designará os responsáveis operacionais e seus substitutos no âmbito das funções existentes, observada a estrutura administrativa do CRA-SP."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Serão preservadas as competências de Administração e Finanças e das demais áreas de apoio, inclusive quanto ao orçamento, às contratações, aos pagamentos e à cobrança."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º A execução observará legalidade, impessoalidade, moralidade, publicidade, eficiência, isonomia, acessibilidade, pertinência formativa, responsabilidade no uso dos recursos e proteção dos dados pessoais."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 4º Nas situações de urgência ou inadiáveis, a Presidência poderá adotar as providências regimentais de proteção do Conselho e dos participantes, mediante decisão motivada, submetida à apreciação dos respectivos colegiados nas primeiras reuniões subsequentes."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 25. A Presidência poderá instituir Comissão Especial para demanda específica e transitória do Programa, ouvida a Diretoria Executiva, que homologará sua instituição e composição."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Parágrafo único. O ato conterá justificativa, objeto, competências, composição e prazo de funcionamento, observado o limite de cinco membros e os requisitos regimentais de registro e capacidade profissional. A Comissão exercerá as atribuições delimitadas no ato, preservada a gestão permanente do Programa."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 26. A seleção e a participação de instituições de educação e de outras entidades com atuação compatível com as ofertas serão disciplinadas por resoluções normativas complementares específicas relativas:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "I - aos Cursos Livres e às Trilhas de Aprendizagem gratuitos;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "II - à Pós-graduação em condições diferenciadas, sem contratação de bolsas pelo CRA-SP;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "III - às Certificações de Mercado, inclusive aos descontos e às bolsas integrais cedidas pelas instituições."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º Os regulamentos estabelecerão critérios públicos, objetivos e isonômicos de aceitação, com recebimento contínuo de propostas, sem exclusividade ou classificação competitiva entre instituições, e disciplinarão documentação, análise, acordos, acompanhamento e alterações das ofertas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º As propostas de cooperação sem transferência de recursos financeiros serão recebidas pela Presidência e instruídas pela área gestora, com verificação de capacidade de execução, idoneidade, qualidade, pertinência técnica e atendimento, seguidas de parecer do Diretor de Formação Profissional, aprovação da Diretoria Executiva, deliberação do Plenário e formalização pela Presidência."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Os instrumentos identificarão objeto, responsabilidades, entregas, condições de execução e atendimento, avaliação, conclusão, documentos comprobatórios, tratamento das informações e critérios de verificação e aceite."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 4º As atualizações operacionais dentro do objeto e das condições aprovados serão verificadas e registradas pela área gestora, sob supervisão técnica do Diretor de Formação Profissional, conforme os regulamentos específicos. Alterações essenciais seguirão o procedimento de aprovação e formalização correspondente."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 27. O planejamento das ações será baseado no diagnóstico de necessidades de competências, em estudos do Sistema CFA/CRAs, pesquisas de egressos e evidências sobre educação, trabalho e gestão, sob orientação do Diretor de Formação Profissional."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A metodologia observará os princípios da aprendizagem de adultos e da participação ativa, valorizando a experiência dos participantes, a resolução de problemas, a colaboração e a aplicação prática, observadas as responsabilidades das instituições pela formação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º A execução será prioritariamente a distância, admitidos encontros presenciais ou híbridos suplementares, com carga horária proporcional aos objetivos e à complexidade da ação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Na estrutura das ofertas e dos percursos, poderão ser utilizados cursos, seminários, oficinas, encontros e palestras, conforme seus objetivos e requisitos."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 28. As ações serão formalizadas em Plano de Trabalho e, quando houver dispêndio pelo CRA-SP, também em Cronograma Físico-Financeiro, com os conteúdos dos Anexos I e II, ressalvada a dispensa do § 1º."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º Nas ofertas gratuitas de Cursos Livres e Trilhas de Aprendizagem em cooperação sem transferência de recursos financeiros à instituição, serão suficientes o instrumento de cooperação e as informações das ofertas, dispensada a apresentação de Plano de Trabalho e Cronograma Físico-Financeiro pela instituição participante."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º A dispensa preservará o planejamento das contratações e despesas do CRA-SP, os requisitos pedagógicos, os percursos de distinção, as responsabilidades acadêmicas e os controles internos."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Os elementos comuns poderão ser consolidados, identificadas as ofertas e suas condições específicas, com liberdade de modelo e preservação dos conteúdos mínimos e da compatibilidade entre instrumentos, editais, recursos e prazos."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 4º As informações da oferta poderão constar dos instrumentos ou de fontes oficiais, sem exigência de documento autônomo."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 29. O Plano Operacional Interno do Programa será elaborado e mantido pela área gestora, com o conteúdo do Anexo III, sob supervisão do Diretor de Formação Profissional e aprovação da Diretoria Executiva."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º O plano organizará a execução e o acompanhamento, sem alterar públicos, requisitos, responsabilidades acadêmicas, avaliação, conclusão, emissão de documentos, concessão e manutenção da distinção ou consequências estabelecidas nesta Resolução."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º A definição ou alteração de requisitos dos percursos e de condições de manutenção e regularização da distinção será instruída e submetida a parecer do Diretor de Formação Profissional, aprovação da Diretoria Executiva e deliberação do Plenário, respeitado o mínimo anual de trilhas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 30. A realização de despesas dependerá de disponibilidade orçamentária, aprovação e formalização pelos responsáveis regimentais e observância da legislação de contratações, inclusive nas hipóteses de contratação direta legalmente cabíveis."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A instrução conterá as necessidades e especificações técnicas, com parecer do Diretor de Formação Profissional e atuação das áreas responsáveis pelos procedimentos administrativos, financeiros e jurídicos aplicáveis."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º A Diretoria Executiva submeterá ao Plenário as propostas de contratação de serviços, e a Presidência formalizará os contratos, preservadas as competências de Administração e Finanças."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º A escolha será motivada quanto à adequação ao objeto, à vantajosidade e ao interesse público. A cooperação sem transferência de recursos não substituirá o processo próprio de contratação remunerada."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 4º Os registros relacionarão recursos, ações, participantes e resultados, priorizadas as cooperações que compartilhem conteúdos e infraestrutura sem oneração direta, conforme o objeto."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 31. O acesso à página desenvolvimento.profissional.crasp.org.br, integrada ao ambiente virtual de aprendizagem, será mantido no portal crasp.gov.br pela área gestora, com apoio das áreas responsáveis pela infraestrutura tecnológica e pela comunicação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º O ambiente permitirá a realização e a avaliação dos Cursos Livres e das Trilhas, conforme as responsabilidades de cada oferta, e o acompanhamento dos registros de formação, das Distinções Profissionais e da participação em Pós-graduação e Certificações de Mercado."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Os documentos de responsabilidade do CRA-SP serão prioritariamente digitais e identificarão participante, formação ou tema, carga horária e conteúdo programático pertinentes, com mecanismo de validação de autenticidade."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º A página manterá espaço permanente para acesso aos regulamentos e às orientações de participação institucional, com encaminhamento das manifestações de interesse à Presidência."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 32. Pós-graduação e Certificações de Mercado constituem opções independentes entre si, observados os requisitos de cada eixo."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO IX\nDO ACOMPANHAMENTO E DAS RESPONSABILIDADES"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 33. O acompanhamento quantitativo e qualitativo do Programa abrangerá participação, conclusão, satisfação, evolução de competências, aplicação profissional, trajetória de carreira, valor percebido, manutenção da distinção, adimplência e permanência dos profissionais no Conselho."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º Os indicadores observarão a metodologia do Anexo III e distinguirão cancelamento do registro profissional, desistência da oferta e abandono injustificado de ação custeada."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Os relatórios serão analisados pelo Diretor de Formação Profissional e submetidos à Diretoria Executiva, com propostas de providências, responsáveis e prazos. As matérias que dependam de alteração normativa ou de deliberação plenária serão encaminhadas ao Plenário."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Os autorrelatos de percepção e trajetória profissional destinados ao acompanhamento do Programa serão voluntários e não constituirão requisitos de acesso, avaliação, conclusão, emissão de documentos, distinção ou certificação de mercado."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 4º O tratamento dos dados observará finalidade, necessidade e segurança, com divulgação agregada dos resultados, preservadas as consultas de autenticidade e situação dos documentos e reconhecimentos nos termos desta Resolução."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 34. O CRA-SP e as instituições participantes prestarão, cada qual no âmbito de suas atribuições, informações prévias claras e acessíveis sobre objetivos, requisitos, conteúdo, carga horária, realização, avaliação, conclusão, documentos comprobatórios, responsabilidades, custos, prazos e atendimento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º Durante a participação, informarão andamento, pendências, providências e resultados e encaminharão as demandas aos responsáveis pelo respectivo processo."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Os registros do CRA-SP relativos às avaliações e manifestações recebidas indicarão os encaminhamentos, as respostas, as decisões, as providências e os prazos. As propostas de aperfeiçoamento serão submetidas ao Diretor de Formação Profissional."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º As instituições responderão pela execução e pelo atendimento acadêmico ou de certificação externa que lhes forem atribuídos, prestarão as comprovações necessárias e comunicarão alterações ou interrupções que afetem os participantes, para as providências de continuidade e informação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 35. Compete ao participante prestar informações corretas, cumprir os requisitos e as condições da oferta, realizar as atividades e apresentar as comprovações exigidas, preservado o caráter voluntário dos autorrelatos previstos no art. 33, § 3º."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 36. A apuração de descumprimento que possa resultar em impedimento a novas ofertas custeadas, cancelamento de custeio ou ressarcimento será instruída pela área gestora, asseguradas comunicação ao interessado, apresentação de justificativa e oportunidade de defesa, com parecer do Diretor de Formação Profissional, apreciação da Diretoria Executiva e decisão fundamentada do Plenário."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A Presidência determinará a instauração formal do processo, quando necessária, e executará as deliberações, com atuação das áreas responsáveis e observância dos procedimentos próprios de cobrança e revisão administrativa."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º A conferência objetiva de documentos, o registro de pendências e o cálculo dos prazos aprovados serão realizados sob supervisão técnica, sem dispensar os requisitos da oferta nem antecipar as consequências sujeitas ao procedimento do caput."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 37. O abandono injustificado de ação que tenha gerado dispêndio de recursos pelo CRA-SP tornará o profissional inapto a novas ofertas custeadas pelo período estabelecido no edital ou até o ressarcimento dos custos correspondentes, conforme a regra previamente divulgada e mediante o procedimento do art. 36."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Parágrafo único. O impedimento limita-se às novas ofertas custeadas e não alcança as ofertas sem dispêndio pelo Conselho."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO X\nDAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 38. Excepcionalmente, no primeiro edital de bolsas integrais de pós-graduação de lançamento do Programa, serão admitidos candidatos sem Distinção Profissional prévia que assumam compromisso formal de obtê-la em até 1 (um) ano contado da divulgação do resultado da concessão."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A exceção limita-se à distinção prévia, preservados os demais requisitos e impedimentos; o edital definirá a comprovação e o acompanhamento do prazo."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º O prazo do caput ficará suspenso durante impedimento comprovado, não imputável ao bolsista, decorrente da indisponibilidade de componente obrigatório que inviabilize a conclusão do percurso de Distinção Profissional. O CRA-SP registrará o início e o término do impedimento e comunicará ao bolsista a suspensão e a nova data-limite, considerada a retomada da contagem pelo prazo restante."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º O descumprimento sujeitará o bolsista ao cancelamento do custeio futuro e ao ressarcimento dos valores despendidos pelo CRA-SP com a bolsa, mediante comunicação ao interessado, apresentação de justificativa, oportunidade de defesa e decisão fundamentada, observado o procedimento do art. 36."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 4º O edital e o instrumento de concessão informarão previamente essas consequências e sua apuração."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 39. O CRA-SP poderá editar outros regulamentos necessários à implementação e ao funcionamento do Programa, além dos previstos no art. 26, mediante instrução, parecer do Diretor de Formação Profissional, aprovação da Diretoria Executiva e deliberação do Plenário, com formalização e publicação pela Presidência."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Parágrafo único. Os atos de execução observarão esta Resolução e as competências nela estabelecidas, respeitado o limite do art. 29, § 1º. Alterações das regras materiais desta Resolução dependerão de deliberação normativa do Plenário."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 40. Os casos omissos, após a instrução, receberão parecer do Diretor de Formação Profissional e serão submetidos à Diretoria Executiva, que decidirá as questões administrativas de sua competência e encaminhará ao Plenário as matérias normativas ou reservadas à deliberação plenária, sem afastar os requisitos desta Resolução."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 41. Caberá à área gestora, sob supervisão do Diretor de Formação Profissional, disponibilizar e manter atualizada a versão informativa diagramada do conteúdo integral desta Resolução e de seus anexos, fiel ao texto normativo, que prevalecerá em caso de divergência."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Parágrafo único. As alterações aprovadas serão incorporadas à versão informativa e comunicadas aos públicos alcançados."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 42. Esta Resolução entra em vigor na data de sua publicação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "[NOME DA AUTORIDADE SIGNATÁRIA]\n[REGISTRO PROFISSIONAL]\nPresidente do CRA-SP"
+      },
+      {
+        "kind": "heading",
+        "text": "ANEXO I\nDOS REQUISITOS DO PLANO DE TRABALHO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Aplicável às ações sujeitas ao art. 28, observada a dispensa de apresentação pela instituição participante prevista no § 1º daquele artigo."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Campo\nInformação exigida"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Apresentação\nFundamentos, processo de estruturação, justificativa, necessidade de desenvolvimento atendida e entrega esperada."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Objetivos\nObjetivos da ação, apresentados em itens ou incisos."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Público-alvo\nCategorias ou grupos alcançados e requisitos de participação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Metas e resultados esperados\nMetas, resultados, indicadores e critérios de verificação proporcionais à natureza e à dimensão da ação, observada a metodologia de acompanhamento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Classificação\nIdentificação do eixo e da natureza da ação no Programa."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Local ou plataforma de realização\nCondições de realização, infraestrutura tecnológica e ambiente de aprendizagem necessários."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Plano básico de comunicação\nPúblicos, canais, responsáveis e momentos de divulgação e comunicação, inclusive alterações ou interrupções da oferta."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Cronograma Físico-Financeiro\nQuando houver dispêndio pelo CRA-SP: etapas, serviços, responsáveis, prazos e desembolsos, conforme o Anexo II."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Custo total da ação\nValor total das etapas e dos serviços, com indicação de eventual ausência de dispêndio pelo CRA-SP."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Vigência do Plano de Trabalho\nPeríodo de realização das atividades programadas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Responsabilidades e prazos\nResponsáveis pela gestão do Programa, pelo eixo, pela ação e por suas etapas, com prazos de execução, atendimento, validação de comprovações e emissão de documentos, conforme as atribuições de cada parte."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Riscos e continuidade\nRiscos relevantes, medidas de prevenção e resposta e respectivos responsáveis, inclusive quanto à continuidade da oferta e à disponibilidade dos ambientes de aprendizagem."
+      },
+      {
+        "kind": "heading",
+        "text": "ANEXO II\nDOS REQUISITOS DO CRONOGRAMA FÍSICO-FINANCEIRO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Exigível quando houver dispêndio pelo CRA-SP, nos termos do art. 28, preservada a dispensa de apresentação pela instituição participante prevista no § 1º daquele artigo."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Campo\nInformação exigida"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Tipo\nEixo e natureza da ação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Título\nIdentificação e nome da ação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Formato e local\nPresencial, a distância ou híbrido; local ou plataforma de realização."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Público-alvo\nCategorias ou grupos e requisitos de participação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Data ou período\nPeríodo de execução."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Fases a executar\nPara cada fase: número, etapa ou serviço, responsável, data de início, data de término e valor. O total das fases corresponderá ao custo total da ação."
+      },
+      {
+        "kind": "heading",
+        "text": "ANEXO III\nDOS REQUISITOS DO PLANO OPERACIONAL INTERNO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Instrumento interno do CRA-SP, elaborado e atualizado nos termos do art. 29, sem alteração das regras materiais do Programa."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Elemento\nConteúdo exigido"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Responsáveis e decisões\nÁrea gestora, responsáveis pelos eixos e pela execução, substitutos, atribuições, limites de atuação e encaminhamentos decisórios."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Carteira de entregas\nOferta, público, necessidade atendida, conhecimentos ou competências, entrega esperada, aplicação pretendida, instituição e condições de realização."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Mapa de percursos\nTema e versão; unidades formativas, trilhas e demais componentes; vínculos, pré-requisitos, equivalências, carga horária, comprovações, avaliações, pontuação mínima de aproveitamento e critérios de conclusão. A vinculação de ofertas independentes será expressa."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Curadoria e versões\nFluxo de seleção, análise, validação, aprovação, revisão e atualização; responsáveis, critérios, versões e efeitos das alterações sobre participantes e conclusões registradas; comunicação das mudanças."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Jornada e atendimento\nEtapas, estados, registros, pendências, evidências, decisões, comunicação e suporte nos processos do CRA-SP; responsáveis, canais, prazos e encaminhamentos à instituição responsável."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Entregas institucionais\nCompromissos de qualidade e atendimento, responsabilidades, evidências de execução e critérios de verificação e aceite de conteúdos ou serviços."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Metodologia de acompanhamento e indicadores\nPara cada indicador: objetivo, fórmula ou critério, população, numerador e denominador quando aplicáveis, fonte, período, periodicidade, responsável, parâmetros de comparação e cobertura. Distinguir dados administrativos de autorrelatos e registrar limitações e ausência de informação, observadas as garantias de voluntariedade e proteção de dados do art. 33."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Acompanhamento e melhoria\nRotina de análise de resultados e riscos, decisões, providências, responsáveis, prazos e retorno aos envolvidos, com rastreabilidade das revisões."
+      }
+    ]
+  },
+  {
+    "id": "instituicoes-cursos-livres-trilhas",
+    "title": "Cursos Livres e Trilhas de Aprendizagem",
+    "description": "Minuta de resolução normativa. Regulamenta a seleção e a participação de instituições nos Eixos de Cursos Livres e Trilhas de Aprendizagem do Programa de Desenvolvimento Profissional do CRA-SP.",
+    "blocks": [
+      {
+        "kind": "heading",
+        "text": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO"
+      },
+      {
+        "kind": "heading",
+        "text": "RESOLUÇÃO NORMATIVA CRA-SP Nº [NÚMERO], DE [DIA] DE [MÊS] DE [ANO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Regulamenta a seleção e a participação de instituições nos Eixos de Cursos Livres e Trilhas de Aprendizagem do Programa de Desenvolvimento Profissional do CRA-SP."
+      },
+      {
+        "kind": "paragraph",
+        "text": "O PLENÁRIO DO CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO (CRA-SP), no uso das atribuições que lhe conferem a Lei nº 4.769, de 9 de setembro de 1965, regulamentada pelo Decreto nº 61.934, de 22 de dezembro de 1967, e os arts. 24 e 25, inciso XXXII, do Regimento Interno do CRA-SP, aprovado pela Resolução Normativa CFA nº 658, de 23 de dezembro de 2024;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO o art. 26, inciso I, da Resolução Normativa CRA-SP nº [NÚMERO DA RESOLUÇÃO GERAL DO PROGRAMA], que prevê regulamento complementar para a participação institucional nos Cursos Livres e nas Trilhas de Aprendizagem gratuitos;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO o deliberado pelo Plenário do CRA-SP na [NÚMERO DA PLENÁRIA], realizada em [DATA DA APROVAÇÃO]."
+      },
+      {
+        "kind": "heading",
+        "text": "RESOLVE:"
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO I\nDO OBJETO E DA PARTICIPAÇÃO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 1º Esta Resolução regulamenta a seleção e a participação de instituições nos Eixos de Cursos Livres e Trilhas de Aprendizagem do Programa de Desenvolvimento Profissional, em complemento à Resolução Normativa CRA-SP nº [NÚMERO DA RESOLUÇÃO GERAL DO PROGRAMA]."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º Poderão apresentar propostas instituições de educação superior, associações, federações, órgãos e entidades públicos e outras pessoas jurídicas com atuação compatível, mediante recebimento contínuo, sem exclusividade ou classificação competitiva entre instituições."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º O CRA-SP atuará como conector, divulgando as ofertas aceitas e orientando o acesso. As regras dos Cursos Livres alcançam também sua divulgação por outros canais institucionais do Conselho."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO II\nDOS CRITÉRIOS DE ACEITAÇÃO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 2º São condições obrigatórias para a aceitação:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "I — constituição ou criação regular da instituição, representação válida e inexistência de impedimento legal aplicável à cooperação;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "II — ofertas vinculadas às áreas da Administração, identificadas por título, objetivos, ementa e carga horária, com coerência entre o conteúdo e a formação anunciada;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "III — gratuidade de matrícula, acesso, conteúdos e materiais obrigatórios, atividades, avaliação e emissão, disponibilização e validação dos certificados;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "IV — indicação do público e dos requisitos da oferta, do ambiente virtual da instituição ou do CRA-SP e das condições de acesso e acessibilidade, com descrição dos recursos e da equipe para execução e atendimento e identificação dos responsáveis e canais acadêmicos e tecnológicos;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "V — regras de avaliação, aproveitamento mínimo, conclusão e emissão dos certificados identificadas na oferta ou na fonte oficial;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "VI — declaração de titularidade ou de autorização para os usos propostos dos conteúdos e identificação das responsabilidades de execução."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A formação anunciada deverá poder ser concluída integralmente sem pagamento, vedada a gratuidade de etapa inicial cuja continuidade necessária dependa da aquisição de produto ou serviço."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Nas Trilhas, serão identificadas as unidades formativas, a sequência pedagógica, os conteúdos e as cargas horárias, com avaliação e emissão de certificados por unidade, pela trilha completa ou por ambas, conforme a oferta."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO III\nDA SOLICITAÇÃO, DA ANÁLISE E DA APROVAÇÃO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 3º A instituição encaminhará a presidencia@crasp.gov.br sua identificação, natureza jurídica, CNPJ, ato constitutivo ou de criação, poderes do representante, responsáveis e contatos, acompanhados das ofertas e das evidências dos critérios do art. 2º e de declaração de concordância com os regulamentos e de gratuidade integral."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º As ofertas poderão ser apresentadas individualmente, por lista ou por endereço eletrônico de catálogo oficial, com delimitação do escopo. A fonte indicada poderá suprir os dados de cada oferta, sem reapresentação individual das informações suficientes à análise."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º A autorização poderá abranger ofertas existentes e futuras do catálogo, desde que isso conste do escopo aprovado e sejam preservados os critérios e as condições da cooperação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Não serão exigidos da instituição Plano de Trabalho e Cronograma Físico-Financeiro autônomos nesta cooperação gratuita e sem transferência de recursos, conforme o art. 28, § 1º, da resolução geral do Programa."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 4º A página do Programa manterá disponíveis este Regulamento, a minuta do acordo e as orientações para encaminhamento das manifestações de interesse à Presidência."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 4º A análise e a aprovação da proposta obedecerão às seguintes etapas:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "I — a Presidência receberá a proposta e a encaminhará à área gestora do Programa;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "II — a Gerência de Inovação e Desenvolvimento Profissional verificará a documentação e os critérios do art. 2º, registrará as evidências e concluirá a análise;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "III — o Diretor de Formação Profissional emitirá parecer conclusivo sobre a proposta, o escopo e as condições de participação;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "IV — a Diretoria Executiva apreciará a proposta e, após sua aprovação, a encaminhará ao Plenário;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "V — o Plenário deliberará sobre a participação da instituição, as ofertas e as condições da cooperação;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "VI — a Presidência formalizará a cooperação aprovada e promoverá a publicação do instrumento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A análise identificará, por critério, a evidência examinada e o atendimento, o não atendimento ou a pendência. A solicitação de complementação indicará os elementos faltantes e o prazo de resposta."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º O objeto social e as atividades efetivamente exercidas serão examinados. Havendo indícios de atividade básica ou de serviços a terceiros sujeitos a registro no CRA-SP, será solicitada manifestação da área de Fiscalização e Registro sobre o enquadramento e a regularidade exigível, sem presumir a obrigação pela mera apresentação da proposta."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Após a decisão de mérito, a instituição receberá comunicação com os fundamentos do indeferimento ou a identificação das ofertas, do escopo e das condições aprovados. Somente a cooperação aprovada será formalizada, e a divulgação das ofertas dependerá da assinatura do acordo."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO IV\nDA FORMALIZAÇÃO E DA EXECUÇÃO DA COOPERAÇÃO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 5º A cooperação será formalizada por Acordo de Cooperação Técnica, conforme a minuta do Anexo I, assinado pelo Presidente do CRA-SP e pelo representante habilitado da instituição, com quadro das ofertas ou do catálogo, ambiente de realização, atribuições acadêmicas e tecnológicas e usos autorizados dos conteúdos."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º As cláusulas poderão ser adequadas às características da oferta e às necessidades das partes, após análise e aprovação, sem afastar os critérios deste Regulamento. Condições não previstas no modelo serão examinadas antes da assinatura."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Não haverá transferência de recursos financeiros nem remuneração entre as partes."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º A autorização para divulgar catálogo não autoriza, por si só, reproduzir, adaptar ou disponibilizar aulas e avaliações no ambiente do CRA-SP. Esses usos dependerão de autorização expressa do titular, com indicação dos materiais, ambientes, prazo e limites."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO V\nDAS ATUALIZAÇÕES E DO ENCERRAMENTO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 6º As atualizações cadastrais, informativas ou de execução que preservem o objeto, o escopo e as condições aprovados serão verificadas e registradas pela área gestora do Programa, sob supervisão técnica do Diretor de Formação Profissional, com indicação da fonte, da data e da alteração, sem nova aprovação colegiada."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A inclusão, atualização ou retirada de registros do catálogo autorizado poderá decorrer de informação da instituição ou de consulta do CRA-SP à fonte oficial, inclusive quanto a ofertas futuras expressamente abrangidas pela autorização."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Dúvidas serão tratadas por consulta à instituição e análise técnica simplificada. O item com pendência sobre o atendimento aos critérios somente será divulgado após esclarecimento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Novas ofertas fora do escopo e alterações do objeto ou das condições determinantes da aprovação seguirão as etapas do art. 4º e serão formalizadas antes de sua divulgação. A atualização operacional não prorrogará o acordo."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 7º O acordo terá vigência determinada. Sua prorrogação dependerá de avaliação do cumprimento das obrigações, da regularidade institucional e da manutenção das condições aprovadas, concordância das partes e aprovação e formalização pelo procedimento do art. 4º, antes do término."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º O encerramento poderá decorrer do término da vigência, consenso, solicitação de uma das partes, descumprimento ou interesse público motivado, com comunicação no prazo pactuado. O encerramento por decisão do CRA-SP observará o mesmo procedimento de aprovação, asseguradas a manifestação da instituição e a motivação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Identificado descumprimento, a instituição será comunicada para esclarecimento e correção, quando cabível, em prazo formalmente informado."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Serão definidas as providências de continuidade e atendimento aos participantes em formação, preservadas a gratuidade, as responsabilidades acadêmicas e os registros e certificados das atividades concluídas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 4º A instituição comunicará à Presidência alterações, indisponibilidades e descumprimentos, com as providências propostas; os riscos aos participantes serão comunicados imediatamente. As medidas urgentes observarão o art. 24, § 4º, da resolução geral do Programa."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO VI\nDAS DISPOSIÇÕES FINAIS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 8º Os casos omissos observarão o art. 40 da resolução geral do Programa."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 9º Esta Resolução e seu Anexo I serão disponibilizados na página do Programa. Esta Resolução entra em vigor na data de sua publicação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "[NOME DA AUTORIDADE SIGNATÁRIA]\n[REGISTRO PROFISSIONAL]\nPresidente do CRA-SP"
+      },
+      {
+        "kind": "heading",
+        "text": "ANEXO I\nDA MINUTA DE ACORDO DE COOPERAÇÃO TÉCNICA"
+      },
+      {
+        "kind": "paragraph",
+        "text": "ACORDO DE COOPERAÇÃO TÉCNICA Nº [NÚMERO DO ACORDO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "O CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO — CRA-SP, autarquia federal, inscrito no CNPJ sob nº [CNPJ DO CRA-SP], com sede em [ENDEREÇO DO CRA-SP], representado por seu Presidente, [NOME E QUALIFICAÇÃO], e [DENOMINAÇÃO DA INSTITUIÇÃO], [NATUREZA JURÍDICA], inscrita no CNPJ sob nº [CNPJ DA INSTITUIÇÃO], com sede em [ENDEREÇO DA INSTITUIÇÃO], representada por [NOME, CARGO E PODERES DE REPRESENTAÇÃO], doravante denominada INSTITUIÇÃO PARTICIPANTE, celebram o presente acordo com fundamento na Resolução Normativa CRA-SP nº [NÚMERO DA RESOLUÇÃO DE CURSOS LIVRES E TRILHAS DE APRENDIZAGEM] e na Resolução Normativa CRA-SP nº [NÚMERO DA RESOLUÇÃO GERAL DO PROGRAMA], mediante as cláusulas seguintes."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA PRIMEIRA\nDO OBJETO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "1.1. O objeto é a cooperação para divulgação e oferta gratuita de Cursos Livres, Trilhas de Aprendizagem ou ambos, conforme o processo administrativo nº [NÚMERO DO PROCESSO] e o quadro a seguir."
+      },
+      {
+        "kind": "paragraph",
+        "text": "QUADRO DAS OFERTAS E CONDIÇÕES"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CAMPO\nCONDIÇÃO ACORDADA"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Escopo autorizado\n[EIXOS E OFERTAS; APENAS ITENS IDENTIFICADOS OU TAMBÉM OFERTAS FUTURAS DO CATÁLOGO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Fonte oficial\n[LISTA OU ENDEREÇO ELETRÔNICO, DELIMITAÇÃO DO CATÁLOGO E DATA DE REFERÊNCIA]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Dados das ofertas\n[TÍTULO, OBJETIVOS, EMENTA, CARGA HORÁRIA, PÚBLICO, REQUISITOS E DISPONIBILIDADE OU FONTE OFICIAL]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Ambiente e atendimento\n[AVA, ACESSIBILIDADE, RECURSOS, EQUIPE, ATRIBUIÇÕES E CANAIS ACADÊMICOS E TECNOLÓGICOS]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Avaliação e certificados\n[REGRAS, APROVEITAMENTO MÍNIMO, CONCLUSÃO, EMISSORES E AUTENTICIDADE OU FONTE OFICIAL]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Trilhas\n[UNIDADES, SEQUÊNCIA, CARGAS HORÁRIAS, AVALIAÇÃO E EMISSÃO PARCIAL OU INTEGRAL, QUANDO APLICÁVEL]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Atualização\n[FONTE, RESPONSÁVEIS E CONTATOS PARA ATUALIZAÇÕES E ESCLARECIMENTOS]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "1.2. O quadro delimitará se a autorização abrange apenas ofertas identificadas ou também itens futuros do catálogo. A inclusão de novos itens dependerá do enquadramento no escopo autorizado e do atendimento aos critérios do Regulamento."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA SEGUNDA\nDAS CONDIÇÕES DAS OFERTAS E DOS RECURSOS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "2.1. A formação será integralmente gratuita, compreendidas matrícula, acesso, conteúdos e materiais obrigatórios, atividades, avaliação e emissão, disponibilização e validação dos certificados, sem continuidade necessária condicionada a pagamento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "2.2. Não haverá transferência de recursos financeiros nem remuneração entre as partes. Cada parte proverá os meios que assumir no quadro."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA TERCEIRA\nDAS RESPONSABILIDADES DA INSTITUIÇÃO PARTICIPANTE"
+      },
+      {
+        "kind": "paragraph",
+        "text": "3.1. A INSTITUIÇÃO PARTICIPANTE disponibilizará as ofertas nas condições do quadro, assegurará a legitimidade e a atualização dos conteúdos e cumprirá as atribuições acadêmicas dos Cursos Livres e as que assumir nas Trilhas. Manterá os registros e os meios de comprovação de autenticidade dos certificados que emitir."
+      },
+      {
+        "kind": "paragraph",
+        "text": "3.2. Assegurará o acesso, a acessibilidade, o atendimento e o suporte sob sua responsabilidade. Comunicará à Presidência alterações, indisponibilidades e riscos aos participantes, com as providências de continuidade propostas."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA QUARTA\nDAS RESPONSABILIDADES DO CRA-SP"
+      },
+      {
+        "kind": "paragraph",
+        "text": "4.1. O CRA-SP atuará como conector, divulgando as ofertas autorizadas e orientando o acesso. Nas Trilhas, exercerá a curadoria e a organização pedagógica e cumprirá as atribuições de avaliação e emissão de certificados que lhe couberem. Quando utilizado seu ambiente, proverá os recursos e o suporte tecnológico pactuados."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA QUINTA\nDA DIVULGAÇÃO E DOS USOS AUTORIZADOS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "5.1. Os usos autorizados dos conteúdos são: [MATERIAIS, USOS, AMBIENTES, PRAZO E LIMITES]. A divulgação do catálogo não autoriza reprodução ou adaptação de aulas e avaliações. As partes observarão a autoria e a Lei nº 9.610, de 19 de fevereiro de 1998."
+      },
+      {
+        "kind": "paragraph",
+        "text": "5.2. O uso das marcas dependerá de autorização do titular e se limitará ao objeto deste acordo, sem endosso geral a outros produtos ou serviços."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA SEXTA\nDOS REGISTROS E DOS DADOS PESSOAIS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "6.1. As partes definirão os dados e os meios de compartilhamento necessários ao acesso, ao atendimento, à comprovação e ao acompanhamento das ofertas, com responsáveis, controle de acesso, medidas de segurança, atendimento aos titulares e condições de guarda e destinação, conforme a Lei nº 13.709, de 14 de agosto de 2018."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA SÉTIMA\nDA VIGÊNCIA E DO ACOMPANHAMENTO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "7.1. O acordo vigorará de [DATA INICIAL] a [DATA FINAL]. A prorrogação será aprovada e formalizada antes do término, após avaliação da execução e concordância das partes, pelo procedimento do Regulamento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "7.2. A área gestora do Programa e [RESPONSÁVEL DA INSTITUIÇÃO] acompanharão o cumprimento das condições do quadro e registrarão ocorrências e providências. As comunicações formais serão realizadas por presidencia@crasp.gov.br e [E-MAIL DA INSTITUIÇÃO]."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA OITAVA\nDAS ALTERAÇÕES E DAS ADEQUAÇÕES"
+      },
+      {
+        "kind": "paragraph",
+        "text": "8.1. A instituição ou o CRA-SP poderá propor atualizações do catálogo com base na fonte oficial. A área gestora as verificará e registrará, sob supervisão do Diretor de Formação Profissional, com fonte, data e alteração, sem nova aprovação colegiada quando preservados o escopo e as condições aprovados."
+      },
+      {
+        "kind": "paragraph",
+        "text": "8.2. Itens com pendências serão esclarecidos antes da divulgação. Alterações fora do escopo ou das condições aprovados seguirão o fluxo de aprovação e formalização do Regulamento; nenhuma adequação poderá afastar seus critérios ou a gratuidade."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA NONA\nDO ENCERRAMENTO E DA CONTINUIDADE"
+      },
+      {
+        "kind": "paragraph",
+        "text": "9.1. O acordo poderá encerrar-se por término de vigência, consenso, solicitação de uma das partes, descumprimento ou interesse público motivado, com comunicação em [PRAZO DE AVISO]. O encerramento por decisão do CRA-SP observará o procedimento do Regulamento, com manifestação da instituição e decisão motivada."
+      },
+      {
+        "kind": "paragraph",
+        "text": "9.2. Identificado descumprimento, a instituição será comunicada para esclarecimento e correção, quando cabível, em prazo formalmente informado."
+      },
+      {
+        "kind": "paragraph",
+        "text": "9.3. As partes definirão as providências de continuidade e atendimento aos participantes em formação, sem cobrança, preservando as responsabilidades e os registros e certificados já emitidos. As medidas urgentes observarão o art. 24, § 4º, da resolução geral do Programa."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA DÉCIMA\nDOS CASOS NÃO PREVISTOS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "10.1. Os casos não previstos observarão o Regulamento e o art. 40 da resolução geral do Programa. Sua solução não dispensará critérios de aceitação nem requisitos das ofertas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "E, por estarem de acordo, as partes assinam o presente instrumento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "[LOCAL], [DATA DA ASSINATURA]."
+      },
+      {
+        "kind": "paragraph",
+        "text": "[NOME DO PRESIDENTE DO CRA-SP]\nPresidente do CRA-SP\n\n[NOME DO REPRESENTANTE DA INSTITUIÇÃO]\n[CARGO E INSTITUIÇÃO]"
+      }
+    ]
+  },
+  {
+    "id": "pos-graduacao-condicoes-diferenciadas",
+    "title": "Pós-graduação em condições diferenciadas",
+    "description": "Minuta de resolução normativa. Regulamenta a seleção e a participação de instituições no Eixo de Pós-graduação do Programa de Desenvolvimento Profissional do CRA-SP, para oferta de cursos com descontos.",
+    "blocks": [
+      {
+        "kind": "heading",
+        "text": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO"
+      },
+      {
+        "kind": "heading",
+        "text": "RESOLUÇÃO NORMATIVA CRA-SP Nº [NÚMERO], DE [DIA] DE [MÊS] DE [ANO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Regulamenta a seleção e a participação de instituições no Eixo de Pós-graduação do Programa de Desenvolvimento Profissional do CRA-SP, para oferta de cursos com descontos."
+      },
+      {
+        "kind": "paragraph",
+        "text": "O PLENÁRIO DO CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO (CRA-SP), no uso das atribuições que lhe conferem a Lei nº 4.769, de 9 de setembro de 1965, regulamentada pelo Decreto nº 61.934, de 22 de dezembro de 1967, e os arts. 24 e 25, inciso XXXII, do Regimento Interno do CRA-SP, aprovado pela Resolução Normativa CFA nº 658, de 23 de dezembro de 2024;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO os arts. 17, inciso II, e 26, inciso II, da Resolução Normativa CRA-SP nº [NÚMERO DA RESOLUÇÃO GERAL DO PROGRAMA], que preveem cooperação para Pós-graduação em condições diferenciadas, sem contratação de bolsas pelo CRA-SP;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO o deliberado pelo Plenário do CRA-SP na [NÚMERO DA PLENÁRIA], realizada em [DATA DA APROVAÇÃO]."
+      },
+      {
+        "kind": "heading",
+        "text": "RESOLVE:"
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO I\nDO OBJETO E DA PARTICIPAÇÃO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 1º Esta Resolução regulamenta a seleção e a participação de instituições no Eixo de Pós-graduação do Programa de Desenvolvimento Profissional, para oferta de especialização lato sensu, inclusive MBA, com descontos, em complemento à Resolução Normativa CRA-SP nº [NÚMERO DA RESOLUÇÃO GERAL DO PROGRAMA]."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º Poderão apresentar propostas instituições de educação superior ou suas mantenedoras, identificada a instituição executora e responsável pela emissão do certificado. O recebimento será contínuo, sem exclusividade ou classificação competitiva entre instituições."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º O CRA-SP atuará como conector entre os profissionais elegíveis e as instituições. Este Regulamento não abrange a contratação ou a distribuição de bolsas custeadas pelo Conselho."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO II\nDOS CRITÉRIOS DE ACEITAÇÃO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 2º A instituição e a oferta deverão comprovar:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "I — constituição ou criação regular, representação válida e inexistência de impedimento legal aplicável à cooperação;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "II — credenciamento regular e ativo da instituição executora e habilitação exigível para a modalidade ofertada, mediante ato ou consulta oficial do Ministério da Educação ou do órgão competente do respectivo sistema de ensino;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "III — vinculação do curso às áreas da Administração, com título, objetivos, conteúdo, carga horária, duração, modalidade, local ou plataforma, turmas, vagas, requisitos de ingresso e critérios de avaliação e conclusão;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "IV — descrição dos recursos e da equipe para execução e atendimento, com identificação dos responsáveis pela formação e emissão do certificado, dos canais acadêmicos, financeiros e tecnológicos e das condições de acesso e acessibilidade."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 3º A condição financeira será demonstrada por:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "I — preço público efetivamente praticado para a mesma oferta em condições equivalentes, com fonte e data ou período de referência;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "II — redução percentual ou nominal, base de incidência e preço final ao participante;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "III — custo total, matrícula, parcelas, avaliação, emissão do certificado e demais encargos obrigatórios legalmente admitidos;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "IV — prazo para adesão, validade da oferta, turmas e vagas abrangidas, alcance e duração do desconto, condições de pagamento e reajuste e regras de cumulação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Parágrafo único. As evidências da comparação serão mantidas no processo. Mudanças posteriores não poderão descaracterizar a vantagem aprovada nem modificar retroativamente condições legitimamente contratadas."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO III\nDA SOLICITAÇÃO, DA ANÁLISE E DA APROVAÇÃO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 4º A instituição encaminhará a presidencia@crasp.gov.br sua identificação, natureza jurídica, CNPJ, ato constitutivo ou de criação, poderes do representante, responsáveis e contatos, acompanhados das ofertas, das evidências dos arts. 2º e 3º e de declaração de concordância com os regulamentos e as condições propostas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º Serão identificadas a instituição executora e sua mantenedora, quando houver, com as responsabilidades assumidas. Poderão ser utilizadas fontes oficiais suficientes à verificação, sem repetição dos documentos."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º A página do Programa manterá disponíveis este Regulamento, a minuta do acordo e as orientações para encaminhamento das manifestações de interesse à Presidência."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 5º A análise e a aprovação da proposta obedecerão às seguintes etapas:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "I — a Presidência receberá a proposta e a encaminhará à área gestora do Programa;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "II — a Gerência de Inovação e Desenvolvimento Profissional verificará a documentação e os critérios dos arts. 2º e 3º, registrará as evidências e concluirá a análise;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "III — o Diretor de Formação Profissional emitirá parecer conclusivo sobre a proposta, o escopo e as condições de participação;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "IV — a Diretoria Executiva apreciará a proposta e, após sua aprovação, a encaminhará ao Plenário;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "V — o Plenário deliberará sobre a participação da instituição, as ofertas e as condições da cooperação;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "VI — a Presidência formalizará a cooperação aprovada e promoverá a publicação do instrumento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A análise identificará, por critério, a evidência examinada e o atendimento, o não atendimento ou a pendência. A solicitação de complementação indicará os elementos faltantes e o prazo de resposta."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º O objeto social e as atividades efetivamente exercidas serão examinados. Havendo indícios de atividade básica ou de serviços a terceiros sujeitos a registro no CRA-SP, será solicitada manifestação da área de Fiscalização e Registro sobre o enquadramento e a regularidade exigível, sem presumir a obrigação pela mera apresentação da proposta."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Após a decisão de mérito, a instituição receberá comunicação com os fundamentos do indeferimento ou a identificação das ofertas, do escopo e das condições aprovados. Somente a cooperação aprovada será formalizada, e a divulgação das ofertas dependerá da assinatura do acordo."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO IV\nDA FORMALIZAÇÃO E DA EXECUÇÃO DA COOPERAÇÃO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 6º A cooperação será formalizada por Acordo de Cooperação Técnica, conforme a minuta do Anexo I, assinado pelo Presidente do CRA-SP e pelo representante habilitado da instituição, com quadro dos cursos, instituições responsáveis, condições acadêmicas, preços, descontos e obrigações de atendimento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º As cláusulas poderão ser adequadas às características da oferta e às necessidades das partes, após análise e aprovação, sem afastar os critérios deste Regulamento. Condições não previstas no modelo serão examinadas antes da assinatura."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Não haverá transferência de recursos financeiros nem remuneração entre as partes."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º O profissional contratará diretamente com a instituição executora ou sua mantenedora. O contrato educacional registrará o custo total, o alcance e a duração do desconto, os reajustes e as hipóteses de alteração previamente admitidas. A instituição responderá pela cobrança e pelas obrigações acadêmicas e contratuais."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO V\nDAS ATUALIZAÇÕES E DO ENCERRAMENTO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 7º As atualizações cadastrais, informativas ou de execução que preservem o objeto, o escopo e as condições aprovados serão verificadas e registradas pela área gestora do Programa, sob supervisão técnica do Diretor de Formação Profissional, com indicação da fonte, da data e da alteração, sem nova aprovação colegiada."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Parágrafo único. Novas ofertas e alterações do objeto ou das condições determinantes da aprovação seguirão as etapas do art. 5º e serão formalizadas antes de sua divulgação. A atualização operacional não prorrogará o acordo."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 8º O acordo terá vigência determinada. Sua prorrogação dependerá de avaliação do cumprimento das obrigações, da regularidade institucional e da manutenção das condições aprovadas, concordância das partes e aprovação e formalização pelo procedimento do art. 5º, antes do término."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º O encerramento poderá decorrer do término da vigência, consenso, solicitação de uma das partes, descumprimento ou interesse público motivado, com comunicação no prazo pactuado. O encerramento por decisão do CRA-SP observará o mesmo procedimento de aprovação, asseguradas a manifestação da instituição e a motivação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Identificado descumprimento, a instituição será comunicada para esclarecimento e correção, quando cabível, em prazo formalmente informado."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º O encerramento preservará os descontos e os contratos educacionais já formalizados, os registros, os certificados e as obrigações assumidas. Em caso de interrupção, a instituição informará aos matriculados as providências relativas à continuidade da formação e aos valores pagos."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 4º A instituição comunicará à Presidência alterações, indisponibilidades e descumprimentos, com as providências propostas; os riscos aos participantes serão comunicados imediatamente. As medidas urgentes observarão o art. 24, § 4º, da resolução geral do Programa."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO VI\nDAS DISPOSIÇÕES FINAIS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 9º Os casos omissos observarão o art. 40 da resolução geral do Programa."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 10. Esta Resolução e seu Anexo I serão disponibilizados na página do Programa. Esta Resolução entra em vigor na data de sua publicação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "[NOME DA AUTORIDADE SIGNATÁRIA]\n[REGISTRO PROFISSIONAL]\nPresidente do CRA-SP"
+      },
+      {
+        "kind": "heading",
+        "text": "ANEXO I\nDA MINUTA DE ACORDO DE COOPERAÇÃO TÉCNICA"
+      },
+      {
+        "kind": "paragraph",
+        "text": "ACORDO DE COOPERAÇÃO TÉCNICA Nº [NÚMERO DO ACORDO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "O CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO — CRA-SP, autarquia federal, inscrito no CNPJ sob nº [CNPJ DO CRA-SP], com sede em [ENDEREÇO DO CRA-SP], representado por seu Presidente, [NOME E QUALIFICAÇÃO], e [DENOMINAÇÃO DA INSTITUIÇÃO], [NATUREZA JURÍDICA], inscrita no CNPJ sob nº [CNPJ DA INSTITUIÇÃO], com sede em [ENDEREÇO DA INSTITUIÇÃO], representada por [NOME, CARGO E PODERES DE REPRESENTAÇÃO], doravante denominada INSTITUIÇÃO PARTICIPANTE, celebram o presente acordo com fundamento na Resolução Normativa CRA-SP nº [NÚMERO DA RESOLUÇÃO DE PÓS-GRADUAÇÃO EM CONDIÇÕES DIFERENCIADAS] e na Resolução Normativa CRA-SP nº [NÚMERO DA RESOLUÇÃO GERAL DO PROGRAMA], mediante as cláusulas seguintes."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA PRIMEIRA\nDO OBJETO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "1.1. O objeto é a oferta de especialização lato sensu, inclusive MBA, com descontos aos profissionais elegíveis ao Eixo de Pós-graduação do Programa, conforme o processo administrativo nº [NÚMERO DO PROCESSO] e o quadro a seguir."
+      },
+      {
+        "kind": "paragraph",
+        "text": "QUADRO DAS OFERTAS E CONDIÇÕES"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CAMPO\nCONDIÇÃO ACORDADA"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Instituições responsáveis\n[IES EXECUTORA, MANTENEDORA, CNPJ, CREDENCIAMENTO, HABILITAÇÃO E RESPONSABILIDADES]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Curso e oferta\n[TÍTULO, OBJETIVOS, CONTEÚDO, CARGA HORÁRIA, DURAÇÃO, MODALIDADE, LOCAL OU PLATAFORMA]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Turmas e vagas\n[TURMAS, PERÍODOS, VAGAS E CONDIÇÕES DE FORMAÇÃO OU CANCELAMENTO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Requisitos acadêmicos\n[INGRESSO, AVALIAÇÃO, CONCLUSÃO E EMISSÃO DO CERTIFICADO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Preço de referência\n[PREÇO PÚBLICO, FONTE, DATA E CONDIÇÕES EQUIVALENTES DE COMPARAÇÃO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Desconto e preço final\n[REDUÇÃO, BASE DE INCIDÊNCIA E PREÇO FINAL]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Custo total\n[MATRÍCULA, PARCELAS E TODOS OS ENCARGOS OBRIGATÓRIOS]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Pagamento\n[PRAZOS, PARCELAMENTO, REAJUSTES E CUMULAÇÃO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Alcance e validade\n[PRAZO PARA ADESÃO, OFERTAS ABRANGIDAS E DURAÇÃO DO DESCONTO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Atendimento\n[RECURSOS, EQUIPE, RESPONSÁVEIS, CANAIS ACADÊMICOS, FINANCEIROS E TECNOLÓGICOS E ACESSIBILIDADE]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "1.2. A cooperação não abrange bolsas contratadas ou custeadas pelo CRA-SP."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA SEGUNDA\nDAS CONDIÇÕES DAS OFERTAS E DOS RECURSOS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "2.1. A INSTITUIÇÃO PARTICIPANTE assegurará o desconto e as condições do quadro, demonstrados por preço público comparável e datado, redução e preço final. Informará antes da matrícula o custo total, todos os encargos obrigatórios, o pagamento, os reajustes, a cumulação e os prazos de adesão e duração do desconto."
+      },
+      {
+        "kind": "paragraph",
+        "text": "2.2. O contrato educacional incorporará essas condições. Não haverá transferência financeira nem remuneração entre as partes ou pagamento das obrigações do participante pelo CRA-SP."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA TERCEIRA\nDAS RESPONSABILIDADES DA INSTITUIÇÃO PARTICIPANTE"
+      },
+      {
+        "kind": "paragraph",
+        "text": "3.1. A INSTITUIÇÃO PARTICIPANTE manterá o credenciamento e a habilitação exigíveis da instituição executora, responderá pela formação e pelas obrigações de admissão, matrícula, atendimento, avaliação, conclusão e emissão do certificado e manterá seus registros e meios de verificação de autenticidade."
+      },
+      {
+        "kind": "paragraph",
+        "text": "3.2. Identificará os responsáveis e canais acadêmicos, financeiros e tecnológicos e informará as condições de formação ou cancelamento de turmas. Comunicará à Presidência alterações, interrupções e riscos aos matriculados, com as providências propostas."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA QUARTA\nDAS RESPONSABILIDADES DO CRA-SP"
+      },
+      {
+        "kind": "paragraph",
+        "text": "4.1. O CRA-SP atuará como conector, divulgará as ofertas aprovadas, orientará o acesso e verificará os requisitos de participação sob sua responsabilidade. O profissional contratará diretamente com a instituição ou mantenedora indicada no quadro."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA QUINTA\nDA DIVULGAÇÃO E DOS USOS AUTORIZADOS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "5.1. A divulgação identificará a instituição executora e as condições aprovadas. O uso das marcas e dos materiais dependerá de autorização do titular e ficará limitado ao objeto do acordo, sem endosso geral a outros produtos ou serviços."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA SEXTA\nDOS REGISTROS E DOS DADOS PESSOAIS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "6.1. As partes definirão os dados e os meios de compartilhamento necessários ao acesso, ao atendimento, à comprovação e ao acompanhamento das ofertas, com responsáveis, controle de acesso, medidas de segurança, atendimento aos titulares e condições de guarda e destinação, conforme a Lei nº 13.709, de 14 de agosto de 2018."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA SÉTIMA\nDA VIGÊNCIA E DO ACOMPANHAMENTO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "7.1. O acordo vigorará de [DATA INICIAL] a [DATA FINAL]. A prorrogação será aprovada e formalizada antes do término, após avaliação da execução e concordância das partes, pelo procedimento do Regulamento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "7.2. A área gestora do Programa e [RESPONSÁVEL DA INSTITUIÇÃO] acompanharão o cumprimento das condições do quadro e registrarão ocorrências e providências. As comunicações formais serão realizadas por presidencia@crasp.gov.br e [E-MAIL DA INSTITUIÇÃO]."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA OITAVA\nDAS ALTERAÇÕES E DAS ADEQUAÇÕES"
+      },
+      {
+        "kind": "paragraph",
+        "text": "8.1. Atualizações que preservem o objeto, o escopo e as condições aprovados serão verificadas e registradas pela área gestora, sob supervisão do Diretor de Formação Profissional, com fonte, data e alteração. Não ampliarão o objeto nem prorrogarão o acordo."
+      },
+      {
+        "kind": "paragraph",
+        "text": "8.2. Novos cursos e mudanças dos descontos ou de outras condições determinantes da aprovação seguirão o fluxo do Regulamento e serão formalizados antes da divulgação, sem afastar seus critérios ou prejudicar contratos já celebrados."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA NONA\nDO ENCERRAMENTO E DA CONTINUIDADE"
+      },
+      {
+        "kind": "paragraph",
+        "text": "9.1. O acordo poderá encerrar-se por término de vigência, consenso, solicitação de uma das partes, descumprimento ou interesse público motivado, com comunicação em [PRAZO DE AVISO]. O encerramento por decisão do CRA-SP observará o procedimento do Regulamento, com manifestação da instituição e decisão motivada."
+      },
+      {
+        "kind": "paragraph",
+        "text": "9.2. Identificado descumprimento, a instituição será comunicada para esclarecimento e correção, quando cabível, em prazo formalmente informado."
+      },
+      {
+        "kind": "paragraph",
+        "text": "9.3. Serão preservados os descontos, contratos educacionais, registros, certificados e obrigações já formalizados. Na interrupção, a instituição informará aos matriculados as providências sobre a formação e os valores pagos. As medidas urgentes observarão o art. 24, § 4º, da resolução geral do Programa."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA DÉCIMA\nDOS CASOS NÃO PREVISTOS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "10.1. Os casos não previstos observarão o Regulamento e o art. 40 da resolução geral do Programa. Sua solução não dispensará critérios de aceitação nem requisitos das ofertas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "E, por estarem de acordo, as partes assinam o presente instrumento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "[LOCAL], [DATA DA ASSINATURA]."
+      },
+      {
+        "kind": "paragraph",
+        "text": "[NOME DO PRESIDENTE DO CRA-SP]\nPresidente do CRA-SP\n\n[NOME DO REPRESENTANTE DA INSTITUIÇÃO]\n[CARGO E INSTITUIÇÃO]"
+      }
+    ]
+  },
+  {
+    "id": "certificacoes-de-mercado",
+    "title": "Certificações de Mercado",
+    "description": "Minuta de resolução normativa. Regulamenta a seleção e a participação de instituições no Eixo de Certificações de Mercado do Programa de Desenvolvimento Profissional do CRA-SP, para descontos e bolsas integrais cedidas.",
+    "blocks": [
+      {
+        "kind": "heading",
+        "text": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO"
+      },
+      {
+        "kind": "heading",
+        "text": "RESOLUÇÃO NORMATIVA CRA-SP Nº [NÚMERO], DE [DIA] DE [MÊS] DE [ANO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Regulamenta a seleção e a participação de instituições no Eixo de Certificações de Mercado do Programa de Desenvolvimento Profissional do CRA-SP, para descontos e bolsas integrais cedidas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "O PLENÁRIO DO CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO (CRA-SP), no uso das atribuições que lhe conferem a Lei nº 4.769, de 9 de setembro de 1965, regulamentada pelo Decreto nº 61.934, de 22 de dezembro de 1967, e os arts. 24 e 25, inciso XXXII, do Regimento Interno do CRA-SP, aprovado pela Resolução Normativa CFA nº 658, de 23 de dezembro de 2024;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO os arts. 23 e 26, inciso III, da Resolução Normativa CRA-SP nº [NÚMERO DA RESOLUÇÃO GERAL DO PROGRAMA], que preveem descontos e bolsas integrais cedidas por instituições no Eixo de Certificações de Mercado;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CONSIDERANDO o deliberado pelo Plenário do CRA-SP na [NÚMERO DA PLENÁRIA], realizada em [DATA DA APROVAÇÃO]."
+      },
+      {
+        "kind": "heading",
+        "text": "RESOLVE:"
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO I\nDO OBJETO E DA PARTICIPAÇÃO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 1º Esta Resolução regulamenta a seleção e a participação de instituições no Eixo de Certificações de Mercado do Programa de Desenvolvimento Profissional, para oferta de descontos ou cessão de bolsas integrais, em complemento à Resolução Normativa CRA-SP nº [NÚMERO DA RESOLUÇÃO GERAL DO PROGRAMA]."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º Poderão apresentar propostas os titulares das certificações ou entidades autorizadas para a oferta, mediante recebimento contínuo, sem exclusividade ou classificação competitiva entre instituições."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º O CRA-SP atuará como conector entre os profissionais elegíveis e as instituições, sem custeio das certificações pelo Conselho."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO II\nDOS CRITÉRIOS DE ACEITAÇÃO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 2º São condições obrigatórias para a aceitação:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "I — constituição ou criação regular, representação válida e inexistência de impedimento legal aplicável à cooperação;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "II — identificação da entidade certificadora e comprovação da titularidade ou da autorização para oferecer a certificação, pactuar descontos e ceder as bolsas propostas, com anuência do certificador às obrigações que lhe forem atribuídas quando não for a própria proponente;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "III — certificação já existente, pertinente às áreas da Administração e reconhecida no respectivo segmento, comprovada por regulamento, requisitos públicos, processo de avaliação e evidências verificáveis de utilização profissional;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "IV — informação sobre conhecimentos ou competências avaliados, etapas, requisitos, aprovação, emissão, autenticidade, validade e exigências de manutenção ou renovação;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "V — descrição dos recursos e da equipe para execução e atendimento, com identificação dos responsáveis, canais e procedimentos de inscrição, atendimento, avaliação e comprovação e das condições de acesso e acessibilidade."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Parágrafo único. Curso preparatório ou certificado de participação não será apresentado, por si só, como Certificação de Mercado. A preparação e a certificação serão identificadas separadamente."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 3º O desconto será comprovado por preço público efetivamente praticado para o mesmo processo, modalidade, período e forma de pagamento, com fonte, data, base de incidência, redução e preço final."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Parágrafo único. Serão discriminados os itens cobertos, os custos de inscrição, preparação, avaliações, emissão, reaplicação, manutenção e renovação, o prazo de adesão e a duração do desconto. As evidências serão mantidas no processo."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 4º A bolsa integral cedida dependerá de compromisso formal, anterior ao edital, com identificação da certificação, da quantidade, do processo inicial, dos prazos, das tentativas e da disponibilidade efetiva."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A cobertura abrangerá todas as etapas e taxas obrigatórias da obtenção inicial, incluídas inscrição, preparação obrigatória, avaliações e emissão inicial, vedada cobrança necessária à conclusão do processo anunciado."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Serão indicadas as tentativas cobertas e as condições de reaplicação. Preparação opcional e manutenção ou renovação em ciclos futuros serão discriminadas separadamente, sem excluir despesas indispensáveis à obtenção inicial nem condicionar a bolsa à compra de produto ou serviço."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO III\nDA SOLICITAÇÃO, DA ANÁLISE E DA APROVAÇÃO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 5º A instituição encaminhará a presidencia@crasp.gov.br sua identificação, natureza jurídica, CNPJ, ato constitutivo ou de criação, poderes do representante, responsáveis e contatos, acompanhados das ofertas, das evidências dos arts. 2º a 4º, conforme a modalidade proposta, e de declaração de concordância com os regulamentos e as responsabilidades propostas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A proposta identificará a entidade certificadora, as autorizações, os preços e descontos e, havendo cessão, a quantidade, a cobertura e a disponibilidade das bolsas. Poderão ser utilizadas fontes oficiais suficientes à verificação, sem repetição dos documentos."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º A página do Programa manterá disponíveis este Regulamento, a minuta do acordo e as orientações para encaminhamento das manifestações de interesse à Presidência."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 6º A análise e a aprovação da proposta obedecerão às seguintes etapas:"
+      },
+      {
+        "kind": "paragraph",
+        "text": "I — a Presidência receberá a proposta e a encaminhará à área gestora do Programa;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "II — a Gerência de Inovação e Desenvolvimento Profissional verificará a documentação e os critérios dos arts. 2º a 4º, conforme a modalidade proposta, registrará as evidências e concluirá a análise;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "III — o Diretor de Formação Profissional emitirá parecer conclusivo sobre a proposta, o escopo e as condições de participação;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "IV — a Diretoria Executiva apreciará a proposta e, após sua aprovação, a encaminhará ao Plenário;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "V — o Plenário deliberará sobre a participação da instituição, as ofertas e as condições da cooperação;"
+      },
+      {
+        "kind": "paragraph",
+        "text": "VI — a Presidência formalizará a cooperação aprovada e promoverá a publicação do instrumento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º A análise identificará, por critério, a evidência examinada e o atendimento, o não atendimento ou a pendência. A solicitação de complementação indicará os elementos faltantes e o prazo de resposta."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º O objeto social e as atividades efetivamente exercidas serão examinados. Havendo indícios de atividade básica ou de serviços a terceiros sujeitos a registro no CRA-SP, será solicitada manifestação da área de Fiscalização e Registro sobre o enquadramento e a regularidade exigível, sem presumir a obrigação pela mera apresentação da proposta."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Após a decisão de mérito, a instituição receberá comunicação com os fundamentos do indeferimento ou a identificação das ofertas, do escopo e das condições aprovados. Somente a cooperação aprovada será formalizada, e a divulgação das ofertas dependerá da assinatura do acordo."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO IV\nDA FORMALIZAÇÃO E DA EXECUÇÃO DA COOPERAÇÃO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 7º A cooperação será formalizada por Acordo de Cooperação Técnica, conforme a minuta do Anexo I, assinado pelo Presidente do CRA-SP e pelo representante habilitado da instituição, com quadro das certificações, descontos, bolsas, cobertura, prazos e responsabilidades da instituição e da entidade certificadora."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º As cláusulas poderão ser adequadas às características da oferta e às necessidades das partes, após análise e aprovação, sem afastar os critérios deste Regulamento. Condições não previstas no modelo serão examinadas antes da assinatura."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Não haverá transferência de recursos financeiros nem remuneração entre as partes."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Nas ofertas com desconto, os pagamentos serão feitos pelo participante diretamente à instituição responsável, nas condições previamente informadas e formalizadas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 8º Para as bolsas cedidas, o CRA-SP publicará edital que identifique quantidade, cobertura, requisitos, documentos, prazos, habilitação, distribuição, resultados, confirmação de interesse e suplência, observados os procedimentos e impedimentos do art. 23 da resolução geral do Programa."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º O edital será elaborado pela área gestora e seguirá o procedimento do art. 6º, admitida sua aprovação conjunta com a cooperação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Os contemplados confirmarão o interesse e formalizarão a concessão. A falta de confirmação ou o não atendimento às condições do edital ensejará convocação da suplência, com registro da ocorrência."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º A instituição confirmará a disponibilização e a utilização da bolsa e fornecerá os registros necessários ao acompanhamento do resultado. O interessado será informado das pendências e dos resultados de sua habilitação."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO V\nDAS ATUALIZAÇÕES E DO ENCERRAMENTO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 9º As atualizações cadastrais, informativas ou de execução que preservem o objeto, o escopo e as condições aprovados serão verificadas e registradas pela área gestora do Programa, sob supervisão técnica do Diretor de Formação Profissional, com indicação da fonte, da data e da alteração, sem nova aprovação colegiada."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Parágrafo único. Novas ofertas e alterações do objeto ou das condições determinantes da aprovação seguirão as etapas do art. 6º e serão formalizadas antes de sua divulgação. A atualização operacional não prorrogará o acordo."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 10. O acordo terá vigência determinada. Sua prorrogação dependerá de avaliação do cumprimento das obrigações, da regularidade institucional e da manutenção das condições aprovadas, concordância das partes e aprovação e formalização pelo procedimento do art. 6º, antes do término."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 1º O encerramento poderá decorrer do término da vigência, consenso, solicitação de uma das partes, descumprimento ou interesse público motivado, com comunicação no prazo pactuado. O encerramento por decisão do CRA-SP observará o mesmo procedimento de aprovação, asseguradas a manifestação da instituição e a motivação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 2º Identificado descumprimento, a instituição será comunicada para esclarecimento e correção, quando cabível, em prazo formalmente informado."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 3º Serão preservadas as condições das adesões e das bolsas já formalizadas, os registros e as responsabilidades assumidas. As partes definirão as providências de continuidade e atendimento para a realização das etapas integralmente cobertas pelas bolsas, sem cobrança ao contemplado."
+      },
+      {
+        "kind": "paragraph",
+        "text": "§ 4º A instituição comunicará à Presidência alterações, indisponibilidades e descumprimentos, com as providências propostas; os riscos aos participantes serão comunicados imediatamente. As medidas urgentes observarão o art. 24, § 4º, da resolução geral do Programa."
+      },
+      {
+        "kind": "heading",
+        "text": "CAPÍTULO VI\nDAS DISPOSIÇÕES FINAIS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 11. Os casos omissos observarão o art. 40 da resolução geral do Programa."
+      },
+      {
+        "kind": "paragraph",
+        "text": "Art. 12. Esta Resolução e seu Anexo I serão disponibilizados na página do Programa. Esta Resolução entra em vigor na data de sua publicação."
+      },
+      {
+        "kind": "paragraph",
+        "text": "[NOME DA AUTORIDADE SIGNATÁRIA]\n[REGISTRO PROFISSIONAL]\nPresidente do CRA-SP"
+      },
+      {
+        "kind": "heading",
+        "text": "ANEXO I\nDA MINUTA DE ACORDO DE COOPERAÇÃO TÉCNICA"
+      },
+      {
+        "kind": "paragraph",
+        "text": "ACORDO DE COOPERAÇÃO TÉCNICA Nº [NÚMERO DO ACORDO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "O CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO — CRA-SP, autarquia federal, inscrito no CNPJ sob nº [CNPJ DO CRA-SP], com sede em [ENDEREÇO DO CRA-SP], representado por seu Presidente, [NOME E QUALIFICAÇÃO], e [DENOMINAÇÃO DA INSTITUIÇÃO], [NATUREZA JURÍDICA], inscrita no CNPJ sob nº [CNPJ DA INSTITUIÇÃO], com sede em [ENDEREÇO DA INSTITUIÇÃO], representada por [NOME, CARGO E PODERES DE REPRESENTAÇÃO], doravante denominada INSTITUIÇÃO PARTICIPANTE, celebram o presente acordo com fundamento na Resolução Normativa CRA-SP nº [NÚMERO DA RESOLUÇÃO DE CERTIFICAÇÕES DE MERCADO] e na Resolução Normativa CRA-SP nº [NÚMERO DA RESOLUÇÃO GERAL DO PROGRAMA], mediante as cláusulas seguintes."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA PRIMEIRA\nDO OBJETO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "1.1. O objeto é o acesso dos profissionais elegíveis ao Eixo de Certificações de Mercado às ofertas do quadro, com descontos ou bolsas integrais cedidas, conforme o processo administrativo nº [NÚMERO DO PROCESSO]."
+      },
+      {
+        "kind": "paragraph",
+        "text": "QUADRO DAS OFERTAS E CONDIÇÕES"
+      },
+      {
+        "kind": "paragraph",
+        "text": "CAMPO\nCONDIÇÃO ACORDADA"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Certificação\n[NOME, ENTIDADE CERTIFICADORA, REGULAMENTO E EVIDÊNCIAS DE RECONHECIMENTO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Instituição participante\n[TITULARIDADE OU AUTORIZAÇÃO E ANUÊNCIA DO CERTIFICADOR]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Processo e requisitos\n[ETAPAS, REQUISITOS, AVALIAÇÕES, APROVAÇÃO, EMISSÃO E AUTENTICIDADE]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Preço de referência\n[PREÇO PÚBLICO, FONTE, DATA E CONDIÇÕES COMPARÁVEIS]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Desconto e custos\n[BASE DE INCIDÊNCIA, REDUÇÃO, PREÇO FINAL E CUSTOS DE CADA ETAPA]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Prazo e validade\n[ADESÃO, DURAÇÃO DO DESCONTO, VALIDADE DA CERTIFICAÇÃO E CONDIÇÕES DE MANUTENÇÃO OU RENOVAÇÃO]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Bolsas cedidas\n[QUANTIDADE, PROCESSO INICIAL, DISPONIBILIDADE E PRAZOS]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Cobertura integral\n[TODAS AS ETAPAS E TAXAS OBRIGATÓRIAS; PREPARAÇÃO, AVALIAÇÕES E EMISSÃO INICIAL]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Tentativas\n[TENTATIVAS COBERTAS, REAPLICAÇÃO E ITENS OPCIONAIS OU FUTUROS]"
+      },
+      {
+        "kind": "paragraph",
+        "text": "Atendimento\n[RECURSOS, EQUIPE, RESPONSÁVEIS, CANAIS, ACESSIBILIDADE E COMPROVAÇÃO DA UTILIZAÇÃO]"
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA SEGUNDA\nDAS CONDIÇÕES DAS OFERTAS E DOS RECURSOS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "2.1. A INSTITUIÇÃO PARTICIPANTE assegurará os descontos e as bolsas do quadro. Manterá as evidências datadas do preço de referência e informará a base de incidência, o desconto, o preço final, os custos de cada etapa, os prazos de adesão e a duração do desconto."
+      },
+      {
+        "kind": "paragraph",
+        "text": "2.2. Quando previstas no quadro, as bolsas estarão efetivamente disponíveis antes do edital e cobrirão todas as etapas e taxas obrigatórias da obtenção inicial, incluídas inscrição, preparação obrigatória, avaliações e emissão inicial, com as tentativas e condições de reaplicação identificadas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "2.3. Preparação opcional e ciclos futuros de manutenção ou renovação serão discriminados, sem cobrança necessária à conclusão do processo inicial nem condicionamento à compra de produto ou serviço."
+      },
+      {
+        "kind": "paragraph",
+        "text": "2.4. Não haverá transferência financeira nem remuneração entre as partes. Nas ofertas com desconto, o participante pagará diretamente à instituição responsável."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA TERCEIRA\nDAS RESPONSABILIDADES DA INSTITUIÇÃO PARTICIPANTE"
+      },
+      {
+        "kind": "paragraph",
+        "text": "3.1. A INSTITUIÇÃO PARTICIPANTE manterá a titularidade ou as autorizações e anuências necessárias, cumprirá o atendimento e as obrigações do quadro e confirmará a disponibilização e a utilização das bolsas, com os registros dos resultados."
+      },
+      {
+        "kind": "paragraph",
+        "text": "3.2. A entidade certificadora responderá pelos requisitos, avaliações, emissão e autenticidade do certificado ou registro. Desconto e bolsa não garantem aprovação nem dispensam seus requisitos. A instituição comunicará à Presidência alterações, indisponibilidades e riscos aos participantes."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA QUARTA\nDAS RESPONSABILIDADES DO CRA-SP"
+      },
+      {
+        "kind": "paragraph",
+        "text": "4.1. O CRA-SP atuará como conector, divulgará as ofertas e orientará o acesso. Nas bolsas cedidas, promoverá edital, habilitação, distribuição, convocação, suplência e formalização, conforme o art. 23 da resolução geral do Programa e o Regulamento."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA QUINTA\nDA DIVULGAÇÃO E DOS USOS AUTORIZADOS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "5.1. A divulgação distinguirá certificação, preparação, desconto e bolsa cedida. O uso das marcas e dos materiais dependerá de autorização do titular e ficará limitado ao objeto deste acordo, sem endosso geral a outros produtos ou serviços."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA SEXTA\nDOS REGISTROS E DOS DADOS PESSOAIS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "6.1. As partes definirão os dados e os meios de compartilhamento necessários ao acesso, ao atendimento, à comprovação e ao acompanhamento das ofertas, com responsáveis, controle de acesso, medidas de segurança, atendimento aos titulares e condições de guarda e destinação, conforme a Lei nº 13.709, de 14 de agosto de 2018."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA SÉTIMA\nDA VIGÊNCIA E DO ACOMPANHAMENTO"
+      },
+      {
+        "kind": "paragraph",
+        "text": "7.1. O acordo vigorará de [DATA INICIAL] a [DATA FINAL]. A prorrogação será aprovada e formalizada antes do término, após avaliação da execução e concordância das partes, pelo procedimento do Regulamento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "7.2. A área gestora do Programa e [RESPONSÁVEL DA INSTITUIÇÃO] acompanharão o cumprimento das condições do quadro e registrarão ocorrências e providências. As comunicações formais serão realizadas por presidencia@crasp.gov.br e [E-MAIL DA INSTITUIÇÃO]."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA OITAVA\nDAS ALTERAÇÕES E DAS ADEQUAÇÕES"
+      },
+      {
+        "kind": "paragraph",
+        "text": "8.1. Atualizações que preservem o objeto, o escopo e as condições aprovados serão verificadas e registradas pela área gestora, sob supervisão do Diretor de Formação Profissional, com fonte, data e alteração. Não ampliarão o objeto nem prorrogarão o acordo."
+      },
+      {
+        "kind": "paragraph",
+        "text": "8.2. Novas ofertas e mudanças de desconto, cobertura ou de outras condições determinantes da aprovação seguirão o fluxo do Regulamento e serão formalizadas antes da divulgação, sem afastar critérios ou prejudicar adesões e bolsas já formalizadas."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA NONA\nDO ENCERRAMENTO E DA CONTINUIDADE"
+      },
+      {
+        "kind": "paragraph",
+        "text": "9.1. O acordo poderá encerrar-se por término de vigência, consenso, solicitação de uma das partes, descumprimento ou interesse público motivado, com comunicação em [PRAZO DE AVISO]. O encerramento por decisão do CRA-SP observará o procedimento do Regulamento, com manifestação da instituição e decisão motivada."
+      },
+      {
+        "kind": "paragraph",
+        "text": "9.2. Identificado descumprimento, a instituição será comunicada para esclarecimento e correção, quando cabível, em prazo formalmente informado."
+      },
+      {
+        "kind": "paragraph",
+        "text": "9.3. Serão preservadas as adesões, bolsas, registros, certificados e responsabilidades já formalizados. As partes definirão as providências de continuidade e atendimento para a realização das etapas integralmente cobertas pelas bolsas, sem cobrança ao contemplado. As medidas urgentes observarão o art. 24, § 4º, da resolução geral do Programa."
+      },
+      {
+        "kind": "heading",
+        "text": "CLÁUSULA DÉCIMA\nDOS CASOS NÃO PREVISTOS"
+      },
+      {
+        "kind": "paragraph",
+        "text": "10.1. Os casos não previstos observarão o Regulamento e o art. 40 da resolução geral do Programa. Sua solução não dispensará critérios de aceitação nem requisitos das ofertas."
+      },
+      {
+        "kind": "paragraph",
+        "text": "E, por estarem de acordo, as partes assinam o presente instrumento."
+      },
+      {
+        "kind": "paragraph",
+        "text": "[LOCAL], [DATA DA ASSINATURA]."
+      },
+      {
+        "kind": "paragraph",
+        "text": "[NOME DO PRESIDENTE DO CRA-SP]\nPresidente do CRA-SP\n\n[NOME DO REPRESENTANTE DA INSTITUIÇÃO]\n[CARGO E INSTITUIÇÃO]"
+      }
+    ]
+  }
+]

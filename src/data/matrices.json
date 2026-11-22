@@ -1,0 +1,1570 @@
+{
+  "asg-ods": {
+    "title": "Matriz de Métricas, Indicadores e Metas do Componente Curricular de ASG e ODS",
+    "description": "Cooperação, adesão das instituições e resultados da aplicação acadêmica.",
+    "counts": {
+      "dimensions": 13,
+      "verificationPoints": 48
+    },
+    "sheets": [
+      {
+        "id": "matriz",
+        "title": "Matriz",
+        "columns": [
+          "Nº",
+          "Componente",
+          "Dimensão",
+          "Momento / etapa",
+          "O que acompanhar",
+          "Por que acompanhar",
+          "Indicadores",
+          "Metas sugeridas ou parâmetros dos modelos"
+        ],
+        "rows": [
+          [
+            "1",
+            "ASG e ODS",
+            "Cooperação e autorizações",
+            "Preparação para disponibilização",
+            "ACTs dos parceiros, termos individuais, materiais e versões autorizadas.",
+            "Assegurar a regularidade da disponibilização dos conteúdos.",
+            "Percentual de materiais com direitos comprovados, versão aprovada e autorização vigente.",
+            "(100%) dos materiais liberados com autorizações válidas, conforme as condições dos modelos."
+          ],
+          [
+            "2",
+            "ASG e ODS",
+            "Interesse institucional",
+            "Manifestação de interesse",
+            "Contatos recebidos, instituições e campus mencionados, curso principal e previsão de implementação.",
+            "Conhecer a procura e organizar o atendimento.",
+            "Manifestações por período; instituições e campus identificados após conferência; distribuição por semestre pretendido.",
+            "Estabelecer linha de base em (90) dias e registrar o encaminhamento de (100%) das manifestações."
+          ],
+          [
+            "3",
+            "ASG e ODS",
+            "Adesão institucional",
+            "Formalização com a IES",
+            "ACTs específicos celebrados, instituições, campus, cursos e responsáveis.",
+            "Distinguir interesse de adesão formal.",
+            "IES aderentes; ACTs formalizados; campus e cursos abrangidos; conversão de interesse em adesão.",
+            "(100%) das liberações precedidas de ACT próprio com a IES, conforme o modelo. Meta de referência de (50) instituições aderentes no ciclo."
+          ],
+          [
+            "4",
+            "ASG e ODS",
+            "Organização pedagógica",
+            "Definição da aplicação",
+            "Adoção integral, módulos selecionados ou uso como apoio docente; forma de aplicação, AVA e período.",
+            "Conhecer o escopo efetivamente adotado por cada instituição.",
+            "Quantidade de aplicações declaradas pelas IES por formato de adoção integral, inserção modular ou apoio docente. Módulos selecionados, cursos e períodos abrangidos.",
+            "Manter (100%) das aplicações com escopo, AVA, responsáveis e período identificados. A adoção integral corresponde a 24 horas pedagógicas."
+          ],
+          [
+            "5",
+            "ASG e ODS",
+            "Implantação",
+            "Início da aplicação acadêmica",
+            "Instituições que efetivamente iniciaram a utilização no período planejado.",
+            "Distinguir formalização de implantação efetiva.",
+            "IES com implantação declarada; taxa de implantação entre as adesões previstas para o mesmo período.",
+            "Buscar (80%) de implantação no semestre planejado, entre as IES formalmente aderentes com condições de iniciar a aplicação."
+          ],
+          [
+            "6",
+            "ASG e ODS",
+            "Alcance educacional",
+            "Participação dos estudantes",
+            "Quantitativos agregados informados pelas IES, por campus, curso, escopo e período.",
+            "Dimensionar o alcance efetivo da aplicação.",
+            "Participações de estudantes informadas pelas IES, por instituição, campus, curso, escopo e mês de referência. Impactados registrados separadamente, quando informados pela IES.",
+            "Obter dados de (100%) das IES com aplicação iniciada, com período, fonte e critério de contagem identificados. Meta de referência de (2.500) participações de estudantes no ciclo."
+          ],
+          [
+            "7",
+            "ASG e ODS",
+            "Conclusão",
+            "Encerramento da aplicação",
+            "Estudantes que concluíram o escopo adotado pela instituição.",
+            "Verificar a continuidade e o cumprimento da formação proposta.",
+            "Concluintes; taxa de conclusão: concluintes ÷ participantes do mesmo grupo, escopo e período.",
+            "Buscar (40%) de conclusão nas coortes encerradas, quando houver critérios comparáveis de participação e conclusão, com meta de referência de (1.000) conclusões registradas no ciclo."
+          ],
+          [
+            "8",
+            "ASG e ODS",
+            "Aprendizagem e aplicação",
+            "Avaliação pedagógica",
+            "Atendimento aos objetivos de aprendizagem e aplicação dos conhecimentos em atividades e casos.",
+            "Avaliar a contribuição formativa do componente.",
+            "Resultados por objetivo ou módulo, segundo os instrumentos e critérios adotados pela IES.",
+            "Nas aplicações com avaliação, registrar os resultados e estabelecer metas de aprendizagem após o primeiro ciclo, preservando os critérios acadêmicos da IES."
+          ],
+          [
+            "9",
+            "ASG e ODS",
+            "Apoio docente",
+            "Preparação e utilização dos materiais",
+            "Orientações solicitadas, dificuldades de aplicação e atendimento aos docentes.",
+            "Apoiar a implantação e identificar necessidades de melhoria.",
+            "Solicitações de apoio; assuntos recorrentes; tempo de resposta; demandas resolvidas.",
+            "Registrar (100%) das solicitações e buscar resposta inicial a (95%) em até (cinco) dias úteis."
+          ],
+          [
+            "10",
+            "ASG e ODS",
+            "Qualidade percebida",
+            "Avaliação da experiência",
+            "Percepção de docentes e participantes sobre conteúdo, recursos e utilidade da formação.",
+            "Orientar melhorias pedagógicas e de atendimento.",
+            "Percentual de avaliações positivas; quantidade de respondentes; sugestões por módulo e formato.",
+            "Buscar (80%) de avaliações positivas, correspondentes a notas 4 ou 5 em escala de 1 a 5, em levantamentos voluntários."
+          ],
+          [
+            "11",
+            "ASG e ODS",
+            "Confiabilidade das informações",
+            "Consolidação dos resultados",
+            "Fonte, data, período, critérios de contagem e limitações das declarações das IES.",
+            "Produzir resultados interpretáveis e reduzir duplicidades.",
+            "Registros completos; informações atualizadas; inconsistências identificadas e esclarecidas.",
+            "Manter (100%) dos registros consolidados com fonte, data, período e critérios identificados. Sugestão de consolidação semestral."
+          ],
+          [
+            "12",
+            "ASG e ODS",
+            "Continuidade institucional",
+            "Avaliação e renovação",
+            "Interesse em continuar, condições de renovação e formalização dentro dos prazos autorizados.",
+            "Acompanhar a permanência das instituições e a continuidade da aplicação.",
+            "Licenças elegíveis à renovação; renovações formalizadas; taxa de renovação; motivos de não continuidade.",
+            "Buscar (80%) de renovação entre as licenças elegíveis e (100%) das renovações formalizadas antes do vencimento, respeitadas as autorizações."
+          ],
+          [
+            "13",
+            "ASG e ODS",
+            "Encerramento e direitos de uso",
+            "Término ou suspensão da licença",
+            "Cessação dos acessos, retirada dos materiais e comprovação das providências.",
+            "Evitar utilização fora do período ou das condições autorizadas.",
+            "Licenças encerradas; acessos cessados; comprovações de retirada recebidas no prazo.",
+            "Observar a cessação do uso e a comprovação da retirada em até dez dias úteis, conforme a cláusula 5.1, “h”, do modelo."
+          ]
+        ]
+      },
+      {
+        "id": "notas",
+        "title": "Notas",
+        "columns": [
+          "Critério de leitura",
+          "Componente Curricular ASG e ODS"
+        ],
+        "rows": [
+          [
+            "Critério de leitura 1",
+            "Os modelos dos ACTs preveem informações agregadas declaradas pelas IES, com fonte, período e data de atualização. Esses dados não equivalem a resultados auditados."
+          ],
+          [
+            "Critério de leitura 2",
+            "Participantes e impactados conservam seus critérios de contagem. Os quantitativos não devem ser somados automaticamente como pessoas distintas."
+          ],
+          [
+            "Critério de leitura 3",
+            "A conclusão considera o escopo adotado: integral, modular ou apoio docente. O uso de material de apoio não equivale automaticamente à conclusão das 24 horas."
+          ],
+          [
+            "Critério de leitura 4",
+            "Os percentuais e as periodicidades sugeridos na matriz são propostas de gestão. Os parâmetros expressos nos modelos dos instrumentos estão identificados nas respectivas linhas."
+          ],
+          [
+            "Critério de leitura 5",
+            "O ciclo da visão executiva vai de 1º de janeiro a 31 de dezembro de 2027. O gráfico de colunas apresenta as participações e as conclusões por mês de referência. A rosca apresenta a quantidade de aplicações declaradas por formato no mesmo ciclo."
+          ]
+        ]
+      },
+      {
+        "id": "pontos-de-verificacao",
+        "title": "Pontos de verificação",
+        "columns": [
+          "Nº da dimensão",
+          "Componente",
+          "Dimensão",
+          "Nº do ponto",
+          "Ponto de verificação"
+        ],
+        "rows": [
+          [
+            "1",
+            "ASG e ODS",
+            "Cooperação e autorizações",
+            "1",
+            "Direitos de uso comprovados"
+          ],
+          [
+            "1",
+            "ASG e ODS",
+            "Cooperação e autorizações",
+            "2",
+            "Versão aprovada"
+          ],
+          [
+            "1",
+            "ASG e ODS",
+            "Cooperação e autorizações",
+            "3",
+            "Autorização vigente"
+          ],
+          [
+            "2",
+            "ASG e ODS",
+            "Interesse institucional",
+            "1",
+            "Manifestações de interesse recebidas"
+          ],
+          [
+            "2",
+            "ASG e ODS",
+            "Interesse institucional",
+            "2",
+            "Instituições identificadas"
+          ],
+          [
+            "2",
+            "ASG e ODS",
+            "Interesse institucional",
+            "3",
+            "Campus identificados"
+          ],
+          [
+            "2",
+            "ASG e ODS",
+            "Interesse institucional",
+            "4",
+            "Curso principal informado"
+          ],
+          [
+            "2",
+            "ASG e ODS",
+            "Interesse institucional",
+            "5",
+            "Semestre de implementação pretendido"
+          ],
+          [
+            "3",
+            "ASG e ODS",
+            "Adesão institucional",
+            "1",
+            "ACTs específicos formalizados"
+          ],
+          [
+            "3",
+            "ASG e ODS",
+            "Adesão institucional",
+            "2",
+            "IES aderentes"
+          ],
+          [
+            "3",
+            "ASG e ODS",
+            "Adesão institucional",
+            "3",
+            "Campus abrangidos"
+          ],
+          [
+            "3",
+            "ASG e ODS",
+            "Adesão institucional",
+            "4",
+            "Cursos abrangidos"
+          ],
+          [
+            "3",
+            "ASG e ODS",
+            "Adesão institucional",
+            "5",
+            "Responsáveis identificados"
+          ],
+          [
+            "4",
+            "ASG e ODS",
+            "Organização pedagógica",
+            "1",
+            "Abrangência da adoção integral, modular ou como apoio"
+          ],
+          [
+            "4",
+            "ASG e ODS",
+            "Organização pedagógica",
+            "2",
+            "Módulos selecionados"
+          ],
+          [
+            "4",
+            "ASG e ODS",
+            "Organização pedagógica",
+            "3",
+            "Forma de aplicação"
+          ],
+          [
+            "4",
+            "ASG e ODS",
+            "Organização pedagógica",
+            "4",
+            "AVA de aplicação"
+          ],
+          [
+            "4",
+            "ASG e ODS",
+            "Organização pedagógica",
+            "5",
+            "Cursos abrangidos"
+          ],
+          [
+            "4",
+            "ASG e ODS",
+            "Organização pedagógica",
+            "6",
+            "Período de aplicação"
+          ],
+          [
+            "5",
+            "ASG e ODS",
+            "Implantação",
+            "1",
+            "Implantação declarada no período planejado"
+          ],
+          [
+            "6",
+            "ASG e ODS",
+            "Alcance educacional",
+            "1",
+            "Quantitativo de participantes"
+          ],
+          [
+            "6",
+            "ASG e ODS",
+            "Alcance educacional",
+            "2",
+            "Quantitativo de impactados, quando informado"
+          ],
+          [
+            "7",
+            "ASG e ODS",
+            "Conclusão",
+            "1",
+            "Concluintes do escopo adotado"
+          ],
+          [
+            "8",
+            "ASG e ODS",
+            "Aprendizagem e aplicação",
+            "1",
+            "Atendimento aos objetivos de aprendizagem"
+          ],
+          [
+            "8",
+            "ASG e ODS",
+            "Aprendizagem e aplicação",
+            "2",
+            "Aplicação dos conhecimentos em atividades e casos"
+          ],
+          [
+            "9",
+            "ASG e ODS",
+            "Apoio docente",
+            "1",
+            "Solicitações de apoio"
+          ],
+          [
+            "9",
+            "ASG e ODS",
+            "Apoio docente",
+            "2",
+            "Dificuldades e assuntos recorrentes"
+          ],
+          [
+            "9",
+            "ASG e ODS",
+            "Apoio docente",
+            "3",
+            "Tempo de resposta"
+          ],
+          [
+            "9",
+            "ASG e ODS",
+            "Apoio docente",
+            "4",
+            "Demandas resolvidas"
+          ],
+          [
+            "10",
+            "ASG e ODS",
+            "Qualidade percebida",
+            "1",
+            "Percepção sobre o conteúdo"
+          ],
+          [
+            "10",
+            "ASG e ODS",
+            "Qualidade percebida",
+            "2",
+            "Percepção sobre os recursos"
+          ],
+          [
+            "10",
+            "ASG e ODS",
+            "Qualidade percebida",
+            "3",
+            "Utilidade da formação"
+          ],
+          [
+            "10",
+            "ASG e ODS",
+            "Qualidade percebida",
+            "4",
+            "Quantidade de respondentes"
+          ],
+          [
+            "10",
+            "ASG e ODS",
+            "Qualidade percebida",
+            "5",
+            "Sugestões de melhoria"
+          ],
+          [
+            "11",
+            "ASG e ODS",
+            "Confiabilidade das informações",
+            "1",
+            "Fonte da informação"
+          ],
+          [
+            "11",
+            "ASG e ODS",
+            "Confiabilidade das informações",
+            "2",
+            "Atualização das informações e respectiva data"
+          ],
+          [
+            "11",
+            "ASG e ODS",
+            "Confiabilidade das informações",
+            "3",
+            "Período de referência"
+          ],
+          [
+            "11",
+            "ASG e ODS",
+            "Confiabilidade das informações",
+            "4",
+            "Critério de contagem"
+          ],
+          [
+            "11",
+            "ASG e ODS",
+            "Confiabilidade das informações",
+            "5",
+            "Limitações das declarações"
+          ],
+          [
+            "11",
+            "ASG e ODS",
+            "Confiabilidade das informações",
+            "6",
+            "Inconsistências identificadas e esclarecidas"
+          ],
+          [
+            "12",
+            "ASG e ODS",
+            "Continuidade institucional",
+            "1",
+            "Interesse em continuar"
+          ],
+          [
+            "12",
+            "ASG e ODS",
+            "Continuidade institucional",
+            "2",
+            "Elegibilidade à renovação"
+          ],
+          [
+            "12",
+            "ASG e ODS",
+            "Continuidade institucional",
+            "3",
+            "Renovações formalizadas no prazo"
+          ],
+          [
+            "12",
+            "ASG e ODS",
+            "Continuidade institucional",
+            "4",
+            "Motivos de não continuidade"
+          ],
+          [
+            "13",
+            "ASG e ODS",
+            "Encerramento e direitos de uso",
+            "1",
+            "Licenças encerradas"
+          ],
+          [
+            "13",
+            "ASG e ODS",
+            "Encerramento e direitos de uso",
+            "2",
+            "Acessos cessados"
+          ],
+          [
+            "13",
+            "ASG e ODS",
+            "Encerramento e direitos de uso",
+            "3",
+            "Materiais retirados"
+          ],
+          [
+            "13",
+            "ASG e ODS",
+            "Encerramento e direitos de uso",
+            "4",
+            "Comprovação da retirada no prazo"
+          ]
+        ]
+      }
+    ]
+  },
+  "educa": {
+    "title": "Matriz de Métricas, Indicadores e Metas do CRA-SP Educa",
+    "description": "Acompanhamento dos cursos e das vagas de mercado do CRA-SP Educa.",
+    "counts": {
+      "dimensions": 13,
+      "verificationPoints": 34
+    },
+    "sheets": [
+      {
+        "id": "matriz",
+        "title": "Matriz",
+        "columns": [
+          "Nº",
+          "Eixo",
+          "Dimensão",
+          "Momento / etapa",
+          "O que acompanhar",
+          "Por que acompanhar",
+          "Indicadores",
+          "Metas sugeridas"
+        ],
+        "rows": [
+          [
+            "1",
+            "Cursos",
+            "Instituições participantes",
+            "Composição e manutenção da rede",
+            "Instituições vinculadas aos cursos, identificação e atualização das ofertas.",
+            "Conhecer a contribuição efetiva dos parceiros.",
+            "Instituições participantes; instituições com cursos disponíveis; cursos por instituição.",
+            "Manter (100%) das instituições publicadas identificadas e vinculadas às respectivas ofertas; revisar o portfólio trimestralmente."
+          ],
+          [
+            "2",
+            "Cursos",
+            "Oferta e qualidade cadastral",
+            "Disponibilização do catálogo",
+            "Cursos publicados, informações essenciais e funcionamento dos links.",
+            "Permitir escolhas informadas e acesso às instituições responsáveis.",
+            "Cursos disponíveis; distribuição por instituição, área, formato e carga horária; percentual de registros completos e links válidos.",
+            "Manter (100%) das ofertas com informações essenciais completas e conferir mensalmente os links de acesso."
+          ],
+          [
+            "3",
+            "Cursos",
+            "Interesse",
+            "Pré-matrícula no Educa",
+            "Usuários interessados e cursos adicionados à jornada.",
+            "Identificar a procura e orientar a composição do catálogo.",
+            "Usuários únicos que completaram o cadastro na plataforma no ciclo. Usuários distintos interessados, pré-matrículas registradas e procura por curso, área e instituição.",
+            "Estabelecer linha de base em (90) dias e realizar análise mensal da procura, com meta de referência de (1.500) usuários únicos que completaram o cadastro na plataforma no ciclo."
+          ],
+          [
+            "4",
+            "Cursos",
+            "Adesão declarada",
+            "Matrícula na instituição",
+            "Retorno do usuário informando que realizou a matrícula externa.",
+            "Distinguir interesse de matrícula declarada.",
+            "Matrículas declaradas; percentual de pré-matrículas que evoluem para matrícula declarada na mesma coorte.",
+            "Buscar (50%) de conversão em até (30) dias após o primeiro registro de interesse, com meta de referência de (3.000) matrículas declaradas no ciclo."
+          ],
+          [
+            "5",
+            "Cursos",
+            "Continuidade e conclusão",
+            "Desenvolvimento da jornada",
+            "Situações informadas de participação, conclusão e desistência.",
+            "Identificar avanços, interrupções e necessidades de acompanhamento.",
+            "Distribuição das situações da jornada. Conclusões registradas em jornadas com status CONCLUIDO. Desistências antes e depois da matrícula declarada.",
+            "Buscar (30%) de conclusão registrada nas coortes de matrículas declaradas com prazo de formação encerrado, com meta de referência de (900) conclusões registradas no ciclo."
+          ],
+          [
+            "6",
+            "Cursos",
+            "Evidências e reconhecimento",
+            "Envio e análise do certificado",
+            "Certificados apresentados, pendências e resultados registrados da análise.",
+            "Distinguir conclusão informada de conclusão documentalmente validada.",
+            "Certificados enviados; certificados em análise; decisões registradas; conclusões validadas, quando houver validação registrada.",
+            "Manter (100%) dos envios com situação identificada; definir responsável, critérios e prazo de análise antes de estabelecer meta de conclusão comprovada."
+          ],
+          [
+            "7",
+            "Cursos",
+            "Qualidade percebida",
+            "Avaliação vinculada ao envio do certificado",
+            "Notas sobre curso, plataforma e material.",
+            "Identificar a experiência dos participantes que apresentam certificado e orientar melhorias.",
+            "Média de cada item; percentual de notas 4 ou 5; quantidade de avaliadores por curso e instituição.",
+            "Buscar (80%) de notas 4 ou 5 em cada item, informando sempre a quantidade e o perfil das respostas."
+          ],
+          [
+            "8",
+            "Vagas de Mercado",
+            "Instituições e empresas participantes",
+            "Composição e manutenção da rede",
+            "Instituições que fornecem oportunidades e empresas identificadas nos anúncios.",
+            "Conhecer a diversidade e a contribuição dos parceiros.",
+            "Instituições fornecedoras; empresas anunciantes; anúncios por instituição e empresa.",
+            "Manter (100%) dos anúncios vinculados à instituição ou empresa responsável e revisar trimestralmente a composição da rede."
+          ],
+          [
+            "9",
+            "Vagas de Mercado",
+            "Oferta e qualidade cadastral",
+            "Publicação das oportunidades",
+            "Identificação, requisitos, localidade, condições e link de candidatura.",
+            "Reduzir informações incompletas e encaminhamentos para oportunidades indisponíveis.",
+            "Anúncios distintos; distribuição por tipo e localidade; percentual de registros completos e links válidos.",
+            "Manter (100%) dos anúncios com identificação, requisitos e link; verificar mensalmente sua disponibilidade com as fontes responsáveis."
+          ],
+          [
+            "10",
+            "Vagas de Mercado",
+            "Interesse",
+            "Registro na jornada",
+            "Pessoas interessadas e oportunidades acompanhadas.",
+            "Medir a procura sem confundir pessoas com quantidade de interesses.",
+            "Usuários distintos interessados; registros de interesse por usuário e vaga; distribuição por tipo, empresa e localidade.",
+            "Estabelecer linha de base em (90) dias e acompanhar mensalmente a procura."
+          ],
+          [
+            "11",
+            "Vagas de Mercado",
+            "Participação declarada",
+            "Candidatura no portal externo",
+            "Retorno do usuário informando participação no processo seletivo.",
+            "Distinguir interesse no Educa de candidatura declarada.",
+            "Candidaturas declaradas; percentual de interesses que evoluem para participação declarada na mesma coorte.",
+            "Buscar (50%) de participação declarada em até (30) dias após o primeiro interesse registrado."
+          ],
+          [
+            "12",
+            "Vagas de Mercado",
+            "Acompanhamento dos processos",
+            "Retorno sobre o desfecho",
+            "Contratação, não aprovação, desistência e ausência de informação.",
+            "Conhecer os desfechos sem classificar silêncio como reprovação.",
+            "Percentual de processos com resultado informado; distribuição dos desfechos; casos sem informação.",
+            "Buscar (60%) de desfechos informados em até (90) dias, mediante incentivo ao retorno dos participantes."
+          ],
+          [
+            "13",
+            "Vagas de Mercado",
+            "Inserção profissional declarada",
+            "Contratação informada",
+            "Contratações declaradas e pessoas que relatam obtenção de oportunidade.",
+            "Acompanhar resultados profissionais associados à utilização do Educa.",
+            "Contratações declaradas; usuários distintos que declararam contratação; proporção entre participantes da mesma coorte.",
+            "Estabelecer linha de base antes de fixar uma taxa de contratação e acompanhar sua evolução trimestralmente, com meta de referência de (50) contratações declaradas no ciclo. Identificar a origem da informação em (100%) dos relatórios."
+          ]
+        ]
+      },
+      {
+        "id": "notas",
+        "title": "Notas",
+        "columns": [
+          "Critério de leitura",
+          "CRA-SP Educa"
+        ],
+        "rows": [
+          [
+            "Critério de leitura 1",
+            "Matrícula, candidatura e contratação são declaradas pelo usuário. A confirmação externa, quando existente, deve ser identificada separadamente."
+          ],
+          [
+            "Critério de leitura 2",
+            "Certificado enviado e certificado validado são situações distintas. Conclusões registradas não incluem os certificados ainda em análise."
+          ],
+          [
+            "Critério de leitura 3",
+            "Instituições participantes são as vinculadas às ofertas do Educa. O catálogo de IES utilizado no cadastro do estudante tem outra finalidade."
+          ],
+          [
+            "Critério de leitura 4",
+            "As taxas comparam o mesmo grupo e período. Pessoas únicas são apresentadas separadamente dos registros de cursos ou vagas."
+          ],
+          [
+            "Critério de leitura 5",
+            "O ciclo da visão executiva vai de 1º de janeiro a 31 de dezembro de 2027. O gráfico de colunas apresenta matrículas declaradas, conclusões registradas e contratações declaradas por mês de referência. A rosca apresenta os registros de interesse em cursos e vagas de mercado no mesmo ciclo."
+          ]
+        ]
+      },
+      {
+        "id": "pontos-de-verificacao",
+        "title": "Pontos de verificação",
+        "columns": [
+          "Nº da dimensão",
+          "Eixo",
+          "Dimensão",
+          "Nº do ponto",
+          "Ponto de verificação"
+        ],
+        "rows": [
+          [
+            "1",
+            "Cursos",
+            "Instituições participantes",
+            "1",
+            "Instituições participantes identificadas"
+          ],
+          [
+            "1",
+            "Cursos",
+            "Instituições participantes",
+            "2",
+            "Vínculo das instituições com cursos disponíveis"
+          ],
+          [
+            "1",
+            "Cursos",
+            "Instituições participantes",
+            "3",
+            "Atualização das ofertas institucionais"
+          ],
+          [
+            "2",
+            "Cursos",
+            "Oferta e qualidade cadastral",
+            "1",
+            "Cursos disponíveis"
+          ],
+          [
+            "2",
+            "Cursos",
+            "Oferta e qualidade cadastral",
+            "2",
+            "Informações essenciais completas"
+          ],
+          [
+            "2",
+            "Cursos",
+            "Oferta e qualidade cadastral",
+            "3",
+            "Links de acesso funcionais"
+          ],
+          [
+            "3",
+            "Cursos",
+            "Interesse",
+            "1",
+            "Usuários interessados"
+          ],
+          [
+            "3",
+            "Cursos",
+            "Interesse",
+            "2",
+            "Pré-matrículas registradas"
+          ],
+          [
+            "4",
+            "Cursos",
+            "Adesão declarada",
+            "1",
+            "Matrículas declaradas"
+          ],
+          [
+            "5",
+            "Cursos",
+            "Continuidade e conclusão",
+            "1",
+            "Participação informada"
+          ],
+          [
+            "5",
+            "Cursos",
+            "Continuidade e conclusão",
+            "2",
+            "Conclusões registradas"
+          ],
+          [
+            "5",
+            "Cursos",
+            "Continuidade e conclusão",
+            "3",
+            "Desistências informadas"
+          ],
+          [
+            "6",
+            "Cursos",
+            "Evidências e reconhecimento",
+            "1",
+            "Certificados apresentados"
+          ],
+          [
+            "6",
+            "Cursos",
+            "Evidências e reconhecimento",
+            "2",
+            "Pendências identificadas"
+          ],
+          [
+            "6",
+            "Cursos",
+            "Evidências e reconhecimento",
+            "3",
+            "Certificados em análise"
+          ],
+          [
+            "6",
+            "Cursos",
+            "Evidências e reconhecimento",
+            "4",
+            "Decisões registradas"
+          ],
+          [
+            "6",
+            "Cursos",
+            "Evidências e reconhecimento",
+            "5",
+            "Conclusões validadas"
+          ],
+          [
+            "7",
+            "Cursos",
+            "Qualidade percebida",
+            "1",
+            "Avaliação do curso"
+          ],
+          [
+            "7",
+            "Cursos",
+            "Qualidade percebida",
+            "2",
+            "Avaliação da plataforma"
+          ],
+          [
+            "7",
+            "Cursos",
+            "Qualidade percebida",
+            "3",
+            "Avaliação do material"
+          ],
+          [
+            "7",
+            "Cursos",
+            "Qualidade percebida",
+            "4",
+            "Quantidade de avaliadores"
+          ],
+          [
+            "8",
+            "Vagas de Mercado",
+            "Instituições e empresas participantes",
+            "1",
+            "Instituições fornecedoras de oportunidades"
+          ],
+          [
+            "8",
+            "Vagas de Mercado",
+            "Instituições e empresas participantes",
+            "2",
+            "Empresas identificadas nos anúncios"
+          ],
+          [
+            "9",
+            "Vagas de Mercado",
+            "Oferta e qualidade cadastral",
+            "1",
+            "Identificação dos anúncios"
+          ],
+          [
+            "9",
+            "Vagas de Mercado",
+            "Oferta e qualidade cadastral",
+            "2",
+            "Requisitos das oportunidades"
+          ],
+          [
+            "9",
+            "Vagas de Mercado",
+            "Oferta e qualidade cadastral",
+            "3",
+            "Localidade das oportunidades"
+          ],
+          [
+            "9",
+            "Vagas de Mercado",
+            "Oferta e qualidade cadastral",
+            "4",
+            "Condições das oportunidades"
+          ],
+          [
+            "9",
+            "Vagas de Mercado",
+            "Oferta e qualidade cadastral",
+            "5",
+            "Links de candidatura"
+          ],
+          [
+            "10",
+            "Vagas de Mercado",
+            "Interesse",
+            "1",
+            "Usuários interessados"
+          ],
+          [
+            "10",
+            "Vagas de Mercado",
+            "Interesse",
+            "2",
+            "Interesses registrados por usuário e vaga"
+          ],
+          [
+            "11",
+            "Vagas de Mercado",
+            "Participação declarada",
+            "1",
+            "Candidaturas declaradas"
+          ],
+          [
+            "12",
+            "Vagas de Mercado",
+            "Acompanhamento dos processos",
+            "1",
+            "Desfecho informado ou ausência de informação"
+          ],
+          [
+            "13",
+            "Vagas de Mercado",
+            "Inserção profissional declarada",
+            "1",
+            "Contratações declaradas"
+          ],
+          [
+            "13",
+            "Vagas de Mercado",
+            "Inserção profissional declarada",
+            "2",
+            "Usuários que declararam contratação"
+          ]
+        ]
+      }
+    ]
+  },
+  "pdp": {
+    "title": "Matriz de Métricas, Indicadores e Metas do Programa de Desenvolvimento Profissional",
+    "description": "Acompanhamento dos cinco eixos do Programa de Desenvolvimento Profissional.",
+    "counts": {
+      "dimensions": 16,
+      "verificationPoints": 53
+    },
+    "sheets": [
+      {
+        "id": "matriz",
+        "title": "Matriz",
+        "columns": [
+          "Nº",
+          "Eixo",
+          "Dimensão",
+          "Momento / etapa",
+          "O que acompanhar",
+          "Por que acompanhar",
+          "Indicadores",
+          "Metas sugeridas"
+        ],
+        "rows": [
+          [
+            "1",
+            "Cursos Livres",
+            "Alcance e acesso",
+            "Aproximação e ingresso",
+            "Ofertas, inscrições e início das atividades.",
+            "Conhecer o alcance do Programa e o interesse dos profissionais.",
+            "Ofertas disponíveis; inscritos únicos; participantes que iniciaram.",
+            "Registrar (100%) das ofertas e estabelecer a linha de base de participação em (90) dias."
+          ],
+          [
+            "2",
+            "Cursos Livres",
+            "Aprendizagem e conclusão",
+            "Realização da formação",
+            "Participação, conclusão e desistências.",
+            "Identificar adesão efetiva e dificuldades de continuidade.",
+            "Concluintes ÷ iniciantes da mesma turma ou período.",
+            "Buscar (60%) de conclusão nas ofertas cujo prazo tenha terminado."
+          ],
+          [
+            "3",
+            "Trilhas de Aprendizagem",
+            "Adesão e continuidade",
+            "Ingresso direto ou após Cursos Livres",
+            "Novos participantes e transição dos Cursos Livres para as Trilhas.",
+            "Medir a adesão às Trilhas e a transição dos Cursos Livres para as Trilhas.",
+            "Pessoas únicas que iniciaram ao menos uma Trilha em 2027. Percentual de concluintes elegíveis dos Cursos Livres que iniciaram uma Trilha.",
+            "Alcançar 1.000 pessoas únicas que iniciaram ao menos uma Trilha em 2027. Estabelecer a linha de base na primeira coorte e acompanhar trimestralmente."
+          ],
+          [
+            "4",
+            "Trilhas de Aprendizagem",
+            "Aprendizagem e progressão",
+            "Cumprimento do percurso",
+            "Participação, conclusão e atendimento aos requisitos formativos.",
+            "Identificar avanços e dificuldades no percurso para a Distinção.",
+            "Iniciantes; concluintes; taxa de conclusão; percursos integralmente cumpridos.",
+            "Buscar (70%) de conclusão das Trilhas, nos prazos das respectivas ofertas."
+          ],
+          [
+            "5",
+            "Distinção Profissional",
+            "Efetividade do percurso",
+            "Da conclusão da primeira Trilha que integre o percurso à concessão da Distinção Profissional no respectivo tema.",
+            "Quantos profissionais elegíveis ingressam no percurso ao concluir uma Trilha que o integre, quantos obtêm a Distinção no tema e quanto tempo levam.",
+            "Identificar se a jornada conduz ao reconhecimento e onde ocorrem interrupções.",
+            "Taxa de conversão = (profissionais que obtiveram a Distinção ÷ profissionais elegíveis que ingressaram no percurso da mesma coorte e tema) × 100. Tempo mediano = dias entre a conclusão da primeira Trilha integrante do percurso e a concessão.",
+            "Estabelecer a linha de base na primeira coorte com prazo suficiente para conclusão; acompanhar trimestralmente e definir a meta anual de conversão a partir desses resultados."
+          ],
+          [
+            "6",
+            "Distinção Profissional",
+            "Reconhecimento",
+            "Concessão",
+            "Cumprimento dos requisitos e formalização do reconhecimento.",
+            "Verificar se o percurso formativo se converte em Distinção.",
+            "Novas Distinções formalizadas no mês e no ano. Distinções vigentes na data de fechamento. Proporção no universo elegível. Dias úteis entre a confirmação integral dos requisitos e a formalização.",
+            "Formalizar 100% das concessões devidas, buscando formalizar 95% em até 15 dias úteis após a confirmação integral dos requisitos. Alcançar 500 novas Distinções em 2027 e 500 Distinções vigentes em 31/12/2027."
+          ],
+          [
+            "7",
+            "Distinção Profissional",
+            "Manutenção",
+            "Continuidade do reconhecimento",
+            "Cumprimento das exigências, pendências e regularizações.",
+            "Avaliar a continuidade do desenvolvimento após a concessão.",
+            "Considerar os profissionais sujeitos à exigência anual cujo prazo aplicável, inclusive eventual prazo complementar, já tenha encerrado. Taxa de manutenção = (profissionais desse grupo que cumpriram a exigência ÷ total de profissionais do grupo) × 100. Se o grupo estiver vazio, registrar “Não se aplica”. Registrar separadamente pendências, interrupções, regularizações e vigência preservada por indisponibilidade de Trilhas. Para o gráfico mensal, contar as Distinções com manutenção confirmada no mês, uma vez por ano de referência.",
+            "Alcançar 60% de manutenção em 2027 entre os profissionais sujeitos à exigência anual com prazo encerrado. A exigência começa no ano seguinte à concessão, conforme o art. 15."
+          ],
+          [
+            "8",
+            "Distinção Profissional",
+            "Desenvolvimento contínuo",
+            "Formação após a concessão",
+            "Participação dos profissionais distinguidos em novos Cursos Livres e Trilhas.",
+            "Verificar a continuidade da aprendizagem após o reconhecimento.",
+            "Profissionais com Distinção vigente que iniciam e concluem novas formações.",
+            "Buscar participação de (70%) dos profissionais distinguidos em pelo menos (uma) nova formação no ciclo anual, observados os requisitos de manutenção."
+          ],
+          [
+            "9",
+            "Distinção Profissional",
+            "Resultados profissionais e institucionais",
+            "Acompanhamento posterior",
+            "Aplicação dos conhecimentos, trajetória profissional, adimplência e permanência no Conselho.",
+            "Conhecer os resultados associados à jornada dos profissionais distinguidos.",
+            "Relatos de aplicação; evolução de competências; taxas de adimplência e permanência.",
+            "Estabelecer linha de base em (90) dias, acompanhar a aplicação em até (seis) meses e realizar comparação institucional anual."
+          ],
+          [
+            "10",
+            "Distinção Profissional",
+            "Valor percebido do reconhecimento",
+            "Após a concessão e durante a manutenção",
+            "Utilidade atribuída à Distinção e percepção de reconhecimento no ambiente profissional.",
+            "Verificar se a Distinção tem significado e valor para quem a conquista.",
+            "Percentual de respondentes que atribuem notas 4 ou 5, em escala de 1 a 5, à utilidade e ao valor profissional da Distinção.",
+            "Buscar (80%) de avaliações positivas, com levantamento aos (seis) meses da concessão e acompanhamento anual, mediante participação voluntária."
+          ],
+          [
+            "11",
+            "Distinção Profissional",
+            "Reconhecimento pelo mercado",
+            "Avaliação externa por RHs e empregadores",
+            "Valor atribuído à Distinção nos processos seletivos e reconhecimento do selo pelos empregadores.",
+            "Verificar se a Distinção é conhecida e valorizada pelo mercado de trabalho.",
+            "Percentual de RHs respondentes que atribuem valor à Distinção em processos seletivos; percentual de empregadores respondentes que reconhecem o selo.",
+            "Estabelecer a linha de base com pesquisas voluntárias junto a RHs e empregadores e definir metas de evolução para a valorização da Distinção em processos seletivos e para o reconhecimento do selo."
+          ],
+          [
+            "12",
+            "Pós-graduação",
+            "Acesso, cobertura e execução",
+            "Bolsas integrais custeadas pelo CRA-SP",
+            "Disponibilização das bolsas, matrículas, cobertura integral, evolução acadêmica e conclusão.",
+            "Verificar a execução da oferta e a utilização dos recursos destinados à formação.",
+            "Bolsas ofertadas e utilizadas; matriculados; concluintes; taxa de conclusão; ocorrências de cobrança indevida. Na visão executiva, contar as bolsas integrais de Pós-graduação utilizadas no ciclo.",
+            "Acompanhar (100%) dos bolsistas e assegurar o registro da cobertura integral. Definir metas de vagas e conclusão por oferta aprovada."
+          ],
+          [
+            "13",
+            "Pós-graduação",
+            "Acesso e benefício econômico",
+            "Ofertas com condições diferenciadas e descontos",
+            "Ofertas disponíveis, descontos efetivos, adesões e continuidade acadêmica.",
+            "Verificar se a cooperação amplia o acesso e proporciona benefício econômico comprovável.",
+            "Ofertas ativas; adesões informadas; desconto efetivo; economia em relação ao preço de referência equivalente. Na visão executiva, contar as adesões confirmadas a ofertas de Pós-graduação com desconto no ciclo.",
+            "Manter (100%) das ofertas divulgadas com preço de referência, desconto, preço final e condições documentados; consolidar as adesões informadas."
+          ],
+          [
+            "14",
+            "Certificações de Mercado",
+            "Acesso e obtenção",
+            "Bolsas integrais cedidas pelas instituições",
+            "Disponibilização, utilização, participação nas avaliações e obtenção da certificação.",
+            "Verificar se as bolsas são utilizadas e quais resultados produzem.",
+            "Bolsas disponibilizadas e utilizadas; participantes avaliados; certificações obtidas. Na visão executiva, contar as bolsas integrais de Certificações de Mercado utilizadas no ciclo.",
+            "Buscar (80%) de utilização das bolsas cedidas e registrar os resultados fornecidos pelas instituições."
+          ],
+          [
+            "15",
+            "Certificações de Mercado",
+            "Acesso e benefício econômico",
+            "Ofertas com descontos",
+            "Condições comerciais, adesões, participação e resultados da certificação.",
+            "Avaliar o benefício econômico e o acesso efetivo às certificações.",
+            "Ofertas ativas; adesões informadas; desconto efetivo; participantes avaliados; certificações obtidas. Na visão executiva, contar as adesões confirmadas a ofertas de Certificações de Mercado com desconto no ciclo.",
+            "Manter (100%) das ofertas com descontos, custos, cobertura e condições documentados; consolidar as adesões e os resultados informados."
+          ],
+          [
+            "16",
+            "Transversal aos cinco eixos",
+            "Acompanhamento transversal",
+            "Durante a oferta e no acompanhamento posterior",
+            "Acompanhar separadamente as ocorrências relacionadas ao registro profissional e à participação nas ofertas.",
+            "Distinguir os eventos que afetam a participação no Programa e a permanência no Conselho, conforme o art. 33, § 1º.",
+            "Número de cancelamentos do registro profissional. Número de desistências da oferta. Número de abandonos injustificados de ações custeadas.",
+            "Classificar separadamente cada ocorrência identificada no ciclo."
+          ]
+        ]
+      },
+      {
+        "id": "notas",
+        "title": "Notas",
+        "columns": [
+          "Critério de leitura",
+          "Programa de Desenvolvimento Profissional"
+        ],
+        "rows": [
+          [
+            "Critério de leitura 1",
+            "A matriz está organizada na sequência dos eixos e mantém as duas modalidades de Pós-graduação e as duas modalidades de Certificações de Mercado."
+          ],
+          [
+            "Critério de leitura 2",
+            "As metas apresentadas são referências propostas para o planejamento e precisam ser calibradas com a linha de base e as condições de execução."
+          ],
+          [
+            "Critério de leitura 3",
+            "Satisfação em cada eixo: sugestão de 80% de avaliações positivas, correspondentes a notas 4 ou 5 em escala de 1 a 5."
+          ],
+          [
+            "Critério de leitura 4",
+            "As pesquisas de satisfação, aplicação e trajetória profissional permanecem voluntárias. Os resultados devem informar quantidade de respostas, cobertura e limitações."
+          ]
+        ]
+      },
+      {
+        "id": "pontos-de-verificacao",
+        "title": "Pontos de verificação",
+        "columns": [
+          "Nº da dimensão",
+          "Eixo",
+          "Dimensão",
+          "Nº do ponto",
+          "Ponto de verificação"
+        ],
+        "rows": [
+          [
+            "1",
+            "Cursos Livres",
+            "Alcance e acesso",
+            "1",
+            "Ofertas disponíveis"
+          ],
+          [
+            "1",
+            "Cursos Livres",
+            "Alcance e acesso",
+            "2",
+            "Inscritos únicos"
+          ],
+          [
+            "1",
+            "Cursos Livres",
+            "Alcance e acesso",
+            "3",
+            "Início das atividades"
+          ],
+          [
+            "2",
+            "Cursos Livres",
+            "Aprendizagem e conclusão",
+            "1",
+            "Participação na formação"
+          ],
+          [
+            "2",
+            "Cursos Livres",
+            "Aprendizagem e conclusão",
+            "2",
+            "Conclusão da formação"
+          ],
+          [
+            "2",
+            "Cursos Livres",
+            "Aprendizagem e conclusão",
+            "3",
+            "Desistências"
+          ],
+          [
+            "3",
+            "Trilhas de Aprendizagem",
+            "Adesão e continuidade",
+            "1",
+            "Ingresso nas Trilhas"
+          ],
+          [
+            "3",
+            "Trilhas de Aprendizagem",
+            "Adesão e continuidade",
+            "2",
+            "Transição dos Cursos Livres para as Trilhas"
+          ],
+          [
+            "4",
+            "Trilhas de Aprendizagem",
+            "Aprendizagem e progressão",
+            "1",
+            "Início e participação nas Trilhas"
+          ],
+          [
+            "4",
+            "Trilhas de Aprendizagem",
+            "Aprendizagem e progressão",
+            "2",
+            "Conclusão das Trilhas"
+          ],
+          [
+            "4",
+            "Trilhas de Aprendizagem",
+            "Aprendizagem e progressão",
+            "3",
+            "Requisitos do percurso cumpridos"
+          ],
+          [
+            "5",
+            "Distinção Profissional",
+            "Efetividade do percurso",
+            "1",
+            "Conversão do percurso em Distinção"
+          ],
+          [
+            "5",
+            "Distinção Profissional",
+            "Efetividade do percurso",
+            "2",
+            "Tempo até a concessão da Distinção"
+          ],
+          [
+            "6",
+            "Distinção Profissional",
+            "Reconhecimento",
+            "1",
+            "Requisitos para concessão cumpridos"
+          ],
+          [
+            "6",
+            "Distinção Profissional",
+            "Reconhecimento",
+            "2",
+            "Distinções concedidas"
+          ],
+          [
+            "6",
+            "Distinção Profissional",
+            "Reconhecimento",
+            "3",
+            "Distinções vigentes"
+          ],
+          [
+            "6",
+            "Distinção Profissional",
+            "Reconhecimento",
+            "4",
+            "Tempo de formalização"
+          ],
+          [
+            "7",
+            "Distinção Profissional",
+            "Manutenção",
+            "1",
+            "Requisitos de manutenção cumpridos"
+          ],
+          [
+            "7",
+            "Distinção Profissional",
+            "Manutenção",
+            "2",
+            "Pendências de manutenção"
+          ],
+          [
+            "7",
+            "Distinção Profissional",
+            "Manutenção",
+            "3",
+            "Regularizações realizadas"
+          ],
+          [
+            "8",
+            "Distinção Profissional",
+            "Desenvolvimento contínuo",
+            "1",
+            "Início de novas formações"
+          ],
+          [
+            "8",
+            "Distinção Profissional",
+            "Desenvolvimento contínuo",
+            "2",
+            "Conclusão de novas formações"
+          ],
+          [
+            "9",
+            "Distinção Profissional",
+            "Resultados profissionais e institucionais",
+            "1",
+            "Aplicação dos conhecimentos"
+          ],
+          [
+            "9",
+            "Distinção Profissional",
+            "Resultados profissionais e institucionais",
+            "2",
+            "Trajetória profissional"
+          ],
+          [
+            "9",
+            "Distinção Profissional",
+            "Resultados profissionais e institucionais",
+            "3",
+            "Evolução de competências"
+          ],
+          [
+            "9",
+            "Distinção Profissional",
+            "Resultados profissionais e institucionais",
+            "4",
+            "Adimplência"
+          ],
+          [
+            "9",
+            "Distinção Profissional",
+            "Resultados profissionais e institucionais",
+            "5",
+            "Permanência no Conselho"
+          ],
+          [
+            "10",
+            "Distinção Profissional",
+            "Valor percebido do reconhecimento",
+            "1",
+            "Utilidade atribuída à Distinção"
+          ],
+          [
+            "10",
+            "Distinção Profissional",
+            "Valor percebido do reconhecimento",
+            "2",
+            "Reconhecimento no ambiente profissional"
+          ],
+          [
+            "11",
+            "Distinção Profissional",
+            "Reconhecimento pelo mercado",
+            "1",
+            "Valor atribuído à Distinção pelos RHs nos processos seletivos"
+          ],
+          [
+            "11",
+            "Distinção Profissional",
+            "Reconhecimento pelo mercado",
+            "2",
+            "Reconhecimento do selo pelos empregadores"
+          ],
+          [
+            "12",
+            "Pós-graduação",
+            "Acesso, cobertura e execução",
+            "1",
+            "Bolsas disponibilizadas"
+          ],
+          [
+            "12",
+            "Pós-graduação",
+            "Acesso, cobertura e execução",
+            "2",
+            "Utilização das bolsas e matrículas"
+          ],
+          [
+            "12",
+            "Pós-graduação",
+            "Acesso, cobertura e execução",
+            "3",
+            "Cobertura integral da formação"
+          ],
+          [
+            "12",
+            "Pós-graduação",
+            "Acesso, cobertura e execução",
+            "4",
+            "Evolução acadêmica"
+          ],
+          [
+            "12",
+            "Pós-graduação",
+            "Acesso, cobertura e execução",
+            "5",
+            "Conclusão do curso"
+          ],
+          [
+            "12",
+            "Pós-graduação",
+            "Acesso, cobertura e execução",
+            "6",
+            "Cobranças indevidas"
+          ],
+          [
+            "13",
+            "Pós-graduação",
+            "Acesso e benefício econômico",
+            "1",
+            "Ofertas disponíveis"
+          ],
+          [
+            "13",
+            "Pós-graduação",
+            "Acesso e benefício econômico",
+            "2",
+            "Desconto efetivo e economia gerada"
+          ],
+          [
+            "13",
+            "Pós-graduação",
+            "Acesso e benefício econômico",
+            "3",
+            "Adesões informadas"
+          ],
+          [
+            "13",
+            "Pós-graduação",
+            "Acesso e benefício econômico",
+            "4",
+            "Continuidade acadêmica"
+          ],
+          [
+            "14",
+            "Certificações de Mercado",
+            "Acesso e obtenção",
+            "1",
+            "Bolsas disponibilizadas"
+          ],
+          [
+            "14",
+            "Certificações de Mercado",
+            "Acesso e obtenção",
+            "2",
+            "Bolsas utilizadas"
+          ],
+          [
+            "14",
+            "Certificações de Mercado",
+            "Acesso e obtenção",
+            "3",
+            "Participação nas avaliações"
+          ],
+          [
+            "14",
+            "Certificações de Mercado",
+            "Acesso e obtenção",
+            "4",
+            "Certificações obtidas"
+          ],
+          [
+            "15",
+            "Certificações de Mercado",
+            "Acesso e benefício econômico",
+            "1",
+            "Ofertas disponíveis"
+          ],
+          [
+            "15",
+            "Certificações de Mercado",
+            "Acesso e benefício econômico",
+            "2",
+            "Condições comerciais e desconto efetivo"
+          ],
+          [
+            "15",
+            "Certificações de Mercado",
+            "Acesso e benefício econômico",
+            "3",
+            "Adesões informadas"
+          ],
+          [
+            "15",
+            "Certificações de Mercado",
+            "Acesso e benefício econômico",
+            "4",
+            "Participação nas avaliações"
+          ],
+          [
+            "15",
+            "Certificações de Mercado",
+            "Acesso e benefício econômico",
+            "5",
+            "Certificações obtidas"
+          ],
+          [
+            "16",
+            "Transversal aos cinco eixos",
+            "Acompanhamento transversal",
+            "1",
+            "Cancelamento do registro profissional"
+          ],
+          [
+            "16",
+            "Transversal aos cinco eixos",
+            "Acompanhamento transversal",
+            "2",
+            "Desistência da oferta"
+          ],
+          [
+            "16",
+            "Transversal aos cinco eixos",
+            "Acompanhamento transversal",
+            "3",
+            "Abandono injustificado de ação custeada"
+          ]
+        ]
+      }
+    ]
+  }
+}
