@@ -1,5 +1,7 @@
-export interface PlaylistVideo { title: string; url: string }
-export interface PlaylistData { title: string; videos: PlaylistVideo[] }
+import { watchPandaPreview } from './pandaPreview';
+
+export interface PlaylistVideo { title: string; url: string; previewSeconds?: number }
+export interface PlaylistData { title: string; videos: PlaylistVideo[]; description?: string }
 export interface PlaylistOptions {
   editor?: boolean;
   initialPlaylist?: PlaylistData;
@@ -87,19 +89,24 @@ export function parseVideoSource(value: string): VideoSource | undefined {
 function parsePlaylist(value: unknown): PlaylistData {
   if (typeof value !== 'object' || !value || Array.isArray(value))
     throw new Error('Use um arquivo JSON de playlist.');
-  const { title, videos, version } = value as Record<string, unknown>;
+  const { title, description, videos, version } = value as Record<string, unknown>;
   if ((version !== undefined && version !== 1) || typeof title !== 'string' || title.length > maxTitle ||
       !Array.isArray(videos) || videos.length > maxVideos)
     throw new Error('O arquivo precisa conter o nome da playlist e até 50 vídeos.');
   return {
     title: title.trim() || defaultTitle,
+    ...(typeof description === 'string' && description.trim() ? { description: description.trim().slice(0, 260) } : {}),
     videos: videos.map((entry, index) => {
       const record = typeof entry === 'object' && entry ? entry as Record<string, unknown> : {};
       const name = typeof record.title === 'string' ? record.title.trim() : '';
       const source = typeof record.url === 'string' ? parseVideoSource(record.url) : undefined;
       if (!name || name.length > maxTitle || !source)
         throw new Error(`Confira o título e o endereço HTTPS do vídeo ${index + 1}.`);
-      return { title: name, url: source.original };
+      const limit = record.previewSeconds;
+      if (limit === undefined) return { title: name, url: source.original };
+      if (source.provider !== 'Panda Video' || typeof limit !== 'number' || !Number.isInteger(limit) || limit < 1 || limit > 300)
+        throw new Error(`Confira o tempo de amostra do vídeo ${index + 1}.`);
+      return { title: name, url: source.original, previewSeconds: limit };
     }),
   };
 }
@@ -150,6 +157,10 @@ function field(label: string, input: HTMLInputElement) {
   return container;
 }
 
+function previewLabel(seconds: number) {
+  return `Amostra · até ${seconds % 60 === 0 ? `${seconds / 60} min` : `${seconds} s`}`;
+}
+
 export function mountPlaylist(root: HTMLElement, {
   editor = true, initialPlaylist, playlistUrl,
 }: PlaylistOptions = {}): () => void {
@@ -159,7 +170,10 @@ export function mountPlaylist(root: HTMLElement, {
   const status = node('p', 'playlist-status');
   status.setAttribute('role', 'status');
   const toolbar = node('div', 'playlist-toolbar');
+  const metadata = node('div', 'playlist-metadata');
   const heading = node('h3', 'playlist-name');
+  const description = node('p', 'playlist-description');
+  metadata.append(heading, description);
   const viewer = node('div', 'playlist-viewer');
   const playerPanel = node('div', 'playlist-program');
   const screen = node('div', 'playlist-screen');
@@ -175,6 +189,7 @@ export function mountPlaylist(root: HTMLElement, {
   let workspaceChanged = false;
   let importGeneration = 0;
   let scrollFrame = 0;
+  let stopPreview: (() => void) | undefined;
 
   try {
     if (initialPlaylist) playlist = parsePlaylist(initialPlaylist);
@@ -248,10 +263,25 @@ export function mountPlaylist(root: HTMLElement, {
   function updateHeading() {
     heading.textContent = playlist.title === defaultTitle ? '' : playlist.title;
     heading.hidden = !heading.textContent;
-    toolbar.hidden = heading.hidden && !editor;
+    description.textContent = playlist.description ?? '';
+    description.hidden = !description.textContent;
+    metadata.hidden = heading.hidden && description.hidden;
+    toolbar.hidden = metadata.hidden && !editor;
+  }
+
+  function finishPreview(message: string, action: string) {
+    const placeholder = node('div', 'playlist-placeholder');
+    const content = node('div', 'playlist-preview-notice');
+    const text = node('p', '', message);
+    text.setAttribute('role', 'status');
+    content.append(text, button(action, showVideo));
+    placeholder.append(content);
+    screen.replaceChildren(placeholder);
   }
 
   function showVideo() {
+    stopPreview?.();
+    stopPreview = undefined;
     screen.replaceChildren();
     videoInfo.replaceChildren();
     const source = selected && parseVideoSource(selected.url);
@@ -266,9 +296,27 @@ export function mountPlaylist(root: HTMLElement, {
       const frame = node('iframe');
       frame.title = selected.title;
       frame.src = source.player;
+      frame.referrerPolicy = 'strict-origin-when-cross-origin';
+      if (selected.previewSeconds) {
+        const limit = selected.previewSeconds;
+        const loading = node('div', 'playlist-placeholder', 'Carregando a amostra…');
+        loading.setAttribute('role', 'status');
+        frame.allow = 'encrypted-media';
+        frame.classList.add('playlist-preview-waiting');
+        screen.append(loading, frame);
+        stopPreview = watchPandaPreview(frame, limit, {
+          onReady: () => {
+            loading.remove();
+            frame.classList.remove('playlist-preview-waiting');
+          },
+          onEnd: () => finishPreview('Fim da amostra.', 'Rever amostra'),
+          onUnavailable: () => finishPreview('Não foi possível carregar a amostra.', 'Tentar novamente'),
+        });
+        videoInfo.append(node('strong', '', selected.title), node('span', 'playlist-preview-label', previewLabel(limit)));
+        return;
+      }
       frame.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
       frame.allowFullscreen = true;
-      frame.referrerPolicy = 'strict-origin-when-cross-origin';
       screen.append(frame);
     } else {
       const video = node('video');
@@ -305,7 +353,7 @@ export function mountPlaylist(root: HTMLElement, {
           }
         }
       }, 'playlist-video-choice');
-      choose.append(node('span', '', parseVideoSource(video.url)?.provider));
+      choose.append(node('span', '', video.previewSeconds ? previewLabel(video.previewSeconds) : parseVideoSource(video.url)?.provider));
       if (video === selected) choose.setAttribute('aria-current', 'true');
       item.append(choose);
       list.append(item);
@@ -398,7 +446,7 @@ export function mountPlaylist(root: HTMLElement, {
   }
 
   if (editor) {
-    toolbar.append(heading, button('Montar playlist', () => {
+    toolbar.append(metadata, button('Montar playlist', () => {
       editorStatus.textContent = '';
       shareInput.hidden = true;
       nameInput.value = playlist.title;
@@ -434,7 +482,8 @@ export function mountPlaylist(root: HTMLElement, {
         return;
       }
       const previous = editingVideo;
-      const next = { title, url: source.original };
+      const next: PlaylistVideo = { title, url: source.original };
+      if (source.provider === 'Panda Video' && previous?.previewSeconds) next.previewSeconds = previous.previewSeconds;
       const videos = previous
         ? playlist.videos.map((item) => item === previous ? next : item)
         : [...playlist.videos, next];
@@ -506,7 +555,7 @@ export function mountPlaylist(root: HTMLElement, {
     dialog.append(dialogHeader, field('Nome da playlist', nameInput), form, editorStatus, editList, tools, importInput, shareInput);
     app.append(toolbar, status, viewer, dialog);
   } else {
-    toolbar.append(heading);
+    toolbar.append(metadata);
     app.append(toolbar, status, viewer);
   }
   function showSharedSection() {
@@ -566,6 +615,7 @@ export function mountPlaylist(root: HTMLElement, {
     importGeneration += 1;
     loadController.abort();
     cancelAnimationFrame(scrollFrame);
+    stopPreview?.();
     window.removeEventListener('hashchange', onHashChange);
     if (dialog.open) dialog.close();
     app.remove();

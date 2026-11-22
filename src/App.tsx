@@ -1,9 +1,11 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef } from 'react';
 import {
-  ArrowDown, ArrowRight, ArrowUpRight, BookOpen, FileText, Globe2, GraduationCap,
+  ArrowDown, ArrowLeft, ArrowRight, ArrowUpRight, BookOpen, FileText, Globe2, GraduationCap,
   Leaf, Play, Table2, Workflow,
 } from 'lucide-react';
-import { MaterialDialog, type Material } from './MaterialDialog';
+import { DocumentReader } from './DocumentReader';
+import { MatrixReader } from './MatrixReader';
+import type { Document, Matrix, Material } from './materialTypes';
 import { mountPlaylist } from './playlist';
 import './playlist.css';
 import matrixData from './data/matrices.json';
@@ -46,38 +48,40 @@ const products = [
 ] as const;
 
 type ProductId = typeof products[number]['id'];
-type DocumentData = Extract<Material, { type: 'document' }>['data'];
-type MatrixData = Extract<Material, { type: 'matrix' }>['data'];
-const matrices: Record<ProductId, MatrixData> = matrixData;
-const documents = documentData as DocumentData[];
+const matrices: Record<ProductId, Matrix> = matrixData;
+const documents = documentData as Document[];
 
-type Selection = { type: 'matrix'; id: ProductId } | { type: 'document'; id: string };
-
-function locationSelection(): Selection | undefined {
+function materialAtLocation(): Material | undefined {
   const query = new URLSearchParams(window.location.search);
   const matrix = products.find(({ id }) => id === query.get('matriz'));
-  if (matrix) return { type: 'matrix', id: matrix.id };
-  const document = documents.find(({ id }) => id === query.get('documento'));
-  if (document) return { type: 'document', id: document.id };
-}
-
-function materialFor(selection?: Selection): Material | undefined {
-  if (!selection) return;
-  if (selection.type === 'matrix') return { type: 'matrix', data: matrices[selection.id] };
-  const data = documents.find(({ id }) => id === selection.id);
+  if (matrix) return { type: 'matrix', data: matrices[matrix.id] };
+  const data = documents.find(({ id }) => id === query.get('documento'));
   if (data) return { type: 'document', data };
 }
 
-function updateLocation(selection?: Selection) {
-  const url = new URL(window.location.href);
-  url.searchParams.delete('matriz');
-  url.searchParams.delete('documento');
-  if (selection) {
-    url.searchParams.set(selection.type === 'matrix' ? 'matriz' : 'documento', selection.id);
-    window.history.pushState(null, '', url);
-  } else {
-    window.history.replaceState(null, '', url);
-  }
+function MaterialPage({ material }: { material: Material }) {
+  const isDocument = material.type === 'document';
+  const backSection = isDocument ? '#documentos' : '#materiais';
+  const { title, description } = material.data;
+
+  return (
+    <main className="reading-page" id="leitura" tabIndex={-1}>
+      <header className="reading-header">
+        <div className="shell reading-shell">
+          <a className="reading-back" href={import.meta.env.BASE_URL + backSection}>
+            <ArrowLeft size={18} aria-hidden="true" />
+            {isDocument ? 'Voltar às minutas' : 'Voltar aos materiais'}
+          </a>
+          {isDocument && <p className="reading-type">Minuta de resolução</p>}
+          <h1>{title}</h1>
+          {!isDocument && <p className="reading-summary">{description}</p>}
+        </div>
+      </header>
+      <div className="shell reading-shell reading-content">
+        {material.type === 'matrix' ? <MatrixReader data={material.data} /> : <DocumentReader data={material.data} />}
+      </div>
+    </main>
+  );
 }
 
 function PlaylistSection() {
@@ -96,35 +100,24 @@ function PlaylistSection() {
 }
 
 export default function App() {
-  const [selection, setSelection] = useState(locationSelection);
-  const opener = useRef<HTMLElement | null>(null);
-  const material = materialFor(selection);
+  const material = materialAtLocation();
+  const materialTitle = material?.data.title;
   useEffect(() => {
-    const sync = () => setSelection(locationSelection());
-    window.addEventListener('popstate', sync);
-    return () => window.removeEventListener('popstate', sync);
-  }, []);
-  useEffect(() => {
-    if (!selection && opener.current) {
-      opener.current.focus({ preventScroll: true });
-      opener.current = null;
+    if (materialTitle) {
+      document.title = materialTitle + ' | Apresenta.ai';
+      return;
     }
-  }, [selection]);
-
-  function openMaterial(next: Selection, trigger: HTMLElement) {
-    opener.current = trigger;
-    updateLocation(next);
-    setSelection(next);
-  }
-
-  function closeMaterial() {
-    updateLocation();
-    setSelection(undefined);
-  }
+    const section = window.location.hash.slice(1);
+    if (['materiais', 'documentos', 'videoaulas'].includes(section)) {
+      document.getElementById(section)?.scrollIntoView({ block: 'start', behavior: 'instant' });
+    }
+  }, [materialTitle]);
 
   return (
     <>
-      <a className="skip-link" href="#materiais">Pular para os materiais</a>
+      <a className="skip-link" href={material ? '#leitura' : '#materiais'}>
+        {material ? 'Pular para a leitura' : 'Pular para os materiais'}
+      </a>
       <header className="masthead">
         <div className="shell masthead-content">
           <a className="institution" href="https://www.crasp.gov.br/" target="_blank" rel="noopener noreferrer">
@@ -137,7 +130,7 @@ export default function App() {
         </div>
       </header>
 
-      <main>
+      {material ? <MaterialPage material={material} /> : <main>
         <section className="hero" aria-labelledby="portal-titulo">
           <div className="shell hero-layout">
             <div className="hero-intro">
@@ -174,21 +167,10 @@ export default function App() {
                     <p>{description}</p>
                   </div>
                   <ul className="resource-list">
-                    <li>
-                      <button className="resource resource-primary" type="button"
-                        aria-label={`Matriz de acompanhamento de ${title}`}
-                        onClick={(event) => openMaterial({ type: 'matrix', id }, event.currentTarget)}>
-                        <Table2 className="resource-icon" size={18} aria-hidden="true" />
-                        <span>
-                          <strong>Matriz de acompanhamento</strong>
-                          <small>{counts.dimensions} dimensões · {counts.verificationPoints} pontos de verificação</small>
-                        </span>
-                        <ArrowRight size={16} aria-hidden="true" />
-                      </button>
-                    </li>
-                    {links.map((link) => (
+                    {links.map((link, index) => (
                       <li key={link.url}>
-                        <a className="resource" href={link.url} target="_blank" rel="noopener noreferrer"
+                        <a className={index === 0 ? 'resource resource-primary' : 'resource'}
+                          href={link.url} target="_blank" rel="noopener noreferrer"
                           aria-label={link.label === 'Site oficial' ? `Site oficial — ${title}` : undefined}>
                           <Globe2 className="resource-icon" size={18} aria-hidden="true" />
                           <span>
@@ -200,14 +182,34 @@ export default function App() {
                       </li>
                     ))}
                     {id === 'pdp' && (
-                      <li>
-                        <a className="resource" href="#documentos">
-                          <FileText className="resource-icon" size={18} aria-hidden="true" />
-                          <span><strong>Minutas de resolução</strong></span>
-                          <ArrowDown size={16} aria-hidden="true" />
-                        </a>
-                      </li>
+                      <>
+                        <li>
+                          <a className="resource" href="#documentos">
+                            <FileText className="resource-icon" size={18} aria-hidden="true" />
+                            <span><strong>Minutas de resolução</strong></span>
+                            <ArrowDown size={16} aria-hidden="true" />
+                          </a>
+                        </li>
+                        <li>
+                          <a className="resource" href="#videoaulas">
+                            <Play className="resource-icon" size={18} aria-hidden="true" />
+                            <span><strong>Trilha IA para Administradores</strong></span>
+                            <ArrowDown size={16} aria-hidden="true" />
+                          </a>
+                        </li>
+                      </>
                     )}
+                    <li className="matrix-resource-item">
+                      <a className="resource matrix-resource" href={`?matriz=${id}`}
+                        aria-label={`Matriz de acompanhamento de ${title}`}>
+                        <Table2 className="resource-icon" size={18} aria-hidden="true" />
+                        <span>
+                          <strong>Matriz de acompanhamento</strong>
+                          <small>{counts.dimensions} dimensões · {counts.verificationPoints} pontos de verificação</small>
+                        </span>
+                        <ArrowRight size={16} aria-hidden="true" />
+                      </a>
+                    </li>
                   </ul>
                 </article>
               );
@@ -220,19 +222,18 @@ export default function App() {
           <ul className="document-grid">
             {documents.map(({ id, title }) => (
               <li key={id}>
-                <button className="resource document-resource" type="button"
-                  onClick={(event) => openMaterial({ type: 'document', id }, event.currentTarget)}>
+                <a className="resource document-resource" href={`?documento=${id}`}>
                   <span className="document-icon"><FileText size={20} aria-hidden="true" /></span>
                   <strong>{title}</strong>
                   <ArrowRight size={17} aria-hidden="true" />
-                </button>
+                </a>
               </li>
             ))}
           </ul>
         </section>
 
         <PlaylistSection />
-      </main>
+      </main>}
 
       <footer className="footer">
         <div className="shell footer-content">
@@ -242,8 +243,6 @@ export default function App() {
           </a>
         </div>
       </footer>
-
-      {material && <MaterialDialog key={selection?.type + ':' + selection?.id} material={material} onClose={closeMaterial} />}
     </>
   );
 }

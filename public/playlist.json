@@ -1,5 +1,22 @@
 {
   "version": 1,
-  "title": "Playlist de videoaulas",
-  "videos": []
+  "title": "Trilha IA para Administradores",
+  "description": "Programa de Desenvolvimento Profissional · 7 nanodegrees, com 5 vídeos cada.",
+  "videos": [
+    {
+      "title": "Videoaula 1",
+      "url": "https://player-vz-6b88d365-860.tv.pandavideo.com.br/embed/?v=3e422454-f87b-4b73-b510-2a7461ee40d3",
+      "previewSeconds": 300
+    },
+    {
+      "title": "Videoaula 2",
+      "url": "https://player-vz-6b88d365-860.tv.pandavideo.com.br/embed/?v=116df487-4775-42be-8d8e-dd55b9c41a67",
+      "previewSeconds": 300
+    },
+    {
+      "title": "Videoaula 3",
+      "url": "https://player-vz-6b88d365-860.tv.pandavideo.com.br/embed/?v=2b4eb9ce-cfac-41e7-bb9a-6b380a11b8b4",
+      "previewSeconds": 300
+    }
+  ]
 }

@@ -21,8 +21,10 @@ O build gera o site estático em `dist/`. A página inicial é a visualização 
 
 A edição salva o rascunho no navegador. **Baixar JSON** guarda uma cópia que pode ser importada em outro navegador. Para definir a playlist exibida na página inicial, salve esse JSON como `public/playlist.json` e publique uma nova versão do portal.
 
+As amostras da Trilha IA para Administradores usam `previewSeconds: 300`. O portal encerra o player nesse ponto da reprodução. Para restringir também a mídia disponível no endereço da Panda Video, publique nesta lista embeds de clipes recortados.
+
 ## Atualizar os materiais
 
-- `src/data/matrices.json` contém as abas Matriz, Notas e Pontos de verificação dos três produtos.
-- `src/data/documents.json` contém o texto das quatro minutas e seus anexos.
+- `src/data/matrices.json` contém as dimensões, notas e pontos de verificação consultados na página de cada matriz.
+- `src/data/documents.json` contém o texto e as tabelas dos anexos exibidos nas páginas das quatro minutas.
 - `src/App.tsx` contém os links institucionais de cada produto.

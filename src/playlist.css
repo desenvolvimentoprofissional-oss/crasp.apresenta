@@ -33,6 +33,13 @@
   line-height: 1.35;
   overflow-wrap: anywhere;
 }
+.playlist-metadata { margin-right: auto; min-width: 0; }
+.playlist-description {
+  margin: .3rem 0 0;
+  color: var(--playlist-muted);
+  font-size: .93rem;
+  line-height: 1.45;
+}
 
 .playlist-viewer {
   display: grid;
@@ -102,6 +109,9 @@
 .playlist-status:empty {
   display: none;
 }
+.playlist-screen > .playlist-preview-waiting { visibility: hidden; }
+.playlist-preview-notice { display: grid; gap: .85rem; justify-items: center; }
+.playlist-preview-label { color: var(--playlist-muted); font-size: .875rem; }
 
 .playlist-status {
   margin-bottom: .75rem;

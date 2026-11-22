@@ -6,11 +6,13 @@
     "blocks": [
       {
         "kind": "heading",
-        "text": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO"
+        "text": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO",
+        "level": 2
       },
       {
         "kind": "heading",
-        "text": "RESOLUÇÃO NORMATIVA CRA-SP Nº [NÚMERO], DE [DIA] DE [MÊS] DE [ANO]"
+        "text": "RESOLUÇÃO NORMATIVA CRA-SP Nº [NÚMERO], DE [DIA] DE [MÊS] DE [ANO]",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -86,11 +88,13 @@
       },
       {
         "kind": "heading",
-        "text": "RESOLVE:"
+        "text": "RESOLVE:",
+        "level": 2
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO I\nDAS DISPOSIÇÕES PRELIMINARES"
+        "text": "CAPÍTULO I\nDAS DISPOSIÇÕES PRELIMINARES",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -322,7 +326,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO II\nDOS EIXOS E DOS PÚBLICOS DO PROGRAMA"
+        "text": "CAPÍTULO II\nDOS EIXOS E DOS PÚBLICOS DO PROGRAMA",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -382,7 +387,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO III\nDOS CURSOS LIVRES"
+        "text": "CAPÍTULO III\nDOS CURSOS LIVRES",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -426,7 +432,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO IV\nDAS TRILHAS DE APRENDIZAGEM"
+        "text": "CAPÍTULO IV\nDAS TRILHAS DE APRENDIZAGEM",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -486,7 +493,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO V\nDA DISTINÇÃO PROFISSIONAL"
+        "text": "CAPÍTULO V\nDA DISTINÇÃO PROFISSIONAL",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -554,7 +562,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO VI\nDA PÓS-GRADUAÇÃO"
+        "text": "CAPÍTULO VI\nDA PÓS-GRADUAÇÃO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -626,7 +635,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO VII\nDAS CERTIFICAÇÕES DE MERCADO"
+        "text": "CAPÍTULO VII\nDAS CERTIFICAÇÕES DE MERCADO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -678,7 +688,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO VIII\nDA GOVERNANÇA E DA EXECUÇÃO"
+        "text": "CAPÍTULO VIII\nDA GOVERNANÇA E DA EXECUÇÃO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -850,7 +861,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO IX\nDO ACOMPANHAMENTO E DAS RESPONSABILIDADES"
+        "text": "CAPÍTULO IX\nDO ACOMPANHAMENTO E DAS RESPONSABILIDADES",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -914,7 +926,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO X\nDAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+        "text": "CAPÍTULO X\nDAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -966,143 +979,338 @@
       },
       {
         "kind": "heading",
-        "text": "ANEXO I\nDOS REQUISITOS DO PLANO DE TRABALHO"
+        "text": "ANEXO I\nDOS REQUISITOS DO PLANO DE TRABALHO",
+        "level": 2
       },
       {
         "kind": "paragraph",
         "text": "Aplicável às ações sujeitas ao art. 28, observada a dispensa de apresentação pela instituição participante prevista no § 1º daquele artigo."
       },
       {
-        "kind": "paragraph",
-        "text": "Campo\nInformação exigida"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Apresentação\nFundamentos, processo de estruturação, justificativa, necessidade de desenvolvimento atendida e entrega esperada."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Objetivos\nObjetivos da ação, apresentados em itens ou incisos."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Público-alvo\nCategorias ou grupos alcançados e requisitos de participação."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Metas e resultados esperados\nMetas, resultados, indicadores e critérios de verificação proporcionais à natureza e à dimensão da ação, observada a metodologia de acompanhamento."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Classificação\nIdentificação do eixo e da natureza da ação no Programa."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Local ou plataforma de realização\nCondições de realização, infraestrutura tecnológica e ambiente de aprendizagem necessários."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Plano básico de comunicação\nPúblicos, canais, responsáveis e momentos de divulgação e comunicação, inclusive alterações ou interrupções da oferta."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Cronograma Físico-Financeiro\nQuando houver dispêndio pelo CRA-SP: etapas, serviços, responsáveis, prazos e desembolsos, conforme o Anexo II."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Custo total da ação\nValor total das etapas e dos serviços, com indicação de eventual ausência de dispêndio pelo CRA-SP."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Vigência do Plano de Trabalho\nPeríodo de realização das atividades programadas."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Responsabilidades e prazos\nResponsáveis pela gestão do Programa, pelo eixo, pela ação e por suas etapas, com prazos de execução, atendimento, validação de comprovações e emissão de documentos, conforme as atribuições de cada parte."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Riscos e continuidade\nRiscos relevantes, medidas de prevenção e resposta e respectivos responsáveis, inclusive quanto à continuidade da oferta e à disponibilidade dos ambientes de aprendizagem."
+        "kind": "table",
+        "rows": [
+          {
+            "cells": [
+              {
+                "text": "Campo"
+              },
+              {
+                "text": "Informação exigida"
+              }
+            ],
+            "header": true
+          },
+          {
+            "cells": [
+              {
+                "text": "Apresentação"
+              },
+              {
+                "text": "Fundamentos, processo de estruturação, justificativa, necessidade de desenvolvimento atendida e entrega esperada."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Objetivos"
+              },
+              {
+                "text": "Objetivos da ação, apresentados em itens ou incisos."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Público-alvo"
+              },
+              {
+                "text": "Categorias ou grupos alcançados e requisitos de participação."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Metas e resultados esperados"
+              },
+              {
+                "text": "Metas, resultados, indicadores e critérios de verificação proporcionais à natureza e à dimensão da ação, observada a metodologia de acompanhamento."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Classificação"
+              },
+              {
+                "text": "Identificação do eixo e da natureza da ação no Programa."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Local ou plataforma de realização"
+              },
+              {
+                "text": "Condições de realização, infraestrutura tecnológica e ambiente de aprendizagem necessários."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Plano básico de comunicação"
+              },
+              {
+                "text": "Públicos, canais, responsáveis e momentos de divulgação e comunicação, inclusive alterações ou interrupções da oferta."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Cronograma Físico-Financeiro"
+              },
+              {
+                "text": "Quando houver dispêndio pelo CRA-SP: etapas, serviços, responsáveis, prazos e desembolsos, conforme o Anexo II."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Custo total da ação"
+              },
+              {
+                "text": "Valor total das etapas e dos serviços, com indicação de eventual ausência de dispêndio pelo CRA-SP."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Vigência do Plano de Trabalho"
+              },
+              {
+                "text": "Período de realização das atividades programadas."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Responsabilidades e prazos"
+              },
+              {
+                "text": "Responsáveis pela gestão do Programa, pelo eixo, pela ação e por suas etapas, com prazos de execução, atendimento, validação de comprovações e emissão de documentos, conforme as atribuições de cada parte."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Riscos e continuidade"
+              },
+              {
+                "text": "Riscos relevantes, medidas de prevenção e resposta e respectivos responsáveis, inclusive quanto à continuidade da oferta e à disponibilidade dos ambientes de aprendizagem."
+              }
+            ]
+          }
+        ]
       },
       {
         "kind": "heading",
-        "text": "ANEXO II\nDOS REQUISITOS DO CRONOGRAMA FÍSICO-FINANCEIRO"
+        "text": "ANEXO II\nDOS REQUISITOS DO CRONOGRAMA FÍSICO-FINANCEIRO",
+        "level": 2
       },
       {
         "kind": "paragraph",
         "text": "Exigível quando houver dispêndio pelo CRA-SP, nos termos do art. 28, preservada a dispensa de apresentação pela instituição participante prevista no § 1º daquele artigo."
       },
       {
-        "kind": "paragraph",
-        "text": "Campo\nInformação exigida"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Tipo\nEixo e natureza da ação."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Título\nIdentificação e nome da ação."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Formato e local\nPresencial, a distância ou híbrido; local ou plataforma de realização."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Público-alvo\nCategorias ou grupos e requisitos de participação."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Data ou período\nPeríodo de execução."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Fases a executar\nPara cada fase: número, etapa ou serviço, responsável, data de início, data de término e valor. O total das fases corresponderá ao custo total da ação."
+        "kind": "table",
+        "rows": [
+          {
+            "cells": [
+              {
+                "text": "Campo"
+              },
+              {
+                "text": "Informação exigida"
+              }
+            ],
+            "header": true
+          },
+          {
+            "cells": [
+              {
+                "text": "Tipo"
+              },
+              {
+                "text": "Eixo e natureza da ação."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Título"
+              },
+              {
+                "text": "Identificação e nome da ação."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Formato e local"
+              },
+              {
+                "text": "Presencial, a distância ou híbrido; local ou plataforma de realização."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Público-alvo"
+              },
+              {
+                "text": "Categorias ou grupos e requisitos de participação."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Data ou período"
+              },
+              {
+                "text": "Período de execução."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Fases a executar"
+              },
+              {
+                "text": "Para cada fase: número, etapa ou serviço, responsável, data de início, data de término e valor. O total das fases corresponderá ao custo total da ação."
+              }
+            ]
+          }
+        ]
       },
       {
         "kind": "heading",
-        "text": "ANEXO III\nDOS REQUISITOS DO PLANO OPERACIONAL INTERNO"
+        "text": "ANEXO III\nDOS REQUISITOS DO PLANO OPERACIONAL INTERNO",
+        "level": 2
       },
       {
         "kind": "paragraph",
         "text": "Instrumento interno do CRA-SP, elaborado e atualizado nos termos do art. 29, sem alteração das regras materiais do Programa."
       },
       {
-        "kind": "paragraph",
-        "text": "Elemento\nConteúdo exigido"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Responsáveis e decisões\nÁrea gestora, responsáveis pelos eixos e pela execução, substitutos, atribuições, limites de atuação e encaminhamentos decisórios."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Carteira de entregas\nOferta, público, necessidade atendida, conhecimentos ou competências, entrega esperada, aplicação pretendida, instituição e condições de realização."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Mapa de percursos\nTema e versão; unidades formativas, trilhas e demais componentes; vínculos, pré-requisitos, equivalências, carga horária, comprovações, avaliações, pontuação mínima de aproveitamento e critérios de conclusão. A vinculação de ofertas independentes será expressa."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Curadoria e versões\nFluxo de seleção, análise, validação, aprovação, revisão e atualização; responsáveis, critérios, versões e efeitos das alterações sobre participantes e conclusões registradas; comunicação das mudanças."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Jornada e atendimento\nEtapas, estados, registros, pendências, evidências, decisões, comunicação e suporte nos processos do CRA-SP; responsáveis, canais, prazos e encaminhamentos à instituição responsável."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Entregas institucionais\nCompromissos de qualidade e atendimento, responsabilidades, evidências de execução e critérios de verificação e aceite de conteúdos ou serviços."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Metodologia de acompanhamento e indicadores\nPara cada indicador: objetivo, fórmula ou critério, população, numerador e denominador quando aplicáveis, fonte, período, periodicidade, responsável, parâmetros de comparação e cobertura. Distinguir dados administrativos de autorrelatos e registrar limitações e ausência de informação, observadas as garantias de voluntariedade e proteção de dados do art. 33."
-      },
-      {
-        "kind": "paragraph",
-        "text": "Acompanhamento e melhoria\nRotina de análise de resultados e riscos, decisões, providências, responsáveis, prazos e retorno aos envolvidos, com rastreabilidade das revisões."
+        "kind": "table",
+        "rows": [
+          {
+            "cells": [
+              {
+                "text": "Elemento"
+              },
+              {
+                "text": "Conteúdo exigido"
+              }
+            ],
+            "header": true
+          },
+          {
+            "cells": [
+              {
+                "text": "Responsáveis e decisões"
+              },
+              {
+                "text": "Área gestora, responsáveis pelos eixos e pela execução, substitutos, atribuições, limites de atuação e encaminhamentos decisórios."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Carteira de entregas"
+              },
+              {
+                "text": "Oferta, público, necessidade atendida, conhecimentos ou competências, entrega esperada, aplicação pretendida, instituição e condições de realização."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Mapa de percursos"
+              },
+              {
+                "text": "Tema e versão; unidades formativas, trilhas e demais componentes; vínculos, pré-requisitos, equivalências, carga horária, comprovações, avaliações, pontuação mínima de aproveitamento e critérios de conclusão. A vinculação de ofertas independentes será expressa."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Curadoria e versões"
+              },
+              {
+                "text": "Fluxo de seleção, análise, validação, aprovação, revisão e atualização; responsáveis, critérios, versões e efeitos das alterações sobre participantes e conclusões registradas; comunicação das mudanças."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Jornada e atendimento"
+              },
+              {
+                "text": "Etapas, estados, registros, pendências, evidências, decisões, comunicação e suporte nos processos do CRA-SP; responsáveis, canais, prazos e encaminhamentos à instituição responsável."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Entregas institucionais"
+              },
+              {
+                "text": "Compromissos de qualidade e atendimento, responsabilidades, evidências de execução e critérios de verificação e aceite de conteúdos ou serviços."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Metodologia de acompanhamento e indicadores"
+              },
+              {
+                "text": "Para cada indicador: objetivo, fórmula ou critério, população, numerador e denominador quando aplicáveis, fonte, período, periodicidade, responsável, parâmetros de comparação e cobertura. Distinguir dados administrativos de autorrelatos e registrar limitações e ausência de informação, observadas as garantias de voluntariedade e proteção de dados do art. 33."
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Acompanhamento e melhoria"
+              },
+              {
+                "text": "Rotina de análise de resultados e riscos, decisões, providências, responsáveis, prazos e retorno aos envolvidos, com rastreabilidade das revisões."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -1113,11 +1321,13 @@
     "blocks": [
       {
         "kind": "heading",
-        "text": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO"
+        "text": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO",
+        "level": 2
       },
       {
         "kind": "heading",
-        "text": "RESOLUÇÃO NORMATIVA CRA-SP Nº [NÚMERO], DE [DIA] DE [MÊS] DE [ANO]"
+        "text": "RESOLUÇÃO NORMATIVA CRA-SP Nº [NÚMERO], DE [DIA] DE [MÊS] DE [ANO]",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1137,11 +1347,13 @@
       },
       {
         "kind": "heading",
-        "text": "RESOLVE:"
+        "text": "RESOLVE:",
+        "level": 2
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO I\nDO OBJETO E DA PARTICIPAÇÃO"
+        "text": "CAPÍTULO I\nDO OBJETO E DA PARTICIPAÇÃO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1157,7 +1369,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO II\nDOS CRITÉRIOS DE ACEITAÇÃO"
+        "text": "CAPÍTULO II\nDOS CRITÉRIOS DE ACEITAÇÃO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1197,7 +1410,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO III\nDA SOLICITAÇÃO, DA ANÁLISE E DA APROVAÇÃO"
+        "text": "CAPÍTULO III\nDA SOLICITAÇÃO, DA ANÁLISE E DA APROVAÇÃO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1261,7 +1475,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO IV\nDA FORMALIZAÇÃO E DA EXECUÇÃO DA COOPERAÇÃO"
+        "text": "CAPÍTULO IV\nDA FORMALIZAÇÃO E DA EXECUÇÃO DA COOPERAÇÃO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1281,7 +1496,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO V\nDAS ATUALIZAÇÕES E DO ENCERRAMENTO"
+        "text": "CAPÍTULO V\nDAS ATUALIZAÇÕES E DO ENCERRAMENTO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1321,7 +1537,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO VI\nDAS DISPOSIÇÕES FINAIS"
+        "text": "CAPÍTULO VI\nDAS DISPOSIÇÕES FINAIS",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1337,7 +1554,8 @@
       },
       {
         "kind": "heading",
-        "text": "ANEXO I\nDA MINUTA DE ACORDO DE COOPERAÇÃO TÉCNICA"
+        "text": "ANEXO I\nDA MINUTA DE ACORDO DE COOPERAÇÃO TÉCNICA",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1349,47 +1567,103 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA PRIMEIRA\nDO OBJETO"
+        "text": "CLÁUSULA PRIMEIRA\nDO OBJETO",
+        "level": 3
       },
       {
         "kind": "paragraph",
         "text": "1.1. O objeto é a cooperação para divulgação e oferta gratuita de Cursos Livres, Trilhas de Aprendizagem ou ambos, conforme o processo administrativo nº [NÚMERO DO PROCESSO] e o quadro a seguir."
       },
       {
-        "kind": "paragraph",
-        "text": "QUADRO DAS OFERTAS E CONDIÇÕES"
+        "kind": "heading",
+        "text": "QUADRO DAS OFERTAS E CONDIÇÕES",
+        "level": 4
       },
       {
-        "kind": "paragraph",
-        "text": "CAMPO\nCONDIÇÃO ACORDADA"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Escopo autorizado\n[EIXOS E OFERTAS; APENAS ITENS IDENTIFICADOS OU TAMBÉM OFERTAS FUTURAS DO CATÁLOGO]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Fonte oficial\n[LISTA OU ENDEREÇO ELETRÔNICO, DELIMITAÇÃO DO CATÁLOGO E DATA DE REFERÊNCIA]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Dados das ofertas\n[TÍTULO, OBJETIVOS, EMENTA, CARGA HORÁRIA, PÚBLICO, REQUISITOS E DISPONIBILIDADE OU FONTE OFICIAL]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Ambiente e atendimento\n[AVA, ACESSIBILIDADE, RECURSOS, EQUIPE, ATRIBUIÇÕES E CANAIS ACADÊMICOS E TECNOLÓGICOS]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Avaliação e certificados\n[REGRAS, APROVEITAMENTO MÍNIMO, CONCLUSÃO, EMISSORES E AUTENTICIDADE OU FONTE OFICIAL]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Trilhas\n[UNIDADES, SEQUÊNCIA, CARGAS HORÁRIAS, AVALIAÇÃO E EMISSÃO PARCIAL OU INTEGRAL, QUANDO APLICÁVEL]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Atualização\n[FONTE, RESPONSÁVEIS E CONTATOS PARA ATUALIZAÇÕES E ESCLARECIMENTOS]"
+        "kind": "table",
+        "rows": [
+          {
+            "cells": [
+              {
+                "text": "CAMPO"
+              },
+              {
+                "text": "CONDIÇÃO ACORDADA"
+              }
+            ],
+            "header": true
+          },
+          {
+            "cells": [
+              {
+                "text": "Escopo autorizado"
+              },
+              {
+                "text": "[EIXOS E OFERTAS; APENAS ITENS IDENTIFICADOS OU TAMBÉM OFERTAS FUTURAS DO CATÁLOGO]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Fonte oficial"
+              },
+              {
+                "text": "[LISTA OU ENDEREÇO ELETRÔNICO, DELIMITAÇÃO DO CATÁLOGO E DATA DE REFERÊNCIA]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Dados das ofertas"
+              },
+              {
+                "text": "[TÍTULO, OBJETIVOS, EMENTA, CARGA HORÁRIA, PÚBLICO, REQUISITOS E DISPONIBILIDADE OU FONTE OFICIAL]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Ambiente e atendimento"
+              },
+              {
+                "text": "[AVA, ACESSIBILIDADE, RECURSOS, EQUIPE, ATRIBUIÇÕES E CANAIS ACADÊMICOS E TECNOLÓGICOS]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Avaliação e certificados"
+              },
+              {
+                "text": "[REGRAS, APROVEITAMENTO MÍNIMO, CONCLUSÃO, EMISSORES E AUTENTICIDADE OU FONTE OFICIAL]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Trilhas"
+              },
+              {
+                "text": "[UNIDADES, SEQUÊNCIA, CARGAS HORÁRIAS, AVALIAÇÃO E EMISSÃO PARCIAL OU INTEGRAL, QUANDO APLICÁVEL]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Atualização"
+              },
+              {
+                "text": "[FONTE, RESPONSÁVEIS E CONTATOS PARA ATUALIZAÇÕES E ESCLARECIMENTOS]"
+              }
+            ]
+          }
+        ]
       },
       {
         "kind": "paragraph",
@@ -1397,7 +1671,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA SEGUNDA\nDAS CONDIÇÕES DAS OFERTAS E DOS RECURSOS"
+        "text": "CLÁUSULA SEGUNDA\nDAS CONDIÇÕES DAS OFERTAS E DOS RECURSOS",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1409,7 +1684,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA TERCEIRA\nDAS RESPONSABILIDADES DA INSTITUIÇÃO PARTICIPANTE"
+        "text": "CLÁUSULA TERCEIRA\nDAS RESPONSABILIDADES DA INSTITUIÇÃO PARTICIPANTE",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1421,7 +1697,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA QUARTA\nDAS RESPONSABILIDADES DO CRA-SP"
+        "text": "CLÁUSULA QUARTA\nDAS RESPONSABILIDADES DO CRA-SP",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1429,7 +1706,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA QUINTA\nDA DIVULGAÇÃO E DOS USOS AUTORIZADOS"
+        "text": "CLÁUSULA QUINTA\nDA DIVULGAÇÃO E DOS USOS AUTORIZADOS",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1441,7 +1719,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA SEXTA\nDOS REGISTROS E DOS DADOS PESSOAIS"
+        "text": "CLÁUSULA SEXTA\nDOS REGISTROS E DOS DADOS PESSOAIS",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1449,7 +1728,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA SÉTIMA\nDA VIGÊNCIA E DO ACOMPANHAMENTO"
+        "text": "CLÁUSULA SÉTIMA\nDA VIGÊNCIA E DO ACOMPANHAMENTO",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1461,7 +1741,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA OITAVA\nDAS ALTERAÇÕES E DAS ADEQUAÇÕES"
+        "text": "CLÁUSULA OITAVA\nDAS ALTERAÇÕES E DAS ADEQUAÇÕES",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1473,7 +1754,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA NONA\nDO ENCERRAMENTO E DA CONTINUIDADE"
+        "text": "CLÁUSULA NONA\nDO ENCERRAMENTO E DA CONTINUIDADE",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1489,7 +1771,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA DÉCIMA\nDOS CASOS NÃO PREVISTOS"
+        "text": "CLÁUSULA DÉCIMA\nDOS CASOS NÃO PREVISTOS",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1516,11 +1799,13 @@
     "blocks": [
       {
         "kind": "heading",
-        "text": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO"
+        "text": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO",
+        "level": 2
       },
       {
         "kind": "heading",
-        "text": "RESOLUÇÃO NORMATIVA CRA-SP Nº [NÚMERO], DE [DIA] DE [MÊS] DE [ANO]"
+        "text": "RESOLUÇÃO NORMATIVA CRA-SP Nº [NÚMERO], DE [DIA] DE [MÊS] DE [ANO]",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1540,11 +1825,13 @@
       },
       {
         "kind": "heading",
-        "text": "RESOLVE:"
+        "text": "RESOLVE:",
+        "level": 2
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO I\nDO OBJETO E DA PARTICIPAÇÃO"
+        "text": "CAPÍTULO I\nDO OBJETO E DA PARTICIPAÇÃO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1560,7 +1847,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO II\nDOS CRITÉRIOS DE ACEITAÇÃO"
+        "text": "CAPÍTULO II\nDOS CRITÉRIOS DE ACEITAÇÃO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1608,7 +1896,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO III\nDA SOLICITAÇÃO, DA ANÁLISE E DA APROVAÇÃO"
+        "text": "CAPÍTULO III\nDA SOLICITAÇÃO, DA ANÁLISE E DA APROVAÇÃO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1664,7 +1953,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO IV\nDA FORMALIZAÇÃO E DA EXECUÇÃO DA COOPERAÇÃO"
+        "text": "CAPÍTULO IV\nDA FORMALIZAÇÃO E DA EXECUÇÃO DA COOPERAÇÃO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1684,7 +1974,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO V\nDAS ATUALIZAÇÕES E DO ENCERRAMENTO"
+        "text": "CAPÍTULO V\nDAS ATUALIZAÇÕES E DO ENCERRAMENTO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1716,7 +2007,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO VI\nDAS DISPOSIÇÕES FINAIS"
+        "text": "CAPÍTULO VI\nDAS DISPOSIÇÕES FINAIS",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1732,7 +2024,8 @@
       },
       {
         "kind": "heading",
-        "text": "ANEXO I\nDA MINUTA DE ACORDO DE COOPERAÇÃO TÉCNICA"
+        "text": "ANEXO I\nDA MINUTA DE ACORDO DE COOPERAÇÃO TÉCNICA",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1744,59 +2037,133 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA PRIMEIRA\nDO OBJETO"
+        "text": "CLÁUSULA PRIMEIRA\nDO OBJETO",
+        "level": 3
       },
       {
         "kind": "paragraph",
         "text": "1.1. O objeto é a oferta de especialização lato sensu, inclusive MBA, com descontos aos profissionais elegíveis ao Eixo de Pós-graduação do Programa, conforme o processo administrativo nº [NÚMERO DO PROCESSO] e o quadro a seguir."
       },
       {
-        "kind": "paragraph",
-        "text": "QUADRO DAS OFERTAS E CONDIÇÕES"
+        "kind": "heading",
+        "text": "QUADRO DAS OFERTAS E CONDIÇÕES",
+        "level": 4
       },
       {
-        "kind": "paragraph",
-        "text": "CAMPO\nCONDIÇÃO ACORDADA"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Instituições responsáveis\n[IES EXECUTORA, MANTENEDORA, CNPJ, CREDENCIAMENTO, HABILITAÇÃO E RESPONSABILIDADES]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Curso e oferta\n[TÍTULO, OBJETIVOS, CONTEÚDO, CARGA HORÁRIA, DURAÇÃO, MODALIDADE, LOCAL OU PLATAFORMA]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Turmas e vagas\n[TURMAS, PERÍODOS, VAGAS E CONDIÇÕES DE FORMAÇÃO OU CANCELAMENTO]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Requisitos acadêmicos\n[INGRESSO, AVALIAÇÃO, CONCLUSÃO E EMISSÃO DO CERTIFICADO]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Preço de referência\n[PREÇO PÚBLICO, FONTE, DATA E CONDIÇÕES EQUIVALENTES DE COMPARAÇÃO]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Desconto e preço final\n[REDUÇÃO, BASE DE INCIDÊNCIA E PREÇO FINAL]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Custo total\n[MATRÍCULA, PARCELAS E TODOS OS ENCARGOS OBRIGATÓRIOS]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Pagamento\n[PRAZOS, PARCELAMENTO, REAJUSTES E CUMULAÇÃO]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Alcance e validade\n[PRAZO PARA ADESÃO, OFERTAS ABRANGIDAS E DURAÇÃO DO DESCONTO]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Atendimento\n[RECURSOS, EQUIPE, RESPONSÁVEIS, CANAIS ACADÊMICOS, FINANCEIROS E TECNOLÓGICOS E ACESSIBILIDADE]"
+        "kind": "table",
+        "rows": [
+          {
+            "cells": [
+              {
+                "text": "CAMPO"
+              },
+              {
+                "text": "CONDIÇÃO ACORDADA"
+              }
+            ],
+            "header": true
+          },
+          {
+            "cells": [
+              {
+                "text": "Instituições responsáveis"
+              },
+              {
+                "text": "[IES EXECUTORA, MANTENEDORA, CNPJ, CREDENCIAMENTO, HABILITAÇÃO E RESPONSABILIDADES]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Curso e oferta"
+              },
+              {
+                "text": "[TÍTULO, OBJETIVOS, CONTEÚDO, CARGA HORÁRIA, DURAÇÃO, MODALIDADE, LOCAL OU PLATAFORMA]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Turmas e vagas"
+              },
+              {
+                "text": "[TURMAS, PERÍODOS, VAGAS E CONDIÇÕES DE FORMAÇÃO OU CANCELAMENTO]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Requisitos acadêmicos"
+              },
+              {
+                "text": "[INGRESSO, AVALIAÇÃO, CONCLUSÃO E EMISSÃO DO CERTIFICADO]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Preço de referência"
+              },
+              {
+                "text": "[PREÇO PÚBLICO, FONTE, DATA E CONDIÇÕES EQUIVALENTES DE COMPARAÇÃO]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Desconto e preço final"
+              },
+              {
+                "text": "[REDUÇÃO, BASE DE INCIDÊNCIA E PREÇO FINAL]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Custo total"
+              },
+              {
+                "text": "[MATRÍCULA, PARCELAS E TODOS OS ENCARGOS OBRIGATÓRIOS]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Pagamento"
+              },
+              {
+                "text": "[PRAZOS, PARCELAMENTO, REAJUSTES E CUMULAÇÃO]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Alcance e validade"
+              },
+              {
+                "text": "[PRAZO PARA ADESÃO, OFERTAS ABRANGIDAS E DURAÇÃO DO DESCONTO]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Atendimento"
+              },
+              {
+                "text": "[RECURSOS, EQUIPE, RESPONSÁVEIS, CANAIS ACADÊMICOS, FINANCEIROS E TECNOLÓGICOS E ACESSIBILIDADE]"
+              }
+            ]
+          }
+        ]
       },
       {
         "kind": "paragraph",
@@ -1804,7 +2171,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA SEGUNDA\nDAS CONDIÇÕES DAS OFERTAS E DOS RECURSOS"
+        "text": "CLÁUSULA SEGUNDA\nDAS CONDIÇÕES DAS OFERTAS E DOS RECURSOS",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1816,7 +2184,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA TERCEIRA\nDAS RESPONSABILIDADES DA INSTITUIÇÃO PARTICIPANTE"
+        "text": "CLÁUSULA TERCEIRA\nDAS RESPONSABILIDADES DA INSTITUIÇÃO PARTICIPANTE",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1828,7 +2197,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA QUARTA\nDAS RESPONSABILIDADES DO CRA-SP"
+        "text": "CLÁUSULA QUARTA\nDAS RESPONSABILIDADES DO CRA-SP",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1836,7 +2206,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA QUINTA\nDA DIVULGAÇÃO E DOS USOS AUTORIZADOS"
+        "text": "CLÁUSULA QUINTA\nDA DIVULGAÇÃO E DOS USOS AUTORIZADOS",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1844,7 +2215,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA SEXTA\nDOS REGISTROS E DOS DADOS PESSOAIS"
+        "text": "CLÁUSULA SEXTA\nDOS REGISTROS E DOS DADOS PESSOAIS",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1852,7 +2224,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA SÉTIMA\nDA VIGÊNCIA E DO ACOMPANHAMENTO"
+        "text": "CLÁUSULA SÉTIMA\nDA VIGÊNCIA E DO ACOMPANHAMENTO",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1864,7 +2237,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA OITAVA\nDAS ALTERAÇÕES E DAS ADEQUAÇÕES"
+        "text": "CLÁUSULA OITAVA\nDAS ALTERAÇÕES E DAS ADEQUAÇÕES",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1876,7 +2250,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA NONA\nDO ENCERRAMENTO E DA CONTINUIDADE"
+        "text": "CLÁUSULA NONA\nDO ENCERRAMENTO E DA CONTINUIDADE",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1892,7 +2267,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA DÉCIMA\nDOS CASOS NÃO PREVISTOS"
+        "text": "CLÁUSULA DÉCIMA\nDOS CASOS NÃO PREVISTOS",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -1919,11 +2295,13 @@
     "blocks": [
       {
         "kind": "heading",
-        "text": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO"
+        "text": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DE SÃO PAULO",
+        "level": 2
       },
       {
         "kind": "heading",
-        "text": "RESOLUÇÃO NORMATIVA CRA-SP Nº [NÚMERO], DE [DIA] DE [MÊS] DE [ANO]"
+        "text": "RESOLUÇÃO NORMATIVA CRA-SP Nº [NÚMERO], DE [DIA] DE [MÊS] DE [ANO]",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1943,11 +2321,13 @@
       },
       {
         "kind": "heading",
-        "text": "RESOLVE:"
+        "text": "RESOLVE:",
+        "level": 2
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO I\nDO OBJETO E DA PARTICIPAÇÃO"
+        "text": "CAPÍTULO I\nDO OBJETO E DA PARTICIPAÇÃO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -1963,7 +2343,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO II\nDOS CRITÉRIOS DE ACEITAÇÃO"
+        "text": "CAPÍTULO II\nDOS CRITÉRIOS DE ACEITAÇÃO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -2015,7 +2396,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO III\nDA SOLICITAÇÃO, DA ANÁLISE E DA APROVAÇÃO"
+        "text": "CAPÍTULO III\nDA SOLICITAÇÃO, DA ANÁLISE E DA APROVAÇÃO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -2071,7 +2453,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO IV\nDA FORMALIZAÇÃO E DA EXECUÇÃO DA COOPERAÇÃO"
+        "text": "CAPÍTULO IV\nDA FORMALIZAÇÃO E DA EXECUÇÃO DA COOPERAÇÃO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -2107,7 +2490,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO V\nDAS ATUALIZAÇÕES E DO ENCERRAMENTO"
+        "text": "CAPÍTULO V\nDAS ATUALIZAÇÕES E DO ENCERRAMENTO",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -2139,7 +2523,8 @@
       },
       {
         "kind": "heading",
-        "text": "CAPÍTULO VI\nDAS DISPOSIÇÕES FINAIS"
+        "text": "CAPÍTULO VI\nDAS DISPOSIÇÕES FINAIS",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -2155,7 +2540,8 @@
       },
       {
         "kind": "heading",
-        "text": "ANEXO I\nDA MINUTA DE ACORDO DE COOPERAÇÃO TÉCNICA"
+        "text": "ANEXO I\nDA MINUTA DE ACORDO DE COOPERAÇÃO TÉCNICA",
+        "level": 2
       },
       {
         "kind": "paragraph",
@@ -2167,63 +2553,138 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA PRIMEIRA\nDO OBJETO"
+        "text": "CLÁUSULA PRIMEIRA\nDO OBJETO",
+        "level": 3
       },
       {
         "kind": "paragraph",
         "text": "1.1. O objeto é o acesso dos profissionais elegíveis ao Eixo de Certificações de Mercado às ofertas do quadro, com descontos ou bolsas integrais cedidas, conforme o processo administrativo nº [NÚMERO DO PROCESSO]."
       },
       {
-        "kind": "paragraph",
-        "text": "QUADRO DAS OFERTAS E CONDIÇÕES"
+        "kind": "heading",
+        "text": "QUADRO DAS OFERTAS E CONDIÇÕES",
+        "level": 4
       },
       {
-        "kind": "paragraph",
-        "text": "CAMPO\nCONDIÇÃO ACORDADA"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Certificação\n[NOME, ENTIDADE CERTIFICADORA, REGULAMENTO E EVIDÊNCIAS DE RECONHECIMENTO]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Instituição participante\n[TITULARIDADE OU AUTORIZAÇÃO E ANUÊNCIA DO CERTIFICADOR]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Processo e requisitos\n[ETAPAS, REQUISITOS, AVALIAÇÕES, APROVAÇÃO, EMISSÃO E AUTENTICIDADE]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Preço de referência\n[PREÇO PÚBLICO, FONTE, DATA E CONDIÇÕES COMPARÁVEIS]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Desconto e custos\n[BASE DE INCIDÊNCIA, REDUÇÃO, PREÇO FINAL E CUSTOS DE CADA ETAPA]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Prazo e validade\n[ADESÃO, DURAÇÃO DO DESCONTO, VALIDADE DA CERTIFICAÇÃO E CONDIÇÕES DE MANUTENÇÃO OU RENOVAÇÃO]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Bolsas cedidas\n[QUANTIDADE, PROCESSO INICIAL, DISPONIBILIDADE E PRAZOS]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Cobertura integral\n[TODAS AS ETAPAS E TAXAS OBRIGATÓRIAS; PREPARAÇÃO, AVALIAÇÕES E EMISSÃO INICIAL]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Tentativas\n[TENTATIVAS COBERTAS, REAPLICAÇÃO E ITENS OPCIONAIS OU FUTUROS]"
-      },
-      {
-        "kind": "paragraph",
-        "text": "Atendimento\n[RECURSOS, EQUIPE, RESPONSÁVEIS, CANAIS, ACESSIBILIDADE E COMPROVAÇÃO DA UTILIZAÇÃO]"
+        "kind": "table",
+        "rows": [
+          {
+            "cells": [
+              {
+                "text": "CAMPO"
+              },
+              {
+                "text": "CONDIÇÃO ACORDADA"
+              }
+            ],
+            "header": true
+          },
+          {
+            "cells": [
+              {
+                "text": "Certificação"
+              },
+              {
+                "text": "[NOME, ENTIDADE CERTIFICADORA, REGULAMENTO E EVIDÊNCIAS DE RECONHECIMENTO]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Instituição participante"
+              },
+              {
+                "text": "[TITULARIDADE OU AUTORIZAÇÃO E ANUÊNCIA DO CERTIFICADOR]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Processo e requisitos"
+              },
+              {
+                "text": "[ETAPAS, REQUISITOS, AVALIAÇÕES, APROVAÇÃO, EMISSÃO E AUTENTICIDADE]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Preço de referência"
+              },
+              {
+                "text": "[PREÇO PÚBLICO, FONTE, DATA E CONDIÇÕES COMPARÁVEIS]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Desconto e custos"
+              },
+              {
+                "text": "[BASE DE INCIDÊNCIA, REDUÇÃO, PREÇO FINAL E CUSTOS DE CADA ETAPA]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Prazo e validade"
+              },
+              {
+                "text": "[ADESÃO, DURAÇÃO DO DESCONTO, VALIDADE DA CERTIFICAÇÃO E CONDIÇÕES DE MANUTENÇÃO OU RENOVAÇÃO]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Bolsas cedidas"
+              },
+              {
+                "text": "[QUANTIDADE, PROCESSO INICIAL, DISPONIBILIDADE E PRAZOS]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Cobertura integral"
+              },
+              {
+                "text": "[TODAS AS ETAPAS E TAXAS OBRIGATÓRIAS; PREPARAÇÃO, AVALIAÇÕES E EMISSÃO INICIAL]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Tentativas"
+              },
+              {
+                "text": "[TENTATIVAS COBERTAS, REAPLICAÇÃO E ITENS OPCIONAIS OU FUTUROS]"
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "text": "Atendimento"
+              },
+              {
+                "text": "[RECURSOS, EQUIPE, RESPONSÁVEIS, CANAIS, ACESSIBILIDADE E COMPROVAÇÃO DA UTILIZAÇÃO]"
+              }
+            ]
+          }
+        ]
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA SEGUNDA\nDAS CONDIÇÕES DAS OFERTAS E DOS RECURSOS"
+        "text": "CLÁUSULA SEGUNDA\nDAS CONDIÇÕES DAS OFERTAS E DOS RECURSOS",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -2243,7 +2704,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA TERCEIRA\nDAS RESPONSABILIDADES DA INSTITUIÇÃO PARTICIPANTE"
+        "text": "CLÁUSULA TERCEIRA\nDAS RESPONSABILIDADES DA INSTITUIÇÃO PARTICIPANTE",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -2255,7 +2717,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA QUARTA\nDAS RESPONSABILIDADES DO CRA-SP"
+        "text": "CLÁUSULA QUARTA\nDAS RESPONSABILIDADES DO CRA-SP",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -2263,7 +2726,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA QUINTA\nDA DIVULGAÇÃO E DOS USOS AUTORIZADOS"
+        "text": "CLÁUSULA QUINTA\nDA DIVULGAÇÃO E DOS USOS AUTORIZADOS",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -2271,7 +2735,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA SEXTA\nDOS REGISTROS E DOS DADOS PESSOAIS"
+        "text": "CLÁUSULA SEXTA\nDOS REGISTROS E DOS DADOS PESSOAIS",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -2279,7 +2744,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA SÉTIMA\nDA VIGÊNCIA E DO ACOMPANHAMENTO"
+        "text": "CLÁUSULA SÉTIMA\nDA VIGÊNCIA E DO ACOMPANHAMENTO",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -2291,7 +2757,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA OITAVA\nDAS ALTERAÇÕES E DAS ADEQUAÇÕES"
+        "text": "CLÁUSULA OITAVA\nDAS ALTERAÇÕES E DAS ADEQUAÇÕES",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -2303,7 +2770,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA NONA\nDO ENCERRAMENTO E DA CONTINUIDADE"
+        "text": "CLÁUSULA NONA\nDO ENCERRAMENTO E DA CONTINUIDADE",
+        "level": 3
       },
       {
         "kind": "paragraph",
@@ -2319,7 +2787,8 @@
       },
       {
         "kind": "heading",
-        "text": "CLÁUSULA DÉCIMA\nDOS CASOS NÃO PREVISTOS"
+        "text": "CLÁUSULA DÉCIMA\nDOS CASOS NÃO PREVISTOS",
+        "level": 3
       },
       {
         "kind": "paragraph",
