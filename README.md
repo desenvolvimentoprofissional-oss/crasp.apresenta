@@ -27,5 +27,4 @@ As amostras de IA para Administradores usam `previewSeconds: 300`. O portal ence
 
 - `src/data/matrices.json` contém as dimensões, notas e pontos de verificação consultados na página de cada matriz.
 - `src/data/documents.json` contém o texto e as tabelas dos anexos exibidos nas páginas das quatro minutas.
-- `src/data/componentMedia.ts` contém as videoaulas do Componente Curricular e o link de compartilhamento do podcast no SharePoint.
 - `src/App.tsx` contém os links institucionais de cada produto.
